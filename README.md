@@ -21,7 +21,7 @@ The merge of the adversary datasets is based on a quick matching algorithm invol
 * **Total name variations: 1,351** (average of ~11 per group)
 * **Total number of associated ATT&CK techniques & sub-techniques: 364** (there are currently ~580 techniques & sub-techniques in the [Enterprise ATT&CK](https://attack.mitre.org/matrices/enterprise/) matrix)
 
-### A key anticipated use case for this repository is to support faster development of inputs to an organization's cyber threat model/profile.
+### A key anticipated use case for this repository is to support faster development of inputs to an organization's cyber threat model/profile:
 ![threatModel](https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/ttpCategories_transparent.png)
 Dropping these inputs into [Control Validation Compass](https://controlcompass.github.io/risk) enables further fast pivoting to relevant controls & validation tests aligned with each relevant top-priority TTP.
 
