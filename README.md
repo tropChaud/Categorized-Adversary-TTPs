@@ -49,4 +49,5 @@ Details and examples for using the data files in this repository are continuing 
 Immense thanks to the supporting teams and independent contributors to MITRE ATT&CK, and to Martijn van der Heide, the rest of ThaiCERT, and contributing CERT teams and security researchers supporting the Threat Group Cards project. Thank you for continuing to maintain and make publicly available these critical security resources.
 
 MITRE ATT&CK® is a registered trademark of The MITRE Corporation
+
 Threat Group Cards: A Threat Actor Encyclopedia is a Copyright © Electronic Transactions Development Agency, 2019-2022
