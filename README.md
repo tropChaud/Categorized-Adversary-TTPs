@@ -1,6 +1,8 @@
 # Categorized Adversary TTPs
 
-## MITRE ATT&CK x ThaiCERT = new pivot opportunities for TTP analysis & threat modeling
+### MITRE ATT&CK x ThaiCERT = new pivot opportunities for TTP analysis & threat modeling
+
+**[Main dataset](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/Categorized_Adversary_TTPs.json)**
 
 This is a (work in progress) partial merge of two powerful cyber adversary datasets, to capitalize on each one's strengths: [MITRE ATT&CK](https://attack.mitre.org/) and its **Group-to-TTP linkages**; and [ETDA/ThaiCERT](https://apt.etda.or.th/cgi-bin/aptgroups.cgi)'s Threat Group Cards and their **structured "metadata" fields**, containing supporting details about real-world cyber threat activity, such as victim industry & country and suspected attacker country & motivation.
 
