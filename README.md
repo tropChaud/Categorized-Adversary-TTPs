@@ -45,6 +45,8 @@ The rough merge of the datasets enables easier analysis along the following line
 
 Details and examples for using the data files in this repository are continuing to be build and live in the [<code>heatmaps</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/heatmaps) and [<code>csv_for_pivot_tables</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/csv_for_pivot_tables) folders.
 
+![threatModel](https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/ttpCategories.png)
+
 ## Acknowledgements
 Immense thanks to the supporting teams and independent contributors to MITRE ATT&CK, and to Martijn van der Heide, the rest of ThaiCERT, and contributing CERT teams and security researchers supporting the Threat Group Cards project. Thank you for continuing to maintain and make publicly available these critical security resources.
 
