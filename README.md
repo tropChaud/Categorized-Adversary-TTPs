@@ -6,9 +6,9 @@ This is a (work in progress) partial merge of two powerful cyber adversary datas
 
 Anecdotally, ThaiCERT's repository is less well-known yet it contains a wealth of useful - and importantly, structured, cyber threat event metadata. Among many other data points, the repository contains **400+ named adversary groups** and event metadata covering:
 
-* **42 industry sectors**
-* **150 victim countries**
-* **17 attacker countries**
+* **41 industry sectors**
+* **149 victim countries**
+* **16 attacker countries**
 * **4 attacker motivation categories**: Sabotage and destruction, Information theft and espionage, Financial gain (generally), and Financial crime (specifically)
 
 MITRE ATT&CK's popular knowledge base contains profiles on **130+ actor groups**. A key value of ATT&CK's dataset is its links between groups and their associated identified Tactics, Techniques, & Procedures, based on use observed in publicly reported threat activity. Tactics, Techniques & Sub-Techniques have unique identifiers allowing teams across the community to use a common language to refer back to the same TTPs.
@@ -38,8 +38,7 @@ Pharmaceutical Industry TTPs ([data](https://github.com/tropChaud/Categorized-Ad
 Details and examples for using the data files in this repository are continuing to be build and live in the [<code>heatmaps</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/heatmaps) and [<code>csv_for_pivot_tables</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/csv_for_pivot_tables) folders.
 
 ## Acknowledgements
-Immense thanks to 
-Martijn van der Heide (ThaiCERT)
+Immense thanks to the supporting teams and independent contributors to MITRE ATT&CK, and to Martijn van der Heide, the rest of ThaiCERT, and contributing CERT teams and security researchers supporting the Threat Group Cards project. Thank you for continuing to maintain and make publicly available these critical security resources.
 
 MITRE ATT&CK® is a registered trademark of The MITRE Corporation
 Threat Group Cards: A Threat Actor Encyclopedia is a Copyright © Electronic Transactions Development Agency, 2019-2022
