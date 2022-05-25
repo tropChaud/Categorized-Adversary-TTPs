@@ -13,7 +13,11 @@ Anecdotally, ThaiCERT's repository is less well-known yet it contains a wealth o
 
 MITRE ATT&CK's popular knowledge base contains profiles on **130+ actor groups**. A key value of ATT&CK's dataset is its links between groups and their associated identified Tactics, Techniques, & Procedures, based on use observed in publicly reported threat activity. Tactics, Techniques & Sub-Techniques have unique identifiers allowing teams across the community to use a common language to refer back to the same TTPs.
 
-The merge of the adversary datasets is based on a quick matching algorithm involving small twists on the **very many actor names and variations (1,300+!)** in each source. The script used to generate the dataset is available [here](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/app/ttpCategory.py) and structured for continuous updates to the dataset over time.
+The merge of the adversary datasets is based on a quick matching algorithm involving small twists on the **very many actor names and variations (1,300+!)** in each source. The script used to generate the dataset is available [here](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/app/ttpCategory.py) and structured for continuous updates to the dataset over time. The first merge, on May 24, 2022, yielded the following metrics around the output dataset contained here:
+
+* **Total adversary groups: 124**
+* **Total name variations: 1,351** (average of ~11 per group)
+* **Total number of associated ATT&CK techniques & sub-techniques: 364** (there are currently ~580 techniques & sub-techniques in the [Enterprise ATT&CK](https://attack.mitre.org/matrices/enterprise/) matrix)
 
 ### A key anticipated use case for this repository is to support faster development of inputs to an organization's cyber threat model/profile.
 ![threatModel](https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/ttpCategories_transparent.png)
