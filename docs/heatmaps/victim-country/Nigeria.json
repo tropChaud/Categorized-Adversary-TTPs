@@ -6,7 +6,7 @@
         "layer": "4.3"
     },
     "domain": "enterprise-attack",
-    "description": "Heatmap of (sub)techniques for \"Nigeria",
+    "description": "Heatmap of (sub)techniques for cyber threat activity involving entities located in Nigeria. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nSources:\n\nMITRE ATT&CK: https://attack.mitre.org/\n\nThaiCERT/ETDA: https://apt.etda.or.th/cgi-bin/aptgroups.cgi",
     "techniques": [
         {
             "techniqueID": "T1046",
