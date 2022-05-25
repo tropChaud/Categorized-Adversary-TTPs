@@ -23,15 +23,15 @@ The rough merge of the datasets enables easier analysis along the following line
 
 * What is the distribution of TTPs used against a given industry, and/or how does that compare to other industries? For example:
 
-Aerospace Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Aerospace.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FAerospace.json))
+**Aerospace Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Aerospace.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FAerospace.json))**
 
-Pharmaceutical Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Pharmaceutical.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FPharmaceutical.json))
+Pharmaceutical Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Pharmaceutical.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FPharmaceutical.json))**
 
 * What is the distribution of TTPs used by certain types of adversaries, based on their motivations, and/or how does that compare to other types of adversaries? For example:
 
-"Information theft and espionage" Adversary TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/motivations/Information%20theft%20and%20espionage.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Fmotivations%2FInformation%20theft%20and%20espionage.json))
+**"Information theft and espionage" Adversary TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/motivations/Information%20theft%20and%20espionage.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Fmotivations%2FInformation%20theft%20and%20espionage.json))**
 
-"Financial crime" Adversary TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/motivations/Financial%20crime.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Fmotivations%2FFinancial%20crime.json))
+**"Financial crime" Adversary TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/motivations/Financial%20crime.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Fmotivations%2FFinancial%20crime.json))**
 
 # Using Categorized Adversary TTPs
 
