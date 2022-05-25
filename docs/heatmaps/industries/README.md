@@ -1,4 +1,4 @@
-###View live heatmaps directly within ATT&CK Navigator using the links below:
+#### View live heatmap visualizations - directly within ATT&CK Navigator - using the links below:
 
 * [Automotive](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2FAutomotive.json)
 * [Education](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2FEducation.json)
