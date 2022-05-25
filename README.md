@@ -25,7 +25,7 @@ The rough merge of the datasets enables easier analysis along the following line
 
 **Aerospace Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Aerospace.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FAerospace.json))**
 
-Pharmaceutical Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Pharmaceutical.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FPharmaceutical.json))**
+**Pharmaceutical Industry TTPs ([data](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/docs/heatmaps/industries/Pharmaceutical.json), [live visualization](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FPharmaceutical.json))**
 
 * What is the distribution of TTPs used by certain types of adversaries, based on their motivations, and/or how does that compare to other types of adversaries? For example:
 
