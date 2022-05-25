@@ -16,7 +16,7 @@ MITRE ATT&CK's popular knowledge base contains profiles on **130+ actor groups**
 The merge of the adversary datasets is based on a quick matching algorithm involving small twists on the very many actor names and variations in each source. The script used to generate the dataset is available [here](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/app/ttpCategory.py) and structured for continuous updates to the dataset over time.
 
 ### A key anticipated use case for this repository is to support faster development of inputs to an organization's cyber threat model/profile.
-
+![threatModel](https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/ttpCategories_transparent.png)
 Dropping these inputs into [Control Validation Compass](https://controlcompass.github.io/risk) enables further fast pivoting to relevant controls & validation tests aligned with each relevant top-priority TTP.
 
 The rough merge of the datasets enables easier analysis along the following lines:
@@ -44,8 +44,6 @@ The rough merge of the datasets enables easier analysis along the following line
 # Using Categorized Adversary TTPs
 
 Details and examples for using the data files in this repository are continuing to be build and live in the [<code>heatmaps</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/heatmaps) and [<code>csv_for_pivot_tables</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/csv_for_pivot_tables) folders.
-
-![threatModel](https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/ttpCategories_transparent.png)
 
 ## Acknowledgements
 Immense thanks to the supporting teams and independent contributors to MITRE ATT&CK, and to Martijn van der Heide, the rest of ThaiCERT, and contributing CERT teams and security researchers supporting the Threat Group Cards project. Thank you for continuing to maintain and make publicly available these critical security resources.
