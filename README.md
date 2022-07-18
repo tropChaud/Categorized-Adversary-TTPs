@@ -4,6 +4,10 @@
 
 **[Main dataset](https://github.com/tropChaud/Categorized-Adversary-TTPs/blob/main/Categorized_Adversary_TTPs.json)**
 
+**Quick tutorial:**
+
+[![Cyber Adversary Threat Modeling with Quick TTP Heatmaps | ATT&CK x ThaiCERT Actors & Malware](https://img.youtube.com/vi/aZtxGQUy2AI/0.jpg)](https://www.youtube.com/watch?v=aZtxGQUy2AI "Cyber Adversary Threat Modeling with Quick TTP Heatmaps | ATT&CK x ThaiCERT Actors & Malware")
+
 This is a (work in progress) partial merge of two powerful cyber adversary datasets, to capitalize on each one's strengths: [MITRE ATT&CK](https://attack.mitre.org/) and its **Group-to-TTP linkages**; and [ETDA/ThaiCERT](https://apt.etda.or.th/cgi-bin/aptgroups.cgi)'s Threat Group Cards and their **structured "metadata" fields**, containing supporting details about real-world cyber threat activity, such as victim industry & country and suspected attacker country & motivation.
 
 Anecdotally, ThaiCERT's repository is less well-known yet it contains a wealth of useful - and importantly, structured, cyber threat event metadata. Among many other data points, the repository contains **400+ named adversary groups** and event metadata covering:
@@ -49,7 +53,9 @@ The rough merge of the datasets enables easier analysis along the following line
 
 # Using Categorized Adversary TTPs
 
-Details and examples for using the data files in this repository are continuing to be build and live in the [<code>heatmaps</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/heatmaps) and [<code>csv_for_pivot_tables</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/csv_for_pivot_tables) folders.
+See the quick tutorial [here](https://www.youtube.com/watch?v=aZtxGQUy2AI)
+
+Details and examples for using the data files in this repository are continuing to be built and live in the [<code>heatmaps</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/heatmaps) and [<code>csv_for_pivot_tables</code>](https://github.com/tropChaud/Categorized-Adversary-TTPs/tree/main/docs/csv_for_pivot_tables) folders.
 
 ## Acknowledgements
 Immense thanks to the supporting teams and independent contributors to MITRE ATT&CK, and to Martijn van der Heide, the rest of ThaiCERT, and contributing CERT teams and security researchers supporting the Threat Group Cards project. Thank you for continuing to maintain and make publicly available these critical security resources.
