@@ -1,0 +1,112 @@
+{
+    "name": "HAFNIUM, Operation Exchange Marauder, Hafnium",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for HAFNIUM, Operation Exchange Marauder, Hafnium. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0125\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7c88c982-c383-4552-90b4-cbb67ec5240f",
+    "techniques": [
+        {
+            "techniqueID": "T1583.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1567.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1095",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1136.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1592.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1590.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1590",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1132.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

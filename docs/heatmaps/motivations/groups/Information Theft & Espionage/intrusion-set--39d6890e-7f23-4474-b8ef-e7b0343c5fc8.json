@@ -1,0 +1,76 @@
+{
+    "name": "Andariel, Silent Chollima, Stonefly, Operation \u201cBLACKMINE\u201d, Operation \u201cGHOSTRAT\u201d, Operation \u201cXEDA\u201d, Operation \u201cINITROY\u201d/Phase 1, Operation \u201cDESERTWOLF\u201d/Phase 3, Operation \u201cBLACKSHEEP\u201d/Phase 3., Operation \u201cINITROY\u201d/Phase 2, Operation \u201cVANXATM\u201d, Operation \u201cMayday\u201d, Operation \u201cGoldenAxe\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Andariel, Silent Chollima, Stonefly, Operation \u201cBLACKMINE\u201d, Operation \u201cGHOSTRAT\u201d, Operation \u201cXEDA\u201d, Operation \u201cINITROY\u201d/Phase 1, Operation \u201cDESERTWOLF\u201d/Phase 3, Operation \u201cBLACKSHEEP\u201d/Phase 3., Operation \u201cINITROY\u201d/Phase 2, Operation \u201cVANXATM\u201d, Operation \u201cMayday\u201d, Operation \u201cGoldenAxe\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0138\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=00089621-cabc-421a-b2ce-3fd18f6bfa9c",
+    "techniques": [
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1590.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1592.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1049",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

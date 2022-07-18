@@ -1,0 +1,80 @@
+{
+    "name": "Silent Librarian, TA407, COBALT DICKENS, Mabna Institute, Cobalt Dickens, Yellow Nabu, TA4900",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Silent Librarian, TA407, COBALT DICKENS, Mabna Institute, Cobalt Dickens, Yellow Nabu, TA4900. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0122\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dfa23dfc-0cb8-4621-bde5-1583e1e7bfa4",
+    "techniques": [
+        {
+            "techniqueID": "T1598.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1594",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1608.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1110.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

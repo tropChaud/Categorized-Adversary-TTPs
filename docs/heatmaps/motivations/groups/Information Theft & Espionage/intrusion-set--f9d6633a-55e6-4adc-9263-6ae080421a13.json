@@ -1,0 +1,204 @@
+{
+    "name": "Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, APT 35, Cobalt Illusion, TEMP.Beanie, Timberworm, Tarh Andishan, TunnelVision, UNC788, Operation \u201cThamar Reservoir\u201d, Operation \u201cBadBlood\u201d, Operation \u201cSpoofedScholars\u201d, Cobalt Gypsy",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, APT 35, Cobalt Illusion, TEMP.Beanie, Timberworm, Tarh Andishan, TunnelVision, UNC788, Operation \u201cThamar Reservoir\u201d, Operation \u201cBadBlood\u201d, Operation \u201cSpoofedScholars\u201d, Cobalt Gypsy. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0059\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bb9b25ed-9ddc-4f65-bd01-ab8d6efc34ac",
+    "techniques": [
+        {
+            "techniqueID": "T1071",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1564.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1586.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1113",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1595.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1102.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1043",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1098.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1598.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1571",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1065",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1584.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

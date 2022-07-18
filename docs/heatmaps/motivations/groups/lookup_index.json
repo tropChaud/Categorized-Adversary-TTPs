@@ -1,0 +1,632 @@
+[
+    {
+        "id": "UNC2452, NOBELIUM, StellarParticle, Dark Halo, APT 29, Cozy Bear, The Dukes, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Operation \u201cGhost\u201d, Operation \u201cOffice monkeys\u201d, Operation \u201cStellarParticle\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--dc5e2999-ca1a-47d4-8d12-a6984b138a1b.json"
+    },
+    {
+        "id": "Cleaver, Threat Group 2889, TG-2889, Cutting Kitten, Operation \u201cCleaver\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--8f5e8dc7-739d-4f5e-a8a1-a66e004d7063.json"
+    },
+    {
+        "id": "GCMAN",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--0ea72cd5-ca30-46ba-bc04-378f701c658f.json"
+    },
+    {
+        "id": "Wizard Spider, UNC1878, TEMP.MixMaster, Grim Spider, Gold Blackburn, Gold Ulrick, ITG23, Operation \u201cBazaFlix\u201d",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7.json"
+    },
+    {
+        "id": "Wizard Spider, UNC1878, TEMP.MixMaster, Grim Spider, Gold Blackburn, Gold Ulrick, ITG23, Operation \u201cBazaFlix\u201d",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7.json"
+    },
+    {
+        "id": "Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, APT 35, Cobalt Illusion, TEMP.Beanie, Timberworm, Tarh Andishan, TunnelVision, UNC788, Operation \u201cThamar Reservoir\u201d, Operation \u201cBadBlood\u201d, Operation \u201cSpoofedScholars\u201d, Cobalt Gypsy",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--f9d6633a-55e6-4adc-9263-6ae080421a13.json"
+    },
+    {
+        "id": "Threat Group-3390, Earth Smilodon, TG-3390, Emissary Panda, BRONZE UNION, APT27, Iron Tiger, LuckyMouse, APT 27, Bronze Union, TEMP.Hippo, Budworm, Group 35, ATK 15, ZipToken, Operation \u201cIron Tiger\u201d, Operation \u201cPZChao\u201d, Operation \u201cSpoiledLegacy\u201d, Operation \u201cDRBControl\u201d, Operation \u201cStealthyTrident\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fb366179-766c-4a4a-afa1-52bff1fd601c.json"
+    },
+    {
+        "id": "Silence, WHISPER SPIDER, Contract Crew, Whisper Spider, TEMP.TruthTeller, ATK 86, TAG-CR8",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--d13c8a7f-740b-4efa-a232-de7d6bb05321.json"
+    },
+    {
+        "id": "Lazarus Group, Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Group 77, Hastati Group, Whois Hacking Team, NewRomanic Cyber Army Team, Zinc, Hidden Cobra, Appleworm, APT-C-26, ATK 3, SectorA01, ITG03, Operation \u201cFlame\u201d, Operation \u201cTroy\u201d, Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d, Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment, Operation \u201cGhostSecret\u201d, Operation \u201cAppleJeus\u201d, Operation \u201cCryptoCore\u201d, Operation \u201cSharpshooter\u201d, Operation \u201cAppleJeus sequel\u201d, Operation \u201cIn(ter)caption\u201d, Operation \u201cNorth Star\u201d, Operation \u201cDream Job\u201d, Operation \u201cLolZarus\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a.json"
+    },
+    {
+        "id": "Lazarus Group, Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Group 77, Hastati Group, Whois Hacking Team, NewRomanic Cyber Army Team, Zinc, Hidden Cobra, Appleworm, APT-C-26, ATK 3, SectorA01, ITG03, Operation \u201cFlame\u201d, Operation \u201cTroy\u201d, Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d, Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment, Operation \u201cGhostSecret\u201d, Operation \u201cAppleJeus\u201d, Operation \u201cCryptoCore\u201d, Operation \u201cSharpshooter\u201d, Operation \u201cAppleJeus sequel\u201d, Operation \u201cIn(ter)caption\u201d, Operation \u201cNorth Star\u201d, Operation \u201cDream Job\u201d, Operation \u201cLolZarus\u201d",
+        "category": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Sabotage%20&%20Destruction/intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a.json"
+    },
+    {
+        "id": "Lazarus Group, Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Group 77, Hastati Group, Whois Hacking Team, NewRomanic Cyber Army Team, Zinc, Hidden Cobra, Appleworm, APT-C-26, ATK 3, SectorA01, ITG03, Operation \u201cFlame\u201d, Operation \u201cTroy\u201d, Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d, Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment, Operation \u201cGhostSecret\u201d, Operation \u201cAppleJeus\u201d, Operation \u201cCryptoCore\u201d, Operation \u201cSharpshooter\u201d, Operation \u201cAppleJeus sequel\u201d, Operation \u201cIn(ter)caption\u201d, Operation \u201cNorth Star\u201d, Operation \u201cDream Job\u201d, Operation \u201cLolZarus\u201d",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a.json"
+    },
+    {
+        "id": "APT41, WICKED PANDA, Double Dragon, TG-2633, Bronze Atlas, Red Kelpie, Blackfly, Earth Baku, SparklingGoblin, Grayfly, Operation \u201cShadowHammer\u201d, Operation \u201cColunmTK\u201d, APT 41",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--18854f55-ac7c-4634-bd9a-352dd07613b7.json"
+    },
+    {
+        "id": "APT41, WICKED PANDA, Double Dragon, TG-2633, Bronze Atlas, Red Kelpie, Blackfly, Earth Baku, SparklingGoblin, Grayfly, Operation \u201cShadowHammer\u201d, Operation \u201cColunmTK\u201d, APT 41",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--18854f55-ac7c-4634-bd9a-352dd07613b7.json"
+    },
+    {
+        "id": "BlackTech, Palmerworm, Circuit Panda, Radio Panda, TEMP.Overboard, T-APT-03, Operation \u201cShrouded Crossbow\u201d, Operation \u201cPLEAD\u201d, Operation \u201cWaterbear\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6fe8a2a1-a1b0-4af8-953d-4babd329f8f8.json"
+    },
+    {
+        "id": "Higaisa, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, T-APT-02, Luder, Operation \u201cDarkHotel\u201d, Operation \u201cDaybreak\u201d, Operation \u201cInexsmar\u201d, Operation \u201cThe Gh0st Remains the Same\u201d, Operation \u201cPowerFall\u201d, DarkHotel",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--54dfec3e-6464-4f74-9d69-b7c817b7e5a3.json"
+    },
+    {
+        "id": "APT29, IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, StellarParticle, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, APT 29, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Operation \u201cGhost\u201d, Operation \u201cOffice monkeys\u201d, Operation \u201cStellarParticle\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--899ce53f-13a0-479b-a0e4-67d46e241542.json"
+    },
+    {
+        "id": "Turla, IRON HUNTER, Group 88, Belugasturgeon, Waterbug, WhiteBear, VENOMOUS BEAR, Snake, Krypton, Venomous Bear, SIG2, SIG15, SIG23, Iron Hunter, CTG-8875, Pacifier APT, ATK 13, ITG12, Makersmark, Popeye, Wraith, TAG-0530, Operation \u201cMoonlight Maze\u201d, Operation \u201cEpic Turla\u201d, Operation \u201cPenguin Turla\u201d, Operation \u201cSatellite Turla\u201d, Operation \u201cWITCHCOVEN\u201d, Operation \u201cSkipper Turla\u201d, Operation \u201cTurla Mosquito\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--7a19ecb1-3c65-4de3-a230-993516aed6a6.json"
+    },
+    {
+        "id": "Sandworm Team, ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, VOODOO BEAR, Iron Viking, CTG-7263, Voodoo Bear, TEMP.Noble, ATK 14, BE2, UAC-0082",
+        "category": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Sabotage%20&%20Destruction/intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192.json"
+    },
+    {
+        "id": "Chimera, Operation \u201cSkeleton Key\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--8c1f0187-0826-4320-bddc-5f326cfcfe2c.json"
+    },
+    {
+        "id": "BackdoorDiplomacy",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--9735c036-8ebe-47e9-9c77-b0ae656dab93.json"
+    },
+    {
+        "id": "Windshift, Bahamut, WindShift",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--afec6dc3-a18e-4b62-b1a4-5510e1a498d1.json"
+    },
+    {
+        "id": "FIN4, Wolf Spider",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--d0b3393b-3bec-4ba3-bda9-199d30db47b6.json"
+    },
+    {
+        "id": "APT38, NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, APT 38, CTG-6459, Nickel Gladstone, T-APT-15, ATK 117",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--00f67a77-86a4-4adf-be26-1a54fc713340.json"
+    },
+    {
+        "id": "Darkhotel, DUBNIUM, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, Higaisa, T-APT-02, Luder, Operation \u201cDarkHotel\u201d, Operation \u201cDaybreak\u201d, Operation \u201cInexsmar\u201d, Operation \u201cThe Gh0st Remains the Same\u201d, Operation \u201cPowerFall\u201d, DarkHotel",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--9e729a7e-0dd6-4097-95bf-db8d64911383.json"
+    },
+    {
+        "id": "Ke3chang, APT15, Mirage, Vixen Panda, GREF, Playful Dragon, RoyalAPT, NICKEL, APT 15, Bronze Palace, Bronze Davenport, Bronze Idlewood, CTG-9246, Royal APT, Nickel, Metushy, Social Network Team, Operation \u201cKe3chang\u201d, Operation \u201cMirageFox\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6713ab67-e25b-49cc-808d-2b36d4fbc35c.json"
+    },
+    {
+        "id": "Mustang Panda, TA416, RedDelta, BRONZE PRESIDENT, Bronze President, TEMP.Hex, HoneyMyte, Red Lich",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--420ac20b-f2b9-42b8-aa1a-6d4b72895ca4.json"
+    },
+    {
+        "id": "Kimsuky, STOLEN PENCIL, Thallium, Black Banshee, Velvet Chollima, Cerium, ITG16, TA406, Operation \u201cBaby Coin\u201d, Operation \u201cStolen Pencil\u201d, Operation \u201cMystery Baby\u201d, Operation \u201cKabar Cobra\u201d, Operation \u201cStealth Power\u201d, Operation \u201cSmoke Screen\u201d, Operation \u201cRed Salt\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--0ec2f388-bf0f-4b5c-97b1-fc736d26c25f.json"
+    },
+    {
+        "id": "Whitefly, Mofang, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--b74f909f-8e52-4b69-b770-162bf59a1b4e.json"
+    },
+    {
+        "id": "Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, APT40, TEMP.Periscope, APT 40, Bronze Mohawk, Mudcarp, ATK 29, ITG09",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--7113eaa5-ba79-4fb3-b68a-398ee9cd698e.json"
+    },
+    {
+        "id": "TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation \u201cTrident Breach\u201d, Operation \u201cTovar\u201d",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--7eda3dd8-b09b-4705-8090-c2ad9fb8c14d.json"
+    },
+    {
+        "id": "TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation \u201cTrident Breach\u201d, Operation \u201cTovar\u201d",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--7eda3dd8-b09b-4705-8090-c2ad9fb8c14d.json"
+    },
+    {
+        "id": "APT3, Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, APT 3, Bronze Mayfair, Group 6, Operation \u201cClandestine Fox\u201d, Operation \u201cClandestine Fox\u201d, Part Deux, Operation \u201cDouble Tap\u201d, Operation \u201cClandestine Wolf\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--0bbdf25b-30ff-4894-a1cd-49260d0dd2d9.json"
+    },
+    {
+        "id": "TEMP.Veles, XENOTIME, Xenotime, ATK 91",
+        "category": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Sabotage%20&%20Destruction/intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4.json"
+    },
+    {
+        "id": "OilRig, COBALT GYPSY, IRN2, HELIX KITTEN, APT34, APT 34, Helix Kitten, Twisted Kitten, Crambus, Chrysene, Cobalt Gypsy, TA452, ATK 40, ITG13",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d.json"
+    },
+    {
+        "id": "Inception, Inception Framework, Cloud Atlas, Oxygen, ATK 116, The Rocra, Operation \u201cRedOctober\u201d, Operation \u201cCloud Atlas\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--ead23196-d7b6-4ce6-a124-4ab4b67d81bd.json"
+    },
+    {
+        "id": "Cobalt Group, GOLD KINGSWOOD, Cobalt Gang, Cobalt Spider, Gold Kingswood, ATK 67, TAG-CR3",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--dc6fe6ee-04c2-49be-ba3d-f38d2463c02a.json"
+    },
+    {
+        "id": "APT18, TG-0416, Dynamite Panda, Threat Group-0416, APT 18, Wekby, Scandium",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--38fd6a28-3353-4f2b-bb2b-459fecd5c648.json"
+    },
+    {
+        "id": "APT12, IXESHE, DynCalc, Numbered Panda, DNSCALC, APT 12, CTG-8223, Bronze Globe, BeeBus, Calc Team, DynCALC, DNSCalc, Group 22, Crimson Iron",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c47f937f-1022-4f42-8525-e7a4779a14cb.json"
+    },
+    {
+        "id": "MuddyWater, Earth Vetala , MERCURY, Static Kitten, Seedworm, TEMP.Zagros, Mercury, TA450, Cobalt Ulster, ATK 51, T-APT-14, ITG17, Operation \u201cBlackWater\u201d, Operation \u201cQuicksand\u201d, Operation \u201cEarth Vetala\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--269e8108-68c6-4f99-b911-14b2e765dec2.json"
+    },
+    {
+        "id": "Night Dragon",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--23b6a0f5-fa95-46f9-a6f3-4549c5e45ec8.json"
+    },
+    {
+        "id": "Dark Caracal, ATK 27, TAG-CT3, Operation \u201cDark Caracal\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--8a831aaa-f3e0-47a3-bed8-a9ced744dd12.json"
+    },
+    {
+        "id": "Elderwood, Elderwood Gang, Beijing Group, Sneaky Panda, APT 17, Tailgater Team, SIG22, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, Deputy Dog, ATK 2, Operation Aurora, Operation \u201cDeputyDog\u201d, Operation \u201cEphemeral Hydra\u201d, Operation \u201cRAT Cook\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--03506554-5f37-4f8f-9ce4-0e9f01a1b484.json"
+    },
+    {
+        "id": "Transparent Tribe, COPPER FIELDSTONE, APT36, Mythic Leopard, ProjectM, APT 36, TEMP.Lapis, Copper Fieldstone, Earth Karkaddan, Operation \u201cTransparent Tribe\u201d, Operation \u201cC-Major\u201d, Operation \u201cHoney Trap\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--e44e0985-bc65-4a8f-b578-211c858128e3.json"
+    },
+    {
+        "id": "Stealth Falcon, FruityArmor, Project Raven",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--894aab42-3371-47b1-8859-a4a074c804c8.json"
+    },
+    {
+        "id": "APT19, Codoso, C0d0so0, Codoso Team, Sunshop Group, APT 19, Deep Panda, TG-3551, Bronze Firestone, Pupa, Operation \u201cKingslayer\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fe8796a4-2a02-41a0-9d27-7aa1e995feb6.json"
+    },
+    {
+        "id": "Molerats, Operation Molerats, Gaza Cybergang, Extreme Jackal, Gaza Hackers Team, TA402, Aluminum Saratoga, ATK 89, TAG-CT5, Operation \u201cMolerats\u201d, Operation \u201cMoonlight\u201d, Operation \u201cDustySky\u201d, Operation \u201cDustySky\u201d Part 2, Operation \u201cTopHat\u201d, Operation \u201cSneakyPastes\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--df71bb3b-813c-45eb-a8bc-f2a419837411.json"
+    },
+    {
+        "id": "Tropic Trooper, Pirate Panda, KeyBoy, APT 23, Iron, Bronze Hobart, Earth Centaur, Operation \u201cTropic Trooper\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--56319646-eb6e-41fc-ae53-aadfa7adb924.json"
+    },
+    {
+        "id": "Patchwork, Hangover Group, Dropping Elephant, Chinastrats, MONSOON, Operation Hangover, APT-C-09, Monsoon, Quilted Tiger, TG-4410, Zinc Emerson, ATK 11",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--17862c7d-9e60-48a0-b48e-da4dc4c3f6b0.json"
+    },
+    {
+        "id": "APT33, HOLMIUM, Elfin, APT 33, Magnallium, Holmium, ATK 35, Refined Kitten, TA451, Cobalt Trinity",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f.json"
+    },
+    {
+        "id": "APT33, HOLMIUM, Elfin, APT 33, Magnallium, Holmium, ATK 35, Refined Kitten, TA451, Cobalt Trinity",
+        "category": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Sabotage%20&%20Destruction/intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f.json"
+    },
+    {
+        "id": "FIN6, Magecart Group 6, SKELETON SPIDER, ITG08, Skeleton Spider, Gold Franklin, White Giant, ATK 88, TAG-CR2",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb.json"
+    },
+    {
+        "id": "FIN6, Magecart Group 6, SKELETON SPIDER, ITG08, Skeleton Spider, Gold Franklin, White Giant, ATK 88, TAG-CR2",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb.json"
+    },
+    {
+        "id": "The White Company, Operation \u201cShaheen\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6688d679-ccdb-4f12-abf6-c7545dd767a4.json"
+    },
+    {
+        "id": "menuPass, Cicada, POTASSIUM, Stone Panda, APT10, Red Apollo, CVNX, HOGFISH, APT 10, menuPass Team, Potassium, Hogfish, Happyyongzi, Bronze Riverside, CTG-5938, ATK 41, TA429, ITG01, Operation \u201cCloud Hopper\u201d, Operation \u201cTradeSecret\u201d, Operation \u201cChessMaster\u201d, Operation \u201cSoft Cell\u201d, Operation \u201cNew Battle\u201d, Operation \u201cA41APT\u201d, Operation \u201cCache Panda\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--222fbd21-fc4f-4b7e-9f85-0e6e3a76c33f.json"
+    },
+    {
+        "id": "Naikon, Hellsing, Lotus Panda, ITG06, Operation \u201cCameraShy\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--2a158b0a-7ef8-43cb-9985-bf34d1e12050.json"
+    },
+    {
+        "id": "Sidewinder, T-APT-04, Rattlesnake, SideWinder, APT-C-17",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--3fc023b2-c5cc-481d-9c3e-70141ae1a87e.json"
+    },
+    {
+        "id": "Ferocious Kitten",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6566aac9-dad8-4332-ae73-20c23bad7f02.json"
+    },
+    {
+        "id": "Rocke, Iron Group",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--44102191-3a31-45f8-acbe-34bdb441d5ad.json"
+    },
+    {
+        "id": "APT32, SeaLotus, OceanLotus, APT-C-00, APT 32, Ocean Buffalo, Tin Woodlawn, ATK 17, SectorF01, Operation \u201cPhantomLance\u201d, Operation \u201cCobalt Kitty\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--247cb30b-955f-42eb-97a5-a89fef69341e.json"
+    },
+    {
+        "id": "admin@338, Temper Panda, Team338, Magnesium",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--16ade1aa-0ea1-4bb7-88cc-9079df2ae756.json"
+    },
+    {
+        "id": "FIN7, GOLD NIAGARA, ITG14, Carbon Spider, Gold Niagara, Calcium, Navigator, ATK 32, APT-C-11, TAG-CR1",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--3753cc21-2dae-4dfb-8481-d004e74502cc.json"
+    },
+    {
+        "id": "Taidoor, Budminer",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--59140a2e-d117-4206-9b2c-2a8662bd9d46.json"
+    },
+    {
+        "id": "Dragonfly, TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Group 24, Koala Team, Iron Liberty, Electrum, ATK 6, ITG15, Bromine",
+        "category": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Sabotage%20&%20Destruction/intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1.json"
+    },
+    {
+        "id": "APT1, Comment Crew, Comment Group, Comment Panda, TG-8223, APT 1, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shanghai Group, GIF89a, Operation \u201cSeasalt\u201d, Operation \u201cSiesta\u201d, Operation \u201cOceansalt\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6a2e693f-24e5-451a-9f88-b36a108e5662.json"
+    },
+    {
+        "id": "APT28, IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, APT 28, Strontium, SIG40, Snakemackerel, Iron Twilight, ATK 5, T-APT-12, ITG05, TAG-0700, UAC-0028, Grizzly Steppe, Operation \u201cPawn Storm\u201d, Operation \u201cRussian Doll\u201d, Operation \u201cKomplex\u201d, Operation \u201cDealersChoice\u201d, Operation \u201cDear Joohn\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--bef4c620-0787-42a8-a96d-b7eb6e85917c.json"
+    },
+    {
+        "id": "PROMETHIUM, StrongPity, Promethium, APT-C-41",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--efed95ba-d7e8-47ff-8c53-99c42426ee7c.json"
+    },
+    {
+        "id": "BRONZE BUTLER, REDBALDKNIGHT, Tick, Bronze Butler, CTG-2006, TEMP.Tick, RedBaldNight, Stalker Panda, Operation \u201cENDTRADE\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--93f52415-0fe4-4d3d-896c-fc9b8e88ab90.json"
+    },
+    {
+        "id": "ZIRCONIUM, APT31, APT 31, Judgment Panda, Zirconium, RedBravo, Bronze Vinewood",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--4283ae19-69c7-4347-a35e-b56f08eb660b.json"
+    },
+    {
+        "id": "IndigoZebra",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--e5603ea8-4c36-40e7-b7af-a077d24fedc1.json"
+    },
+    {
+        "id": "Tonto Team, Earth Akhlut, BRONZE HUNTLEY, CactusPete, Karma Panda, HeartBeat, Bronze Huntley, LoneRanger, Operation \u201cBitter Biscuit\u201d, HartBeat",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c5b81590-6814-4d2a-8baa-15c4b6c7f960.json"
+    },
+    {
+        "id": "HAFNIUM, Operation Exchange Marauder, Hafnium",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--2688b13e-8e71-405a-9c40-0dee94bddf87.json"
+    },
+    {
+        "id": "Deep Panda, Shell Crew, WebMasters, KungFu Kittens, PinkPanther, Black Vine, APT 19, Codoso, Sunshop Group, TG-3551, Bronze Firestone, Pupa, Operation \u201cKingslayer\u201d, C0d0so0",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--a653431d-6a5e-4600-8ad3-609b5af57064.json"
+    },
+    {
+        "id": "Leafminer, Raspite, Flash Kitten",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--32bca8ff-d900-4877-aa65-d70baa041b74.json"
+    },
+    {
+        "id": "Evilnum, Jointworm, Operation \u201cPhantom in the Command Shell\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--1f0f9a14-11aa-49aa-9174-bcd0eaa979de.json"
+    },
+    {
+        "id": "Gamaredon Group, IRON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Winterflounder, BlueAlpha, Blue Otso, Iron Tilden, SectorC08, Callisto, Actinium, UAC-0010",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--2e290bfe-93b5-48ce-97d6-edcd6d32b7cf.json"
+    },
+    {
+        "id": "LazyScripter",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--abc5a1d4-f0dc-49d1-88a1-4a80e478bb03.json"
+    },
+    {
+        "id": "Putter Panda, APT2, MSUpdater, TG-6952, APT 2, Group 36, Sulphur",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--5ce5392a-3a6c-4e07-9df3-9b6a9159ac45.json"
+    },
+    {
+        "id": "RTM",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--c416b28c-103b-4df1-909e-78089a7e0e5f.json"
+    },
+    {
+        "id": "Machete, APT-C-43, El Machete, TEMP.Andromeda, ATK 97, TAG-NS1, Operation \u201cHpReact\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--38863958-a201-4ce1-9dbe-539b0b6804e0.json"
+    },
+    {
+        "id": "Sowbug",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--d1acfbb3-647b-4723-9154-800ec119006e.json"
+    },
+    {
+        "id": "GALLIUM, Operation Soft Cell, Gallium",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--06a11b7e-2a36-47fe-8d3e-82c265df3258.json"
+    },
+    {
+        "id": "DarkHydrus, LazyMeerkat, ATK 77",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--6b9ebeb5-20bf-48b0-afb7-988d769a2f01.json"
+    },
+    {
+        "id": "APT39, REMIX KITTEN, ITG07, Chafer, APT 39, Remix Kitten, Cobalt Hickman, TA454",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--44e43fad-ffcb-4210-abcf-eaaed9735f80.json"
+    },
+    {
+        "id": "Andariel, Silent Chollima, Stonefly, Operation \u201cBLACKMINE\u201d, Operation \u201cGHOSTRAT\u201d, Operation \u201cXEDA\u201d, Operation \u201cINITROY\u201d/Phase 1, Operation \u201cDESERTWOLF\u201d/Phase 3, Operation \u201cBLACKSHEEP\u201d/Phase 3., Operation \u201cINITROY\u201d/Phase 2, Operation \u201cVANXATM\u201d, Operation \u201cMayday\u201d, Operation \u201cGoldenAxe\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--39d6890e-7f23-4474-b8ef-e7b0343c5fc8.json"
+    },
+    {
+        "id": "APT37, Richochet Chollima, InkySquid, ScarCruft, Reaper, Group123, TEMP.Reaper, APT 37, Ricochet Chollima, Thallium, Group 123, Red Eyes, Geumseong121, Venus 121, Hermit, ATK 4, ITG10, Operation \u201cErebus\u201d, Operation \u201cDaybreak\u201d, Operation \u201cGolden Time\u201d, Operation \u201cEvil New Year\u201d, Operation \u201cAre You Happy?\u201d, Operation \u201cFreeMilk\u201d, Operation \u201cNorth Korean Human Right\u201d, Operation \u201cFractured Block\u201d, Operation \u201cEvil New Year 2018\u201d, Operation \u201cBattle Cruiser\u201d, Operation \u201cStar Cruiser\u201d, Operation \u201cOnezero\u201d, Operation \u201cRocket Man\u201d, Operation \u201cKorean Sword\u201d, Operation \u201cHoliday Wiper\u201d, Operation \u201cGolden Bird\u201d, Operation \u201cHigh Expert\u201d, Operation \u201cBlack Banner\u201d, Operation \u201cFractured Statue\u201d, Operation \u201cDragon messenger\u201d, Operation \u201cSpy Cloud\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--4a2ce82e-1a74-468a-a6fb-bbead541383c.json"
+    },
+    {
+        "id": "FIN8, ATK 113",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--fd19bd82-1b14-49a1-a176-6cdc46b8a826.json"
+    },
+    {
+        "id": "APT17, Deputy Dog, APT 17, Tailgater Team, Elderwood, Elderwood Gang, Sneaky Panda, SIG22, Beijing Group, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, ATK 2, Operation Aurora, Operation \u201cDeputyDog\u201d, Operation \u201cEphemeral Hydra\u201d, Operation \u201cRAT Cook\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--090242d7-73fc-4738-af68-20162f7a5aae.json"
+    },
+    {
+        "id": "AQUATIC PANDA, Aquatic Panda",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--64b52e7d-b2c4-4a02-9372-08a463f5dc11.json"
+    },
+    {
+        "id": "Silent Librarian, TA407, COBALT DICKENS, Mabna Institute, Cobalt Dickens, Yellow Nabu, TA4900",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--90784c1e-4aba-40eb-9adf-7556235e6384.json"
+    },
+    {
+        "id": "Indrik Spider, Evil Corp, Gold Drake, Gold Winter",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--01e28736-2ffc-455b-9880-ed4d1407ae07.json"
+    },
+    {
+        "id": "Indrik Spider, Evil Corp, Gold Drake, Gold Winter",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--01e28736-2ffc-455b-9880-ed4d1407ae07.json"
+    },
+    {
+        "id": "APT-C-36, Blind Eagle",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c4d50cdf-87ce-407d-86d8-862883485842.json"
+    },
+    {
+        "id": "Winnti Group, Blackfly, Wicked Panda",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c5947e1c-1cbc-434c-94b8-27c7e3be0fff.json"
+    },
+    {
+        "id": "Nomadic Octopus, DustSquad, Golden Falcon, APT-C-34",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fed4f0a2-4347-4530-b0f5-6dfd49b29172.json"
+    },
+    {
+        "id": "Gorgon Group, Subaat, ATK 92, TAG-CR5",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--1f21da59-6a13-455b-afd0-d58d0a5a7d27.json"
+    },
+    {
+        "id": "PLATINUM, TwoForOne, ATK 33, Operation \u201cEasternRoppels\u201d, Platinum",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--f9c06633-dcff-48a1-8588-759e7cec5694.json"
+    },
+    {
+        "id": "Suckfly",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--5cbe0d3b-6fb1-471f-b591-4b192915116d.json"
+    },
+    {
+        "id": "TA551, GOLD CABIN, Shathak, Gold Cabin",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--94873029-f950-4268-9cfd-5032e15cb182.json"
+    },
+    {
+        "id": "Axiom, Group 72, Operation \u201cSMN\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--a0cb9370-e39b-44d5-9f50-ef78e412b973.json"
+    },
+    {
+        "id": "Honeybee",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--ebb73863-fa44-4617-b4cb-b9ed3414eb87.json"
+    },
+    {
+        "id": "Carbanak, Anunak, Carbon Spider, Gold Waterfall",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--55033a4d-3ffe-46b2-99b4-2c1541e9ce1c.json"
+    },
+    {
+        "id": "Carbanak, Anunak, Carbon Spider, Gold Waterfall",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--55033a4d-3ffe-46b2-99b4-2c1541e9ce1c.json"
+    },
+    {
+        "id": "PittyTiger, Pitty Panda, Operation \u201cThe Eye of the Tiger\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fe98767f-9df8-42b9-83c9-004b1dec8647.json"
+    },
+    {
+        "id": "CostaRicto",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--bb82e0b0-6e9c-439f-970a-4c917a74c5f2.json"
+    },
+    {
+        "id": "Thrip, Lotus Blossom, Spring Dragon, Dragonfish, Billbug, Bronze Elgin, CTG-8171, ATK 1, ATK 78, Operation \u201cLotus Blossom\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--d69e568e-9ac8-4c08-b32c-d93b43ba9172.json"
+    },
+    {
+        "id": "Ajax Security Team, Operation Woolen-Goldfish, AjaxTM, Rocket Kitten, Flying Kitten, Operation Saffron Rose, Group 26, Operation \u201cSaffron Rose\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--fa19de15-6169-428d-9cd6-3ca3d56075b7.json"
+    },
+    {
+        "id": "Orangeworm",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--5636b7b3-d99b-4edd-aa05-ee649c1d4ef1.json"
+    },
+    {
+        "id": "Mofang, Whitefly, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--88489675-d216-4884-a98f-49a89fcc1643.json"
+    },
+    {
+        "id": "TA459",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--62a64fd3-aaf7-4d09-a375-d6f8bb118481.json"
+    },
+    {
+        "id": "FIN5",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--85403903-15e0-4f9f-9be4-a259ecad4022.json"
+    },
+    {
+        "id": "FIN10",
+        "category": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Crime/intrusion-set--fbe9387f-34e6-4828-ac28-3080020c597b.json"
+    },
+    {
+        "id": "Fox Kitten, UNC757, PIONEER KITTEN, Parisite, Pioneer Kitten, Cobalt Foxglove, Rubidium",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c21dd6f1-1364-4a70-a1f7-783080ec34ee.json"
+    },
+    {
+        "id": "Dust Storm",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31.json"
+    },
+    {
+        "id": "Poseidon Group",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--7ecc3b4f-5cdb-457e-b55a-df376b359446.json"
+    },
+    {
+        "id": "CopyKittens, Slayer Kitten, Operation \u201cWilted Tulip\u201d",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--dcd81c6e-ebf7-4a16-93e0-9a97fa49c88a.json"
+    },
+    {
+        "id": "Rancor, Rancor Group",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--f40eb8ce-2a74-4e56-89a1-227021410142.json"
+    },
+    {
+        "id": "APT16, APT 16, SVCMONDR",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--d6e88e18-81e8-4709-82d8-973095da1e70.json"
+    },
+    {
+        "id": "APT30, APT 30, Override Panda, CTG-5326, Bronze Geneva, Bronze Sterling",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--f047ee18-7985-4946-8bfb-4ed754d3a0dd.json"
+    },
+    {
+        "id": "GOLD SOUTHFIELD, Pinchy Spider, Gold Southfield, Gold Garden",
+        "category": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Financial%20Gain/intrusion-set--c77c5576-ca19-42ed-a36f-4b4486a84133.json"
+    },
+    {
+        "id": "Volatile Cedar, Lebanese Cedar, Dancing Salome",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--b2e34388-6938-4c59-a702-80dc219e15e3.json"
+    },
+    {
+        "id": "Group5",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--7331c66a-5601-4d3f-acf6-ad9e3035eb40.json"
+    },
+    {
+        "id": "Gallmaker",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--2fd2be6a-d3a2-4a65-b499-05ea2693abee.json"
+    },
+    {
+        "id": "Strider, ProjectSauron",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--277d2f87-2ae5-4730-a3aa-50c1fdff9656.json"
+    },
+    {
+        "id": "Moafee",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--2e5d3a83-fe00-41a5-9b60-237efc84832f.json"
+    },
+    {
+        "id": "Scarlet Mimic",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--c5574ca0-d5a4-490a-b207-e4658e5fd1d7.json"
+    },
+    {
+        "id": "BlackOasis",
+        "category": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/groups/Information%20Theft%20&%20Espionage/intrusion-set--da49b9f1-ca99-443f-9728-0a074db66850.json"
+    }
+]

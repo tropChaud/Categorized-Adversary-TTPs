@@ -1,0 +1,64 @@
+{
+    "name": "GOLD SOUTHFIELD, Pinchy Spider, Gold Southfield, Gold Garden",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for GOLD SOUTHFIELD, Pinchy Spider, Gold Southfield, Gold Garden. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0115\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bdd28842-178b-4258-a37f-5c1c1bb71bb2",
+    "techniques": [
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1195.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1219",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1133",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1199",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1113",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

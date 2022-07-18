@@ -1,0 +1,84 @@
+{
+    "name": "BlackTech, Palmerworm, Circuit Panda, Radio Panda, TEMP.Overboard, T-APT-03, Operation \u201cShrouded Crossbow\u201d, Operation \u201cPLEAD\u201d, Operation \u201cWaterbear\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for BlackTech, Palmerworm, Circuit Panda, Radio Panda, TEMP.Overboard, T-APT-03, Operation \u201cShrouded Crossbow\u201d, Operation \u201cPLEAD\u201d, Operation \u201cWaterbear\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0098\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8914b19b-9d8a-469f-8b95-37db9894e070",
+    "techniques": [
+        {
+            "techniqueID": "T1588.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1046",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}
