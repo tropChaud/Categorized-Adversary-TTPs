@@ -45,6 +45,7 @@
       "T1571",
       "T1053.005"
     ],
+    "merged_name": "APT-C-36, Blind Eagle",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT-C-36.json"
   },
   {
@@ -72,9 +73,9 @@
       "Byzantine Candor",
       "Shanghai Group",
       "GIF89a",
-      "Operation \u201cSeasalt\u201d",
-      "Operation \u201cSiesta\u201d",
-      "Operation \u201cOceansalt\u201d"
+      "Operation “Seasalt”",
+      "Operation “Siesta”",
+      "Operation “Oceansalt”"
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b99367ed-e483-40a3-98d0-8d3a2102a4ab",
@@ -120,7 +121,7 @@
       "South Korea",
       "Switzerland",
       "Taiwan",
-      "United Kingdom (UK)",
+      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
@@ -150,6 +151,7 @@
       "T1566.001",
       "T1049"
     ],
+    "merged_name": "APT1, Comment Crew, Comment Group, Comment Panda, TG-8223, APT 1, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shanghai Group, GIF89a, Operation “Seasalt”, Operation “Siesta”, Operation “Oceansalt”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT1.json"
   },
   {
@@ -205,6 +207,7 @@
       "T1568.003",
       "T1566.001"
     ],
+    "merged_name": "APT12, IXESHE, DynCalc, Numbered Panda, DNSCALC, APT 12, CTG-8223, Bronze Globe, BeeBus, Calc Team, DynCALC, DNSCalc, Group 22, Crimson Iron",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT12.json"
   },
   {
@@ -242,6 +245,7 @@
     "mitre_attack_ttps": [
       "T1584.004"
     ],
+    "merged_name": "APT16, APT 16, SVCMONDR",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT16.json"
   },
   {
@@ -271,9 +275,9 @@
       "Deputy Dog",
       "ATK 2",
       "Operation Aurora",
-      "Operation \u201cDeputyDog\u201d",
-      "Operation \u201cEphemeral Hydra\u201d",
-      "Operation \u201cRAT Cook\u201d"
+      "Operation “DeputyDog”",
+      "Operation “Ephemeral Hydra”",
+      "Operation “RAT Cook”"
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
@@ -286,12 +290,12 @@
       "Education",
       "Energy",
       "Government",
+      "IT",
       "Media",
       "Mining",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Non-Governmental Organizations (NGOs)",
-      "Information Technology (IT)"
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Belgium",
@@ -303,13 +307,14 @@
       "Netherlands",
       "Switzerland",
       "Russia",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "USA",
+      "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
       "T1585",
       "T1583.006"
     ],
+    "merged_name": "APT17, Deputy Dog, APT 17, Tailgater Team, Elderwood, Elderwood Gang, Sneaky Panda, SIG22, Beijing Group, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, ATK 2, Operation Aurora, Operation “DeputyDog”, Operation “Ephemeral Hydra”, Operation “RAT Cook”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT17.json"
   },
   {
@@ -368,6 +373,7 @@
       "T1105",
       "T1071.001"
     ],
+    "merged_name": "APT18, TG-0416, Dynamite Panda, Threat Group-0416, APT 18, Wekby, Scandium",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT18.json"
   },
   {
@@ -393,7 +399,7 @@
       "TG-3551",
       "Bronze Firestone",
       "Pupa",
-      "Operation \u201cKingslayer\u201d",
+      "Operation “Kingslayer”",
       "C0d0so0"
     ],
     "etda_first_seen": "2013",
@@ -408,11 +414,11 @@
       "Energy",
       "Government",
       "Manufacturing",
+      "Telecommunications",
       "Think Tanks",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Pharmaceuticals",
-      "Telecommunications (Telecoms)"
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Australia",
@@ -441,6 +447,7 @@
       "T1543.003",
       "T1204.002"
     ],
+    "merged_name": "APT19, Codoso, C0d0so0, Codoso Team, Sunshop Group, APT 19, Deep Panda, TG-3551, Bronze Firestone, Pupa, Operation “Kingslayer”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT19.json"
   },
   {
@@ -486,11 +493,11 @@
       "TAG-0700",
       "UAC-0028",
       "Grizzly Steppe",
-      "Operation \u201cPawn Storm\u201d",
-      "Operation \u201cRussian Doll\u201d",
-      "Operation \u201cKomplex\u201d",
-      "Operation \u201cDealersChoice\u201d",
-      "Operation \u201cDear Joohn\u201d"
+      "Operation “Pawn Storm”",
+      "Operation “Russian Doll”",
+      "Operation “Komplex”",
+      "Operation “DealersChoice”",
+      "Operation “Dear Joohn”"
     ],
     "etda_first_seen": "2004",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e6037735-ed1b-4ae3-a45b-45d66e2c80f1",
@@ -561,7 +568,7 @@
       "Thailand",
       "Turkey",
       "Uganda",
-      "United Kingdom (UK)",
+      "UK",
       "Ukraine",
       "Uzbekistan",
       "NATO",
@@ -657,6 +664,7 @@
       "T1113",
       "T1036"
     ],
+    "merged_name": "APT28, IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, APT 28, Strontium, SIG40, Snakemackerel, Iron Twilight, ATK 5, T-APT-12, ITG05, TAG-0700, UAC-0028, Grizzly Steppe, Operation “Pawn Storm”, Operation “Russian Doll”, Operation “Komplex”, Operation “DealersChoice”, Operation “Dear Joohn”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT28.json"
   },
   {
@@ -700,9 +708,9 @@
       "Nobelium",
       "Iron Ritual",
       "Cloaked Ursa",
-      "Operation \u201cGhost\u201d",
-      "Operation \u201cOffice monkeys\u201d",
-      "Operation \u201cStellarParticle\u201d"
+      "Operation “Ghost”",
+      "Operation “Office monkeys”",
+      "Operation “StellarParticle”"
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
@@ -715,12 +723,12 @@
       "Energy",
       "Government",
       "Media",
+      "Pharmaceutical",
       "Transportation",
       "Think Tanks",
       "Law Enforcement",
       "Non-Governmental Organizations (NGOs)",
-      "Telecommunications (Telecoms)",
-      "Pharmaceuticals"
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Australia",
@@ -876,6 +884,7 @@
       "T1016.001",
       "T1027.001"
     ],
+    "merged_name": "APT29, IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, StellarParticle, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, APT 29, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Cloaked Ursa, Operation “Ghost”, Operation “Office monkeys”, Operation “StellarParticle”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT29.json"
   },
   {
@@ -903,10 +912,10 @@
       "Bronze Mayfair",
       "UPS Team",
       "Group 6",
-      "Operation \u201cClandestine Fox\u201d",
-      "Operation \u201cClandestine Fox\u201d, Part Deux",
-      "Operation \u201cDouble Tap\u201d",
-      "Operation \u201cClandestine Wolf\u201d"
+      "Operation “Clandestine Fox”",
+      "Operation “Clandestine Fox”, Part Deux",
+      "Operation “Double Tap”",
+      "Operation “Clandestine Wolf”"
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92ced576-2522-4b79-8645-baa5e84ffee3",
@@ -931,7 +940,7 @@
       "Luxembourg",
       "Philippines",
       "Sweden",
-      "United States of America (USA)",
+      "USA",
       "Vietnam",
       "United Kingdom (UK)"
     ],
@@ -982,6 +991,7 @@
       "T1005",
       "T1095"
     ],
+    "merged_name": "APT3, Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, APT 3, Bronze Mayfair, Group 6, Operation “Clandestine Fox”, Operation “Clandestine Fox”, Part Deux, Operation “Double Tap”, Operation “Clandestine Wolf”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT3.json"
   },
   {
@@ -1036,6 +1046,7 @@
       "T1204.002",
       "T1566.001"
     ],
+    "merged_name": "APT30, APT 30, Override Panda, CTG-5326, Bronze Geneva, Bronze Sterling",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT30.json"
   },
   {
@@ -1061,8 +1072,8 @@
       "Tin Woodlawn",
       "ATK 17",
       "SectorF01",
-      "Operation \u201cPhantomLance\u201d",
-      "Operation \u201cCobalt Kitty\u201d"
+      "Operation “PhantomLance”",
+      "Operation “Cobalt Kitty”"
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b79f69a4-18a3-4d4f-b6e5-5ad3e01c984b",
@@ -1103,7 +1114,7 @@
       "Singapore",
       "South Korea",
       "Thailand",
-      "United States of America (USA)",
+      "USA",
       "Vietnam",
       "United Kingdom (UK)"
     ],
@@ -1187,6 +1198,7 @@
       "T1203",
       "T1608.001"
     ],
+    "merged_name": "APT32, SeaLotus, OceanLotus, APT-C-00, APT 32, Ocean Buffalo, Tin Woodlawn, ATK 17, SectorF01, Operation “PhantomLance”, Operation “Cobalt Kitty”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT32.json"
   },
   {
@@ -1216,8 +1228,8 @@
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=958e1f46-a2b6-4beb-8cb0-ddc90c08368e",
     "country": "Iran",
     "motivation": [
-      "Sabotage and destruction",
-      "Information Theft & Espionage"
+      "Information Theft & Espionage",
+      "Sabotage & Destruction"
     ],
     "victim_industries": [
       "Aviation",
@@ -1238,7 +1250,7 @@
       "Israel",
       "Saudi Arabia",
       "South Korea",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -1275,6 +1287,7 @@
       "T1571",
       "T1552.006"
     ],
+    "merged_name": "APT33, HOLMIUM, Elfin, APT 33, Magnallium, Holmium, ATK 35, Refined Kitten, TA451, Cobalt Trinity",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT33.json"
   },
   {
@@ -1314,10 +1327,10 @@
       "Energy",
       "Government",
       "Hospitality",
+      "Telecommunications",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Oil & Gas",
-      "Telecommunications (Telecoms)"
+      "Oil & Gas"
     ],
     "victim_countries": [
       "Azerbaijan",
@@ -1331,11 +1344,12 @@
       "Qatar",
       "Saudi Arabia",
       "Turkey",
+      "UK",
       "United Arab Emirates (UAE)",
-      "United States of America (USA)",
-      "United Kingdom (UK)"
+      "United States of America (USA)"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "APT34, OilRig, APT 34, Helix Kitten, Twisted Kitten, Crambus, Chrysene, Cobalt Gypsy, TA452, IRN2, ATK 40, ITG13"
   },
   {
     "mitre_attack_id": "intrusion-set--4a2ce82e-1a74-468a-a6fb-bbead541383c",
@@ -1369,27 +1383,27 @@
       "InkySquid",
       "ATK 4",
       "ITG10",
-      "Operation \u201cErebus\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cGolden Time\u201d",
-      "Operation \u201cEvil New Year\u201d",
-      "Operation \u201cAre You Happy?\u201d",
-      "Operation \u201cFreeMilk\u201d",
-      "Operation \u201cNorth Korean Human Right\u201d",
-      "Operation \u201cFractured Block\u201d",
-      "Operation \u201cEvil New Year 2018\u201d",
-      "Operation \u201cBattle Cruiser\u201d",
-      "Operation \u201cStar Cruiser\u201d",
-      "Operation \u201cOnezero\u201d",
-      "Operation \u201cRocket Man\u201d",
-      "Operation \u201cKorean Sword\u201d",
-      "Operation \u201cHoliday Wiper\u201d",
-      "Operation \u201cGolden Bird\u201d",
-      "Operation \u201cHigh Expert\u201d",
-      "Operation \u201cBlack Banner\u201d",
-      "Operation \u201cFractured Statue\u201d",
-      "Operation \u201cDragon messenger\u201d",
-      "Operation \u201cSpy Cloud\u201d"
+      "Operation “Erebus”",
+      "Operation “Daybreak”",
+      "Operation “Golden Time”",
+      "Operation “Evil New Year”",
+      "Operation “Are You Happy?”",
+      "Operation “FreeMilk”",
+      "Operation “North Korean Human Right”",
+      "Operation “Fractured Block”",
+      "Operation “Evil New Year 2018”",
+      "Operation “Battle Cruiser”",
+      "Operation “Star Cruiser”",
+      "Operation “Onezero”",
+      "Operation “Rocket Man”",
+      "Operation “Korean Sword”",
+      "Operation “Holiday Wiper”",
+      "Operation “Golden Bird”",
+      "Operation “High Expert”",
+      "Operation “Black Banner”",
+      "Operation “Fractured Statue”",
+      "Operation “Dragon messenger”",
+      "Operation “Spy Cloud”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be6e7cee-7c2c-4298-941d-01b2106284e6",
@@ -1419,7 +1433,7 @@
       "Romania",
       "Russia",
       "South Korea",
-      "United States of America (USA)",
+      "USA",
       "Vietnam",
       "United Kingdom (UK)"
     ],
@@ -1456,6 +1470,7 @@
       "T1189",
       "T1059.003"
     ],
+    "merged_name": "APT37, Richochet Chollima, InkySquid, ScarCruft, Reaper, Group123, TEMP.Reaper, APT 37, Ricochet Chollima, Thallium, Group 123, Red Eyes, Geumseong121, Venus 121, Hermit, ATK 4, ITG10, Operation “Erebus”, Operation “Daybreak”, Operation “Golden Time”, Operation “Evil New Year”, Operation “Are You Happy?”, Operation “FreeMilk”, Operation “North Korean Human Right”, Operation “Fractured Block”, Operation “Evil New Year 2018”, Operation “Battle Cruiser”, Operation “Star Cruiser”, Operation “Onezero”, Operation “Rocket Man”, Operation “Korean Sword”, Operation “Holiday Wiper”, Operation “Golden Bird”, Operation “High Expert”, Operation “Black Banner”, Operation “Fractured Statue”, Operation “Dragon messenger”, Operation “Spy Cloud”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT37.json"
   },
   {
@@ -1535,6 +1550,7 @@
       "T1112",
       "T1218.011"
     ],
+    "merged_name": "APT38, NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, APT 38, CTG-6459, Nickel Gladstone, T-APT-15, ATK 117",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT38.json"
   },
   {
@@ -1582,7 +1598,7 @@
       "Saudi Arabia",
       "Spain",
       "Turkey",
-      "United States of America (USA)",
+      "USA",
       "United Arab Emirates (UAE)"
     ],
     "mitre_attack_ttps": [
@@ -1639,6 +1655,7 @@
       "T1074.001",
       "T1041"
     ],
+    "merged_name": "APT39, REMIX KITTEN, ITG07, Chafer, APT 39, Remix Kitten, Cobalt Hickman, TA454",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT39.json"
   },
   {
@@ -1662,16 +1679,16 @@
       "Earth Baku",
       "SparklingGoblin",
       "Grayfly",
-      "Operation \u201cShadowHammer\u201d",
-      "Operation \u201cCuckooBees\u201d",
-      "Operation \u201cColunmTK\u201d",
+      "Operation “ShadowHammer”",
+      "Operation “CuckooBees”",
+      "Operation “ColunmTK”",
       "APT 41"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
     "country": "China",
     "motivation": [
-      "Information theft and espionage",
+      "Information Theft & Espionage",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -1726,7 +1743,7 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
@@ -1792,6 +1809,7 @@
       "T1059.001",
       "T1033"
     ],
+    "merged_name": "APT41, WICKED PANDA, Double Dragon, TG-2633, Bronze Atlas, Red Kelpie, Blackfly, Earth Baku, SparklingGoblin, Grayfly, Operation “ShadowHammer”, Operation “CuckooBees”, Operation “ColunmTK”, APT 41",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT41.json"
   },
   {
@@ -1814,7 +1832,7 @@
       "Flying Kitten",
       "Ajax Security Team",
       "Group 26",
-      "Operation \u201cSaffron Rose\u201d"
+      "Operation “Saffron Rose”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d17cae3-0777-428b-b9b7-fcbdf52af5ba",
@@ -1836,6 +1854,7 @@
       "T1566.001",
       "T1056.001"
     ],
+    "merged_name": "Ajax Security Team, Operation Woolen-Goldfish, AjaxTM, Rocket Kitten, Flying Kitten, Operation Saffron Rose, Group 26, Operation “Saffron Rose”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ajax%20Security%20Team.json"
   },
   {
@@ -1855,16 +1874,16 @@
       "Silent Chollima",
       "Stonefly",
       "Plutonium",
-      "Operation \u201cBLACKMINE\u201d",
-      "Operation \u201cGHOSTRAT\u201d",
-      "Operation \u201cXEDA\u201d",
-      "Operation \u201cINITROY\u201d/Phase 1",
-      "Operation \u201cDESERTWOLF\u201d/Phase 3",
-      "Operation \u201cBLACKSHEEP\u201d/Phase 3.",
-      "Operation \u201cINITROY\u201d/Phase 2",
-      "Operation \u201cVANXATM\u201d",
-      "Operation \u201cMayday\u201d",
-      "Operation \u201cGoldenAxe\u201d"
+      "Operation “BLACKMINE”",
+      "Operation “GHOSTRAT”",
+      "Operation “XEDA”",
+      "Operation “INITROY”/Phase 1",
+      "Operation “DESERTWOLF”/Phase 3",
+      "Operation “BLACKSHEEP”/Phase 3.",
+      "Operation “INITROY”/Phase 2",
+      "Operation “VANXATM”",
+      "Operation “Mayday”",
+      "Operation “GoldenAxe”"
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=00089621-cabc-421a-b2ce-3fd18f6bfa9c",
@@ -1888,6 +1907,7 @@
       "T1592.002",
       "T1049"
     ],
+    "merged_name": "Andariel, Silent Chollima, Stonefly, Plutonium, Operation “BLACKMINE”, Operation “GHOSTRAT”, Operation “XEDA”, Operation “INITROY”/Phase 1, Operation “DESERTWOLF”/Phase 3, Operation “BLACKSHEEP”/Phase 3., Operation “INITROY”/Phase 2, Operation “VANXATM”, Operation “Mayday”, Operation “GoldenAxe”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Andariel.json"
   },
   {
@@ -1933,6 +1953,7 @@
       "T1588.001",
       "T1562.001"
     ],
+    "merged_name": "AQUATIC PANDA, Aquatic Panda",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Aquatic%20Panda.json"
   },
   {
@@ -1950,7 +1971,7 @@
     "etda_aliases": [
       "Axiom",
       "Group 72",
-      "Operation \u201cSMN\u201d"
+      "Operation “SMN”"
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
@@ -1989,6 +2010,7 @@
       "T1560",
       "T1584.005"
     ],
+    "merged_name": "Axiom, Group 72, Operation “SMN”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Axiom.json"
   },
   {
@@ -2011,7 +2033,7 @@
       "TEMP.Tick",
       "RedBaldNight",
       "Stalker Panda",
-      "Operation \u201cENDTRADE\u201d"
+      "Operation “ENDTRADE”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=334d9e0e-dab2-4bc5-8db2-5ab016f36947",
@@ -2082,6 +2104,7 @@
       "T1053.005",
       "T1036.002"
     ],
+    "merged_name": "BRONZE BUTLER, REDBALDKNIGHT, Tick, Bronze Butler, CTG-2006, TEMP.Tick, RedBaldNight, Stalker Panda, Operation “ENDTRADE”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BRONZE%20BUTLER.json"
   },
   {
@@ -2143,6 +2166,7 @@
       "T1505.003",
       "T1036.005"
     ],
+    "merged_name": "BackdoorDiplomacy",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BackdoorDiplomacy.json"
   },
   {
@@ -2187,6 +2211,7 @@
     "mitre_attack_ttps": [
       "T1027"
     ],
+    "merged_name": "BlackOasis",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackOasis.json"
   },
   {
@@ -2208,9 +2233,9 @@
       "Palmerworm",
       "TEMP.Overboard",
       "T-APT-03",
-      "Operation \u201cShrouded Crossbow\u201d",
-      "Operation \u201cPLEAD\u201d",
-      "Operation \u201cWaterbear\u201d"
+      "Operation “Shrouded Crossbow”",
+      "Operation “PLEAD”",
+      "Operation “Waterbear”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8914b19b-9d8a-469f-8b95-37db9894e070",
@@ -2249,6 +2274,7 @@
       "T1036.002",
       "T1106"
     ],
+    "merged_name": "BlackTech, Palmerworm, Circuit Panda, Radio Panda, TEMP.Overboard, T-APT-03, Operation “Shrouded Crossbow”, Operation “PLEAD”, Operation “Waterbear”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackTech.json"
   },
   {
@@ -2273,7 +2299,7 @@
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e5869096-4b2d-406d-b8d1-713eda321457",
     "country": "Ukraine",
     "motivation": [
-      "Financial gain",
+      "Financial Gain",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -2323,6 +2349,7 @@
       "T1036.005",
       "T1588.002"
     ],
+    "merged_name": "Carbanak, Anunak, Carbon Spider, Gold Waterfall",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Carbanak.json"
   },
   {
@@ -2337,7 +2364,7 @@
     "etda_id": "1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
     "etda_name": "Chimera",
     "etda_aliases": [
-      "Operation \u201cSkeleton Key\u201d",
+      "Operation “Skeleton Key”",
       "Chimera"
     ],
     "etda_first_seen": "2018",
@@ -2414,6 +2441,7 @@
       "T1105",
       "T1027"
     ],
+    "merged_name": "Chimera, Operation “Skeleton Key”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Chimera.json"
   },
   {
@@ -2432,7 +2460,7 @@
     "etda_aliases": [
       "Cutting Kitten",
       "TG-2889",
-      "Operation \u201cCleaver\u201d"
+      "Operation “Cleaver”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4622bc44-8c01-4807-8d12-b22352472c29",
@@ -2471,7 +2499,7 @@
       "Saudi Arabia",
       "South Korea",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
     ],
@@ -2482,6 +2510,7 @@
       "T1585.001",
       "T1557.002"
     ],
+    "merged_name": "Cleaver, Threat Group 2889, TG-2889, Cutting Kitten, Operation “Cleaver”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cleaver.json"
   },
   {
@@ -2587,6 +2616,7 @@
       "T1204.002",
       "T1105"
     ],
+    "merged_name": "Cobalt Group, GOLD KINGSWOOD, Cobalt Gang, Cobalt Spider, Gold Kingswood, ATK 67, TAG-CR3",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cobalt%20Group.json"
   },
   {
@@ -2603,7 +2633,7 @@
     "etda_aliases": [
       "CopyKittens",
       "Slayer Kitten",
-      "Operation \u201cWilted Tulip\u201d"
+      "Operation “Wilted Tulip”"
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a674fc23-26e8-4f6e-ba55-1a6ef4029878",
@@ -2635,6 +2665,7 @@
       "T1553.002",
       "T1560.003"
     ],
+    "merged_name": "CopyKittens, Slayer Kitten, Operation “Wilted Tulip”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CopyKittens.json"
   },
   {
@@ -2680,6 +2711,7 @@
       "T1046",
       "T1090.003"
     ],
+    "merged_name": "CostaRicto",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CostaRicto.json"
   },
   {
@@ -2696,7 +2728,7 @@
     "etda_aliases": [
       "ATK 27",
       "TAG-CT3",
-      "Operation \u201cDark Caracal\u201d",
+      "Operation “Dark Caracal”",
       "Dark Caracal"
     ],
     "etda_first_seen": "2007",
@@ -2752,6 +2784,7 @@
       "T1189",
       "T1113"
     ],
+    "merged_name": "Dark Caracal, ATK 27, TAG-CT3, Operation “Dark Caracal”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dark%20Caracal.json"
   },
   {
@@ -2792,6 +2825,7 @@
       "T1204.002",
       "T1221"
     ],
+    "merged_name": "DarkHydrus, LazyMeerkat, ATK 77",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/DarkHydrus.json"
   },
   {
@@ -2818,11 +2852,11 @@
       "Higaisa",
       "T-APT-02",
       "Luder",
-      "Operation \u201cDarkHotel\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cInexsmar\u201d",
-      "Operation \u201cThe Gh0st Remains the Same\u201d",
-      "Operation \u201cPowerFall\u201d",
+      "Operation “DarkHotel”",
+      "Operation “Daybreak”",
+      "Operation “Inexsmar”",
+      "Operation “The Gh0st Remains the Same”",
+      "Operation “PowerFall”",
       "DarkHotel"
     ],
     "etda_first_seen": "2007",
@@ -2837,10 +2871,10 @@
       "Government",
       "Healthcare",
       "Hospitality",
+      "Pharmaceutical",
       "Research",
       "Technology",
-      "Non-Governmental Organizations (NGOs)",
-      "Pharmaceuticals"
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -2877,10 +2911,10 @@
       "Tajikistan",
       "Thailand",
       "Turkey",
+      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
-      "United States of America (USA)",
-      "United Kingdom (UK)"
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1080",
@@ -2909,6 +2943,7 @@
       "T1547.001",
       "T1547.009"
     ],
+    "merged_name": "Darkhotel, DUBNIUM, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, Higaisa, T-APT-02, Luder, Operation “DarkHotel”, Operation “Daybreak”, Operation “Inexsmar”, Operation “The Gh0st Remains the Same”, Operation “PowerFall”, DarkHotel",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Darkhotel.json"
   },
   {
@@ -2935,7 +2970,7 @@
       "TG-3551",
       "Bronze Firestone",
       "Pupa",
-      "Operation \u201cKingslayer\u201d",
+      "Operation “Kingslayer”",
       "C0d0so0"
     ],
     "etda_first_seen": "2013",
@@ -2950,11 +2985,11 @@
       "Energy",
       "Government",
       "Manufacturing",
+      "Telecommunications",
       "Think Tanks",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Pharmaceuticals",
-      "Telecommunications (Telecoms)"
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Australia",
@@ -2972,6 +3007,7 @@
       "T1218.010",
       "T1057"
     ],
+    "merged_name": "Deep Panda, Shell Crew, WebMasters, KungFu Kittens, PinkPanther, Black Vine, APT 19, Codoso, Sunshop Group, TG-3551, Bronze Firestone, Pupa, Operation “Kingslayer”, C0d0so0",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Deep%20Panda.json"
   },
   {
@@ -3006,7 +3042,8 @@
       "Taiwan",
       "Tibet"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "DragonOK, Bronze Overbrook"
   },
   {
     "mitre_attack_id": "intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1",
@@ -3133,6 +3170,7 @@
       "T1112",
       "T1203"
     ],
+    "merged_name": "Dragonfly, TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Group 24, Koala Team, Iron Liberty, Electrum, ATK 6, ITG15, Bromine",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dragonfly.json"
   },
   {
@@ -3180,7 +3218,8 @@
       "United Kingdom (UK)",
       "United States of America (USA)"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "Dragonfly 2.0, IRON LIBERTY, DYMALLOY, Berserk Bear, Dymalloy"
   },
   {
     "mitre_attack_id": "intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31",
@@ -3216,6 +3255,7 @@
       "T1027",
       "T1083"
     ],
+    "merged_name": "Dust Storm",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dust%20Storm.json"
   },
   {
@@ -3247,9 +3287,9 @@
       "Deputy Dog",
       "ATK 2",
       "Operation Aurora",
-      "Operation \u201cDeputyDog\u201d",
-      "Operation \u201cEphemeral Hydra\u201d",
-      "Operation \u201cRAT Cook\u201d"
+      "Operation “DeputyDog”",
+      "Operation “Ephemeral Hydra”",
+      "Operation “RAT Cook”"
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
@@ -3262,12 +3302,12 @@
       "Education",
       "Energy",
       "Government",
+      "IT",
       "Media",
       "Mining",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Non-Governmental Organizations (NGOs)",
-      "Information Technology (IT)"
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Belgium",
@@ -3279,8 +3319,8 @@
       "Netherlands",
       "Switzerland",
       "Russia",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "USA",
+      "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
       "T1203",
@@ -3293,6 +3333,7 @@
       "T1204.002",
       "T1189"
     ],
+    "merged_name": "Elderwood, Elderwood Gang, Beijing Group, Sneaky Panda, APT 17, Tailgater Team, SIG22, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, Deputy Dog, ATK 2, Operation Aurora, Operation “DeputyDog”, Operation “Ephemeral Hydra”, Operation “RAT Cook”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Elderwood.json"
   },
   {
@@ -3308,7 +3349,7 @@
     "etda_name": "Evilnum",
     "etda_aliases": [
       "Jointworm",
-      "Operation \u201cPhantom in the Command Shell\u201d",
+      "Operation “Phantom in the Command Shell”",
       "Evilnum"
     ],
     "etda_first_seen": "2018",
@@ -3346,6 +3387,7 @@
       "T1204.001",
       "T1059.007"
     ],
+    "merged_name": "Evilnum, Jointworm, Operation “Phantom in the Command Shell”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Evilnum.json"
   },
   {
@@ -3389,6 +3431,7 @@
       "T1021.001",
       "T1570"
     ],
+    "merged_name": "FIN10",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN10.json"
   },
   {
@@ -3432,6 +3475,7 @@
       "T1204.002",
       "T1566.001"
     ],
+    "merged_name": "FIN4, Wolf Spider",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN4.json"
   },
   {
@@ -3472,6 +3516,7 @@
       "T1070.001",
       "T1018"
     ],
+    "merged_name": "FIN5",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN5.json"
   },
   {
@@ -3501,7 +3546,7 @@
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=61c8ecd4-e4e1-4f36-b209-ca55106ec22f",
     "country": "None Provided",
     "motivation": [
-      "Financial gain",
+      "Financial Gain",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -3554,6 +3599,7 @@
       "T1021.001",
       "T1003.001"
     ],
+    "merged_name": "FIN6, Magecart Group 6, SKELETON SPIDER, ITG08, Skeleton Spider, Gold Franklin, White Giant, ATK 88, TAG-CR2",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN6.json"
   },
   {
@@ -3604,7 +3650,7 @@
       "Australia",
       "France",
       "Malta",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -3649,6 +3695,7 @@
       "T1021.005",
       "T1105"
     ],
+    "merged_name": "FIN7, GOLD NIAGARA, ITG14, Carbon Spider, Gold Niagara, Calcium, Navigator, ATK 32, APT-C-11, TAG-CR1",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN7.json"
   },
   {
@@ -3720,6 +3767,7 @@
       "T1573.002",
       "T1048.003"
     ],
+    "merged_name": "FIN8, ATK 113",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN8.json"
   },
   {
@@ -3752,6 +3800,7 @@
       "T1204.002",
       "T1588.002"
     ],
+    "merged_name": "Ferocious Kitten",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ferocious%20Kitten.json"
   },
   {
@@ -3812,7 +3861,7 @@
       "Malaysia",
       "Poland",
       "Saudi Arabia",
-      "United States of America (USA)",
+      "USA",
       "United Arab Emirates (UAE)"
     ],
     "mitre_attack_ttps": [
@@ -3857,6 +3906,7 @@
       "T1585.001",
       "T1136.001"
     ],
+    "merged_name": "Fox Kitten, UNC757, PIONEER KITTEN, Parisite, Pioneer Kitten, Cobalt Foxglove, Rubidium",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Fox%20Kitten.json"
   },
   {
@@ -3919,6 +3969,7 @@
       "T1090.002",
       "T1047"
     ],
+    "merged_name": "GALLIUM, Operation Soft Cell, Gallium",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GALLIUM.json"
   },
   {
@@ -3951,6 +4002,7 @@
       "T1021.005",
       "T1021.004"
     ],
+    "merged_name": "GCMAN",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GCMAN.json"
   },
   {
@@ -3988,6 +4040,7 @@
       "T1113",
       "T1059.001"
     ],
+    "merged_name": "GOLD SOUTHFIELD, Pinchy Spider, Gold Southfield, Gold Garden",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GOLD%20SOUTHFIELD.json"
   },
   {
@@ -4024,6 +4077,7 @@
       "T1566.001",
       "T1059.001"
     ],
+    "merged_name": "Gallmaker",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gallmaker.json"
   },
   {
@@ -4163,6 +4217,7 @@
       "T1485",
       "T1057"
     ],
+    "merged_name": "Gamaredon Group, IRON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Winterflounder, BlueAlpha, Blue Otso, Iron Tilden, SectorC08, Callisto, Actinium, UAC-0010",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gamaredon%20Group.json"
   },
   {
@@ -4177,8 +4232,8 @@
     "etda_id": "80d60b05-bf0a-4630-afa8-666fa6f72147",
     "etda_name": "Gelsemium",
     "etda_aliases": [
-      "Operation \u201cTooHash\u201d",
-      "Operation \u201cNightScout\u201d",
+      "Operation “TooHash”",
+      "Operation “NightScout”",
       "Gelsemium"
     ],
     "etda_first_seen": "2014",
@@ -4226,12 +4281,13 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Vietnam",
       "Yemen",
       "United Arab Emirates (UAE)"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "Gelsemium, Operation “TooHash”, Operation “NightScout”"
   },
   {
     "mitre_attack_id": "intrusion-set--1f21da59-6a13-455b-afd0-d58d0a5a7d27",
@@ -4264,7 +4320,7 @@
       "Russia",
       "Spain",
       "Switzerland",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -4286,6 +4342,7 @@
       "T1059.005",
       "T1059.001"
     ],
+    "merged_name": "Gorgon Group, Subaat, ATK 92, TAG-CR5",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gorgon%20Group.json"
   },
   {
@@ -4319,6 +4376,7 @@
       "T1027",
       "T1113"
     ],
+    "merged_name": "Group5",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Group5.json"
   },
   {
@@ -4367,6 +4425,7 @@
       "T1505.003",
       "T1132.001"
     ],
+    "merged_name": "HAFNIUM, Operation Exchange Marauder, Hafnium",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/HAFNIUM.json"
   },
   {
@@ -4392,11 +4451,11 @@
       "Higaisa",
       "T-APT-02",
       "Luder",
-      "Operation \u201cDarkHotel\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cInexsmar\u201d",
-      "Operation \u201cThe Gh0st Remains the Same\u201d",
-      "Operation \u201cPowerFall\u201d",
+      "Operation “DarkHotel”",
+      "Operation “Daybreak”",
+      "Operation “Inexsmar”",
+      "Operation “The Gh0st Remains the Same”",
+      "Operation “PowerFall”",
       "DarkHotel"
     ],
     "etda_first_seen": "2007",
@@ -4411,10 +4470,10 @@
       "Government",
       "Healthcare",
       "Hospitality",
+      "Pharmaceutical",
       "Research",
       "Technology",
-      "Non-Governmental Organizations (NGOs)",
-      "Pharmaceuticals"
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -4451,10 +4510,10 @@
       "Tajikistan",
       "Thailand",
       "Turkey",
+      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
-      "United States of America (USA)",
-      "United Kingdom (UK)"
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1547.001",
@@ -4484,6 +4543,7 @@
       "T1071.001",
       "T1027"
     ],
+    "merged_name": "Higaisa, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, T-APT-02, Luder, Operation “DarkHotel”, Operation “Daybreak”, Operation “Inexsmar”, Operation “The Gh0st Remains the Same”, Operation “PowerFall”, DarkHotel",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Higaisa.json"
   },
   {
@@ -4539,6 +4599,7 @@
       "T1070.004",
       "T1548.002"
     ],
+    "merged_name": "Honeybee",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Honeybee.json"
   },
   {
@@ -4560,8 +4621,8 @@
       "Oxygen",
       "ATK 116",
       "The Rocra",
-      "Operation \u201cRedOctober\u201d",
-      "Operation \u201cCloud Atlas\u201d"
+      "Operation “RedOctober”",
+      "Operation “Cloud Atlas”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7849ff33-1be0-4715-89b1-3adcb182561a",
@@ -4625,7 +4686,7 @@
       "Turkmenistan",
       "Uganda",
       "Ukraine",
-      "United States of America (USA)",
+      "USA",
       "Uzbekistan",
       "Venezuela",
       "Vietnam",
@@ -4655,6 +4716,7 @@
       "T1547.001",
       "T1059.001"
     ],
+    "merged_name": "Inception, Inception Framework, Cloud Atlas, Oxygen, ATK 116, The Rocra, Operation “RedOctober”, Operation “Cloud Atlas”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Inception.json"
   },
   {
@@ -4692,6 +4754,7 @@
       "T1566.001",
       "T1583.001"
     ],
+    "merged_name": "IndigoZebra",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/IndigoZebra.json"
   },
   {
@@ -4717,7 +4780,7 @@
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a13e6ede-eb86-499f-837e-820845da04a6",
     "country": "Russia",
     "motivation": [
-      "Financial gain",
+      "Financial Gain",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -4748,6 +4811,7 @@
       "T1059.003",
       "T1003.001"
     ],
+    "merged_name": "Indrik Spider, Evil Corp, Gold Drake, Gold Winter, UNC2165",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Indrik%20Spider.json"
   },
   {
@@ -4782,8 +4846,8 @@
       "Nickel",
       "Metushy",
       "Social Network Team",
-      "Operation \u201cKe3chang\u201d",
-      "Operation \u201cMirageFox\u201d"
+      "Operation “Ke3chang”",
+      "Operation “MirageFox”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=110ed515-11db-4bf1-af41-a66f513ecf70",
@@ -4848,7 +4912,7 @@
       "Syria",
       "Trinidad and Tobago",
       "Turkey",
-      "United States of America (USA)",
+      "USA",
       "Venezuela",
       "Uzbekistan",
       "United Kingdom (UK)"
@@ -4900,6 +4964,7 @@
       "T1190",
       "T1071.001"
     ],
+    "merged_name": "Ke3chang, APT15, Mirage, Vixen Panda, GREF, Playful Dragon, RoyalAPT, NICKEL, APT 15, Bronze Palace, Bronze Davenport, Bronze Idlewood, CTG-9246, Royal APT, Nickel, Metushy, Social Network Team, Operation “Ke3chang”, Operation “MirageFox”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ke3chang.json"
   },
   {
@@ -4925,13 +4990,13 @@
       "Black Banshee",
       "ITG16",
       "TA406",
-      "Operation \u201cBaby Coin\u201d",
-      "Operation \u201cStolen Pencil\u201d",
-      "Operation \u201cMystery Baby\u201d",
-      "Operation \u201cKabar Cobra\u201d",
-      "Operation \u201cStealth Power\u201d",
-      "Operation \u201cSmoke Screen\u201d",
-      "Operation \u201cRed Salt\u201d"
+      "Operation “Baby Coin”",
+      "Operation “Stolen Pencil”",
+      "Operation “Mystery Baby”",
+      "Operation “Kabar Cobra”",
+      "Operation “Stealth Power”",
+      "Operation “Smoke Screen”",
+      "Operation “Red Salt”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5e3544bf-98ad-4e9f-b65e-85f05c36486f",
@@ -5042,6 +5107,7 @@
       "T1078.003",
       "T1566.001"
     ],
+    "merged_name": "Kimsuky, STOLEN PENCIL, Thallium, Black Banshee, Velvet Chollima, Cerium, ITG16, TA406, Operation “Baby Coin”, Operation “Stolen Pencil”, Operation “Mystery Baby”, Operation “Kabar Cobra”, Operation “Stealth Power”, Operation “Smoke Screen”, Operation “Red Salt”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Kimsuky.json"
   },
   {
@@ -5075,27 +5141,27 @@
       "SectorA01",
       "ITG03",
       "TA404",
-      "Operation \u201cFlame\u201d",
-      "Operation \u201cTroy\u201d",
-      "Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d",
-      "Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment",
-      "Operation \u201cGhostSecret\u201d",
-      "Operation \u201cAppleJeus\u201d",
-      "Operation \u201cCryptoCore\u201d",
-      "Operation \u201cSharpshooter\u201d",
-      "Operation \u201cAppleJeus sequel\u201d",
-      "Operation \u201cIn(ter)caption\u201d",
-      "Operation \u201cNorth Star\u201d",
-      "Operation \u201cDream Job\u201d",
-      "Operation \u201cLolZarus\u201d"
+      "Operation “Flame”",
+      "Operation “Troy”",
+      "Operation “Ten Days of Rain” / ”DarkSeoul”",
+      "Operation “Blockbuster”: Breach of Sony Pictures Entertainment",
+      "Operation “GhostSecret”",
+      "Operation “AppleJeus”",
+      "Operation “CryptoCore”",
+      "Operation “Sharpshooter”",
+      "Operation “AppleJeus sequel”",
+      "Operation “In(ter)caption”",
+      "Operation “North Star”",
+      "Operation “Dream Job”",
+      "Operation “LolZarus”"
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=41dcfaff-d5f0-484d-8649-ef8c61588eec",
     "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
     "motivation": [
-      "Sabotage and destruction",
       "Information Theft & Espionage",
-      "Financial Crime"
+      "Financial Crime",
+      "Sabotage & Destruction"
     ],
     "victim_industries": [
       "Aerospace",
@@ -5130,7 +5196,7 @@
       "South Korea",
       "Taiwan",
       "Thailand",
-      "United States of America (USA)",
+      "USA",
       "Vietnam",
       "United Kingdom (UK)"
     ],
@@ -5248,6 +5314,7 @@
       "T1008",
       "T1489"
     ],
+    "merged_name": "Lazarus Group, Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Group 77, Hastati Group, Whois Hacking Team, NewRomanic Cyber Army Team, Zinc, Hidden Cobra, Appleworm, APT-C-26, ATK 3, SectorA01, ITG03, TA404, Operation “Flame”, Operation “Troy”, Operation “Ten Days of Rain” / ”DarkSeoul”, Operation “Blockbuster”: Breach of Sony Pictures Entertainment, Operation “GhostSecret”, Operation “AppleJeus”, Operation “CryptoCore”, Operation “Sharpshooter”, Operation “AppleJeus sequel”, Operation “In(ter)caption”, Operation “North Star”, Operation “Dream Job”, Operation “LolZarus”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Lazarus%20Group.json"
   },
   {
@@ -5298,6 +5365,7 @@
       "T1059.005",
       "T1583.006"
     ],
+    "merged_name": "LazyScripter",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/LazyScripter.json"
   },
   {
@@ -5354,6 +5422,7 @@
       "T1055.013",
       "T1003.005"
     ],
+    "merged_name": "Leafminer, Raspite, Flash Kitten",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leafminer.json"
   },
   {
@@ -5410,7 +5479,7 @@
       "Philippines",
       "Saudi Arabia",
       "Switzerland",
-      "United Kingdom (UK)",
+      "UK",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -5459,6 +5528,7 @@
       "T1090.003",
       "T1197"
     ],
+    "merged_name": "Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, APT40, TEMP.Periscope, APT 40, Bronze Mohawk, Mudcarp, ATK 29, ITG09",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leviathan.json"
   },
   {
@@ -5484,7 +5554,7 @@
       "CTG-8171",
       "ATK 1",
       "ATK 78",
-      "Operation \u201cLotus Blossom\u201d"
+      "Operation “Lotus Blossom”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
@@ -5519,7 +5589,8 @@
       "Vietnam",
       "United States of America (USA)"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "Lotus Blossom, DRAGONFISH, Spring Dragon, Dragonfish, Billbug, Thrip, Bronze Elgin, CTG-8171, ATK 1, ATK 78, Operation “Lotus Blossom”"
   },
   {
     "mitre_attack_id": "intrusion-set--9559ecaf-2e75-48a7-aee8-9974020bc772",
@@ -5572,10 +5643,11 @@
       "Sri Lanka",
       "Taiwan",
       "Thailand",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "MONSOON, Operation HangOver, Monsoon, Viceroy Tiger, Neon"
   },
   {
     "mitre_attack_id": "intrusion-set--38863958-a201-4ce1-9dbe-539b0b6804e0",
@@ -5595,7 +5667,7 @@
       "APT-C-43",
       "ATK 97",
       "TAG-NS1",
-      "Operation \u201cHpReact\u201d",
+      "Operation “HpReact”",
       "El Machete"
     ],
     "etda_first_seen": "2010",
@@ -5653,6 +5725,7 @@
       "T1059.003",
       "T1059.005"
     ],
+    "merged_name": "Machete, APT-C-43, El Machete, TEMP.Andromeda, ATK 97, TAG-NS1, Operation “HpReact”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Machete.json"
   },
   {
@@ -5686,9 +5759,9 @@
       "Phosphorus",
       "TunnelVision",
       "UNC788",
-      "Operation \u201cThamar Reservoir\u201d",
-      "Operation \u201cBadBlood\u201d",
-      "Operation \u201cSpoofedScholars\u201d",
+      "Operation “Thamar Reservoir”",
+      "Operation “BadBlood”",
+      "Operation “SpoofedScholars”",
       "Cobalt Gypsy"
     ],
     "etda_first_seen": "2012",
@@ -5723,7 +5796,7 @@
       "Spain",
       "Syria",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Venezuela",
       "Yemen",
       "United Arab Emirates (UAE)",
@@ -5775,6 +5848,7 @@
       "T1584.001",
       "T1059.001"
     ],
+    "merged_name": "Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, APT 35, Cobalt Illusion, Cobalt Mirage, TEMP.Beanie, Timberworm, Tarh Andishan, TunnelVision, UNC788, Operation “Thamar Reservoir”, Operation “BadBlood”, Operation “SpoofedScholars”, Cobalt Gypsy",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Magic%20Hound.json"
   },
   {
@@ -5807,6 +5881,7 @@
     "mitre_attack_ttps": [
       "T1027.001"
     ],
+    "merged_name": "Moafee",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Moafee.json"
   },
   {
@@ -5861,6 +5936,7 @@
       "T1027",
       "T1566.001"
     ],
+    "merged_name": "Mofang, Whitefly, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mofang.json"
   },
   {
@@ -5885,12 +5961,12 @@
       "Aluminum Saratoga",
       "ATK 89",
       "TAG-CT5",
-      "Operation \u201cMolerats\u201d",
-      "Operation \u201cMoonlight\u201d",
-      "Operation \u201cDustySky\u201d",
-      "Operation \u201cDustySky\u201d Part 2",
-      "Operation \u201cTopHat\u201d",
-      "Operation \u201cSneakyPastes\u201d"
+      "Operation “Molerats”",
+      "Operation “Moonlight”",
+      "Operation “DustySky”",
+      "Operation “DustySky” Part 2",
+      "Operation “TopHat”",
+      "Operation “SneakyPastes”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6a9903bb-0925-4715-83cf-f058c03a003b",
@@ -5942,7 +6018,7 @@
       "South Korea",
       "Syria",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Yemen",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
@@ -5965,6 +6041,7 @@
       "T1059.001",
       "T1555.003"
     ],
+    "merged_name": "Molerats, Operation Molerats, Gaza Cybergang, Extreme Jackal, Gaza Hackers Team, TA402, Aluminum Saratoga, ATK 89, TAG-CT5, Operation “Molerats”, Operation “Moonlight”, Operation “DustySky”, Operation “DustySky” Part 2, Operation “TopHat”, Operation “SneakyPastes”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Molerats.json"
   },
   {
@@ -5994,9 +6071,9 @@
       "ATK 51",
       "T-APT-14",
       "ITG17",
-      "Operation \u201cBlackWater\u201d",
-      "Operation \u201cQuicksand\u201d",
-      "Operation \u201cEarth Vetala\u201d"
+      "Operation “BlackWater”",
+      "Operation “Quicksand”",
+      "Operation “Earth Vetala”"
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0d5af1f9-fa2e-4ce9-a4ce-0c6fade938e9",
@@ -6108,6 +6185,7 @@
       "T1027.003",
       "T1218.005"
     ],
+    "merged_name": "MuddyWater, Earth Vetala , MERCURY, Static Kitten, Seedworm, TEMP.Zagros, Mercury, TA450, Cobalt Ulster, ATK 51, T-APT-14, ITG17, Operation “BlackWater”, Operation “Quicksand”, Operation “Earth Vetala”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/MuddyWater.json"
   },
   {
@@ -6166,7 +6244,7 @@
       "South Korea",
       "South Sudan",
       "Taiwan",
-      "United States of America (USA)",
+      "USA",
       "Vietnam",
       "United Kingdom (UK)"
     ],
@@ -6215,6 +6293,7 @@
       "T1059.003",
       "T1219"
     ],
+    "merged_name": "Mustang Panda, TA416, RedDelta, BRONZE PRESIDENT, Bronze President, TEMP.Hex, HoneyMyte, Red Lich",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mustang%20Panda.json"
   },
   {
@@ -6239,7 +6318,8 @@
     ],
     "victim_industries": "None Provided",
     "victim_countries": "None Provided",
-    "mitre_attack_ttps": []
+    "mitre_attack_ttps": [],
+    "merged_name": "NEODYMIUM, Neodymium"
   },
   {
     "mitre_attack_id": "intrusion-set--2a158b0a-7ef8-43cb-9985-bf34d1e12050",
@@ -6257,7 +6337,7 @@
       "Hellsing",
       "Lotus Panda",
       "ITG06",
-      "Operation \u201cCameraShy\u201d"
+      "Operation “CameraShy”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c62ba18b-436f-4db5-b25d-053daea89259",
@@ -6307,6 +6387,7 @@
       "T1574.002",
       "T1036.005"
     ],
+    "merged_name": "Naikon, Hellsing, Lotus Panda, ITG06, Operation “CameraShy”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Naikon.json"
   },
   {
@@ -6359,6 +6440,7 @@
       "T1588.002",
       "T1078"
     ],
+    "merged_name": "Night Dragon",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Night%20Dragon.json"
   },
   {
@@ -6403,6 +6485,7 @@
       "T1036",
       "T1105"
     ],
+    "merged_name": "Nomadic Octopus, DustSquad, Golden Falcon, APT-C-34",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Nomadic%20Octopus.json"
   },
   {
@@ -6446,10 +6529,10 @@
       "Energy",
       "Government",
       "Hospitality",
+      "Telecommunications",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Oil & Gas",
-      "Telecommunications (Telecoms)"
+      "Oil & Gas"
     ],
     "victim_countries": [
       "Azerbaijan",
@@ -6463,9 +6546,9 @@
       "Qatar",
       "Saudi Arabia",
       "Turkey",
+      "UK",
       "United Arab Emirates (UAE)",
-      "United States of America (USA)",
-      "United Kingdom (UK)"
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1003.005",
@@ -6527,6 +6610,7 @@
       "T1113",
       "T1566.003"
     ],
+    "merged_name": "OilRig, COBALT GYPSY, IRN2, HELIX KITTEN, APT34, APT 34, Helix Kitten, Twisted Kitten, Crambus, Chrysene, Cobalt Gypsy, TA452, ATK 40, ITG13",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/OilRig.json"
   },
   {
@@ -6577,13 +6661,14 @@
       "Sweden",
       "Switzerland",
       "Turkey",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
       "T1071.001",
       "T1021.002"
     ],
+    "merged_name": "Orangeworm",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Orangeworm.json"
   },
   {
@@ -6600,7 +6685,7 @@
     "etda_aliases": [
       "TwoForOne",
       "ATK 33",
-      "Operation \u201cEasternRoppels\u201d",
+      "Operation “EasternRoppels”",
       "Platinum"
     ],
     "etda_first_seen": "2009",
@@ -6638,6 +6723,7 @@
       "T1094",
       "T1056.004"
     ],
+    "merged_name": "PLATINUM, TwoForOne, ATK 33, Operation “EasternRoppels”, Platinum",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PLATINUM.json"
   },
   {
@@ -6700,6 +6786,7 @@
       "T1036.005",
       "T1553.002"
     ],
+    "merged_name": "PROMETHIUM, StrongPity, Promethium, APT-C-41",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PROMETHIUM.json"
   },
   {
@@ -6755,7 +6842,7 @@
       "Pakistan",
       "South Korea",
       "Sri Lanka",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -6799,6 +6886,7 @@
       "T1021.001",
       "T1588.002"
     ],
+    "merged_name": "Patchwork, Hangover Group, Dropping Elephant, Chinastrats, MONSOON, Operation Hangover, APT-C-09, Monsoon, Quilted Tiger, TG-4410, Zinc Emerson, ATK 11",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Patchwork.json"
   },
   {
@@ -6815,7 +6903,7 @@
     "etda_aliases": [
       "PittyTiger",
       "Pitty Panda",
-      "Operation \u201cThe Eye of the Tiger\u201d"
+      "Operation “The Eye of the Tiger”"
     ],
     "etda_first_seen": "2011",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=26627515-afdb-421b-b59e-3a5300210001",
@@ -6835,6 +6923,7 @@
       "T1588.002",
       "T1078"
     ],
+    "merged_name": "PittyTiger, Pitty Panda, Operation “The Eye of the Tiger”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PittyTiger.json"
   },
   {
@@ -6872,7 +6961,7 @@
       "India",
       "Kazakhstan",
       "Russia",
-      "United States of America (USA)",
+      "USA",
       "United Arab Emirates (UAE)"
     ],
     "mitre_attack_ttps": [
@@ -6885,6 +6974,7 @@
       "T1036.005",
       "T1087.001"
     ],
+    "merged_name": "Poseidon Group",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Poseidon%20Group.json"
   },
   {
@@ -6928,6 +7018,7 @@
       "T1027",
       "T1547.001"
     ],
+    "merged_name": "Putter Panda, APT2, MSUpdater, TG-6952, APT 2, Group 36, Sulphur",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Putter%20Panda.json"
   },
   {
@@ -6967,6 +7058,7 @@
       "T1204.002",
       "T1219"
     ],
+    "merged_name": "RTM",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/RTM.json"
   },
   {
@@ -7008,6 +7100,7 @@
       "T1059.003",
       "T1059.005"
     ],
+    "merged_name": "Rancor, Rancor Group",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rancor.json"
   },
   {
@@ -7071,6 +7164,7 @@
       "T1562.004",
       "T1518.001"
     ],
+    "merged_name": "Rocke, Iron Group",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rocke.json"
   },
   {
@@ -7201,6 +7295,7 @@
       "T1105",
       "T1136"
     ],
+    "merged_name": "Sandworm Team, ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, VOODOO BEAR, Sandworm, Iron Viking, CTG-7263, Voodoo Bear, TEMP.Noble, ATK 14, BE2, UAC-0082",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sandworm%20Team.json"
   },
   {
@@ -7228,6 +7323,7 @@
     "mitre_attack_ttps": [
       "T1036.002"
     ],
+    "merged_name": "Scarlet Mimic",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Scarlet%20Mimic.json"
   },
   {
@@ -7300,6 +7396,7 @@
       "T1036.005",
       "T1020"
     ],
+    "merged_name": "Sidewinder, T-APT-04, Rattlesnake, SideWinder, APT-C-17",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sidewinder.json"
   },
   {
@@ -7393,7 +7490,7 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Ukraine",
       "Uzbekistan",
       "Vietnam",
@@ -7430,6 +7527,7 @@
       "T1112",
       "T1571"
     ],
+    "merged_name": "Silence, WHISPER SPIDER, Contract Crew, Whisper Spider, TEMP.TruthTeller, ATK 86, TAG-CR8",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silence.json"
   },
   {
@@ -7471,7 +7569,7 @@
       "Japan",
       "Switzerland",
       "Turkey",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -7489,6 +7587,7 @@
       "T1589.003",
       "T1588.002"
     ],
+    "merged_name": "Silent Librarian, TA407, COBALT DICKENS, Mabna Institute, Cobalt Dickens, Yellow Nabu, TA4900",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silent%20Librarian.json"
   },
   {
@@ -7533,6 +7632,7 @@
       "T1059.003",
       "T1036.005"
     ],
+    "merged_name": "Sowbug",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sowbug.json"
   },
   {
@@ -7562,7 +7662,7 @@
       "Netherlands",
       "Saudi Arabia",
       "Thailand",
-      "United Kingdom (UK)",
+      "UK",
       "United Arab Emirates (UAE)"
     ],
     "mitre_attack_ttps": [
@@ -7583,6 +7683,7 @@
       "T1071.001",
       "T1005"
     ],
+    "merged_name": "Stealth Falcon, FruityArmor, Project Raven",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Stealth%20Falcon.json"
   },
   {
@@ -7627,6 +7728,7 @@
       "T1090.001",
       "T1564.005"
     ],
+    "merged_name": "Strider, ProjectSauron",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Strider.json"
   },
   {
@@ -7667,6 +7769,7 @@
       "T1553.002",
       "T1003"
     ],
+    "merged_name": "Suckfly",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Suckfly.json"
   },
   {
@@ -7705,6 +7808,7 @@
       "T1059.001",
       "T1203"
     ],
+    "merged_name": "TA459",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA459.json"
   },
   {
@@ -7729,14 +7833,14 @@
       "SectorJ04",
       "Hive0065",
       "Chimborazo",
-      "Operation \u201cTrident Breach\u201d",
-      "Operation \u201cTovar\u201d"
+      "Operation “Trident Breach”",
+      "Operation “Tovar”"
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
     "country": "Russia",
     "motivation": [
-      "Financial gain",
+      "Financial Gain",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -7774,6 +7878,7 @@
       "T1568.001",
       "T1069"
     ],
+    "merged_name": "TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation “Trident Breach”, Operation “Tovar”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA505.json"
   },
   {
@@ -7818,6 +7923,7 @@
       "T1204.002",
       "T1027.003"
     ],
+    "merged_name": "TA551, GOLD CABIN, Shathak, Gold Cabin",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA551.json"
   },
   {
@@ -7874,6 +7980,7 @@
       "T1588.002",
       "T1036.005"
     ],
+    "merged_name": "TEMP.Veles, XENOTIME, Xenotime, ATK 91",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TEMP.Veles.json"
   },
   {
@@ -7910,6 +8017,7 @@
     "mitre_attack_ttps": [
       "T1032"
     ],
+    "merged_name": "Taidoor, Budminer",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Taidoor.json"
   },
   {
@@ -7924,7 +8032,7 @@
     "etda_id": "7f575804-406b-4dde-b2ce-563eca80c703",
     "etda_name": "The White Company",
     "etda_aliases": [
-      "Operation \u201cShaheen\u201d",
+      "Operation “Shaheen”",
       "The White Company"
     ],
     "etda_first_seen": "2017",
@@ -7949,6 +8057,7 @@
       "T1203",
       "T1566.001"
     ],
+    "merged_name": "The White Company, Operation “Shaheen”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/The%20White%20Company.json"
   },
   {
@@ -7982,11 +8091,11 @@
       "Iron Tiger",
       "Earth Smilodon",
       "ZipToken",
-      "Operation \u201cIron Tiger\u201d",
-      "Operation \u201cPZChao\u201d",
-      "Operation \u201cSpoiledLegacy\u201d",
-      "Operation \u201cDRBControl\u201d",
-      "Operation \u201cStealthyTrident\u201d"
+      "Operation “Iron Tiger”",
+      "Operation “PZChao”",
+      "Operation “SpoiledLegacy”",
+      "Operation “DRBControl”",
+      "Operation “StealthyTrident”"
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e67091ab-cbea-4d73-984d-e4b29f6c48a9",
@@ -8025,7 +8134,7 @@
       "Thailand",
       "Tibet",
       "Turkey",
-      "United States of America (USA)",
+      "USA",
       "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
@@ -8086,6 +8195,7 @@
       "T1005",
       "T1608.001"
     ],
+    "merged_name": "Threat Group-3390, Earth Smilodon, TG-3390, Emissary Panda, BRONZE UNION, APT27, Iron Tiger, LuckyMouse, APT 27, Bronze Union, TEMP.Hippo, Budworm, Group 35, ATK 15, ZipToken, Operation “Iron Tiger”, Operation “PZChao”, Operation “SpoiledLegacy”, Operation “DRBControl”, Operation “StealthyTrident”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Threat%20Group-3390.json"
   },
   {
@@ -8109,7 +8219,7 @@
       "CTG-8171",
       "ATK 1",
       "ATK 78",
-      "Operation \u201cLotus Blossom\u201d"
+      "Operation “Lotus Blossom”"
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
@@ -8150,6 +8260,7 @@
       "T1588.002",
       "T1219"
     ],
+    "merged_name": "Thrip, Lotus Blossom, Spring Dragon, Dragonfish, Billbug, Bronze Elgin, CTG-8171, ATK 1, ATK 78, Operation “Lotus Blossom”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Thrip.json"
   },
   {
@@ -8174,7 +8285,7 @@
       "CactusPete",
       "Bronze Huntley",
       "LoneRanger",
-      "Operation \u201cBitter Biscuit\u201d",
+      "Operation “Bitter Biscuit”",
       "HartBeat"
     ],
     "etda_first_seen": "2009",
@@ -8216,6 +8327,7 @@
       "T1204.002",
       "T1059.006"
     ],
+    "merged_name": "Tonto Team, Earth Akhlut, BRONZE HUNTLEY, CactusPete, Karma Panda, HeartBeat, Bronze Huntley, LoneRanger, Operation “Bitter Biscuit”, HartBeat",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tonto%20Team.json"
   },
   {
@@ -8241,9 +8353,9 @@
       "TEMP.Lapis",
       "Copper Fieldstone",
       "Earth Karkaddan",
-      "Operation \u201cTransparent Tribe\u201d",
-      "Operation \u201cC-Major\u201d",
-      "Operation \u201cHoney Trap\u201d"
+      "Operation “Transparent Tribe”",
+      "Operation “C-Major”",
+      "Operation “Honey Trap”"
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be967aec-2b55-45f2-86e8-7f22cc66db85",
@@ -8285,7 +8397,7 @@
       "Sweden",
       "Thailand",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
     ],
@@ -8305,6 +8417,7 @@
       "T1583.001",
       "T1204.001"
     ],
+    "merged_name": "Transparent Tribe, COPPER FIELDSTONE, APT36, Mythic Leopard, ProjectM, APT 36, TEMP.Lapis, Copper Fieldstone, Earth Karkaddan, Operation “Transparent Tribe”, Operation “C-Major”, Operation “Honey Trap”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Transparent%20Tribe.json"
   },
   {
@@ -8328,7 +8441,7 @@
       "KeyBoy",
       "Bronze Hobart",
       "Earth Centaur",
-      "Operation \u201cTropic Trooper\u201d"
+      "Operation “Tropic Trooper”"
     ],
     "etda_first_seen": "2011",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dcba8f16-98e2-4d31-b7db-f4f1bdbfdb56",
@@ -8392,6 +8505,7 @@
       "T1036.005",
       "T1106"
     ],
+    "merged_name": "Tropic Trooper, Pirate Panda, KeyBoy, APT 23, Iron, Bronze Hobart, Earth Centaur, Operation “Tropic Trooper”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tropic%20Trooper.json"
   },
   {
@@ -8432,13 +8546,13 @@
       "Popeye",
       "Wraith",
       "TAG-0530",
-      "Operation \u201cMoonlight Maze\u201d",
-      "Operation \u201cEpic Turla\u201d",
-      "Operation \u201cPenguin Turla\u201d",
-      "Operation \u201cSatellite Turla\u201d",
-      "Operation \u201cWITCHCOVEN\u201d",
-      "Operation \u201cSkipper Turla\u201d",
-      "Operation \u201cTurla Mosquito\u201d"
+      "Operation “Moonlight Maze”",
+      "Operation “Epic Turla”",
+      "Operation “Penguin Turla”",
+      "Operation “Satellite Turla”",
+      "Operation “WITCHCOVEN”",
+      "Operation “Skipper Turla”",
+      "Operation “Turla Mosquito”"
     ],
     "etda_first_seen": "1996",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ebff5365-ae36-4e47-a310-28c1f3be0b3a",
@@ -8590,6 +8704,7 @@
       "T1106",
       "T1547.004"
     ],
+    "merged_name": "Turla, IRON HUNTER, Group 88, Belugasturgeon, Waterbug, WhiteBear, VENOMOUS BEAR, Snake, Krypton, Venomous Bear, SIG2, SIG15, SIG23, Iron Hunter, CTG-8875, Pacifier APT, ATK 13, ITG12, Makersmark, Popeye, Wraith, TAG-0530, Operation “Moonlight Maze”, Operation “Epic Turla”, Operation “Penguin Turla”, Operation “Satellite Turla”, Operation “WITCHCOVEN”, Operation “Skipper Turla”, Operation “Turla Mosquito”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Turla.json"
   },
   {
@@ -8625,9 +8740,9 @@
       "Nobelium",
       "Iron Ritual",
       "Cloaked Ursa",
-      "Operation \u201cGhost\u201d",
-      "Operation \u201cOffice monkeys\u201d",
-      "Operation \u201cStellarParticle\u201d"
+      "Operation “Ghost”",
+      "Operation “Office monkeys”",
+      "Operation “StellarParticle”"
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
@@ -8640,12 +8755,12 @@
       "Energy",
       "Government",
       "Media",
+      "Pharmaceutical",
       "Transportation",
       "Think Tanks",
       "Law Enforcement",
       "Non-Governmental Organizations (NGOs)",
-      "Telecommunications (Telecoms)",
-      "Pharmaceuticals"
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Australia",
@@ -8749,6 +8864,7 @@
       "T1083",
       "T1550"
     ],
+    "merged_name": "UNC2452, NOBELIUM, StellarParticle, Dark Halo, APT 29, Cozy Bear, The Dukes, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Cloaked Ursa, Operation “Ghost”, Operation “Office monkeys”, Operation “StellarParticle”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/UNC2452.json"
   },
   {
@@ -8785,7 +8901,7 @@
       "Lebanon",
       "Russia",
       "Saudi Arabia",
-      "United Kingdom (UK)",
+      "UK",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
     ],
@@ -8796,6 +8912,7 @@
       "T1190",
       "T1595.003"
     ],
+    "merged_name": "Volatile Cedar, Lebanese Cedar, Dancing Salome",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Volatile%20Cedar.json"
   },
   {
@@ -8854,6 +8971,7 @@
       "T1027",
       "T1574.001"
     ],
+    "merged_name": "Whitefly, Mofang, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Whitefly.json"
   },
   {
@@ -8902,6 +9020,7 @@
       "T1057",
       "T1033"
     ],
+    "merged_name": "Windshift, Bahamut, WindShift",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Windshift.json"
   },
   {
@@ -8964,6 +9083,7 @@
       "T1553.002",
       "T1014"
     ],
+    "merged_name": "Winnti Group, Blackfly, Wicked Panda",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Winnti%20Group.json"
   },
   {
@@ -8987,13 +9107,13 @@
       "Gold Blackburn",
       "Gold Ulrick",
       "ITG23",
-      "Operation \u201cBazaFlix\u201d"
+      "Operation “BazaFlix”"
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=480940e0-47b0-4295-9067-c2500ccfdaec",
     "country": "Russia",
     "motivation": [
-      "Financial gain",
+      "Financial Gain",
       "Financial Crime"
     ],
     "victim_industries": [
@@ -9052,6 +9172,7 @@
       "T1016",
       "T1055.001"
     ],
+    "merged_name": "Wizard Spider, UNC1878, TEMP.MixMaster, Grim Spider, Gold Blackburn, Gold Ulrick, ITG23, Operation “BazaFlix”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Wizard%20Spider.json"
   },
   {
@@ -9118,6 +9239,7 @@
       "T1573.001",
       "T1555.003"
     ],
+    "merged_name": "ZIRCONIUM, APT31, APT 31, Judgment Panda, Zirconium, RedBravo, Bronze Vinewood, TA412",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/ZIRCONIUM.json"
   },
   {
@@ -9168,6 +9290,7 @@
       "T1204.002",
       "T1059.003"
     ],
+    "merged_name": "admin@338, Temper Panda, Team338, Magnesium",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/admin@338.json"
   },
   {
@@ -9204,13 +9327,13 @@
       "ATK 41",
       "TA429",
       "ITG01",
-      "Operation \u201cCloud Hopper\u201d",
-      "Operation \u201cTradeSecret\u201d",
-      "Operation \u201cChessMaster\u201d",
-      "Operation \u201cSoft Cell\u201d",
-      "Operation \u201cNew Battle\u201d",
-      "Operation \u201cA41APT\u201d",
-      "Operation \u201cCache Panda\u201d"
+      "Operation “Cloud Hopper”",
+      "Operation “TradeSecret”",
+      "Operation “ChessMaster”",
+      "Operation “Soft Cell”",
+      "Operation “New Battle”",
+      "Operation “A41APT”",
+      "Operation “Cache Panda”"
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2aa9ca75-fa1b-422e-9677-02983934f983",
@@ -9258,7 +9381,7 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "United Kingdom (UK)",
+      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
       "United States of America (USA)"
@@ -9312,6 +9435,7 @@
       "T1074.001",
       "T1588.002"
     ],
+    "merged_name": "menuPass, Cicada, POTASSIUM, Stone Panda, APT10, Red Apollo, CVNX, HOGFISH, APT 10, menuPass Team, Potassium, Hogfish, Happyyongzi, Bronze Riverside, CTG-5938, ATK 41, TA429, ITG01, Operation “Cloud Hopper”, Operation “TradeSecret”, Operation “ChessMaster”, Operation “Soft Cell”, Operation “New Battle”, Operation “A41APT”, Operation “Cache Panda”",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/menuPass.json"
   }
 ]
