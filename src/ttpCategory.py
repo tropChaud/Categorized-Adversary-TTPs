@@ -20,6 +20,10 @@ for adversary in mitre_actors['objects']:
         mitre_actor_dict['last_modified'] = last_modified[0]
         mitre_actor_dict['variations'] = []
         mitre_actor_dict['variations_custom'] = []
+        external_references = adversary['external_references']
+        for reference in external_references:
+            if 'external_id' in reference.keys():
+                mitre_actor_dict['url'] = reference['url']
         try:
             variations = adversary['aliases']
             for variation in variations:
@@ -91,6 +95,7 @@ for adversary in etda_actors['values']:
     etda_actor_dict['variations'] = []
     etda_actor_dict['variations_custom'] = []
     metadata = adversary['meta']
+    etda_actor_dict['url'] = 'https://apt.etda.or.th/cgi-bin/showcard.cgi?u=' + adversary['uuid']
     try:
         etda_actor_dict['created'] = metadata['date']
     except KeyError:
@@ -156,10 +161,12 @@ for mitre_actor in mitre_actor_list:
                     merge_dict['mitre_attack_aliases'] = mitre_actor['variations']
                     merge_dict['mitre_attack_created'] = mitre_actor['created']
                     merge_dict['mitre_attack_last_modified'] = mitre_actor['last_modified']
+                    merge_dict['mitre_url'] = mitre_actor['url']
                     merge_dict['etda_id'] = etda_actor['id']
                     merge_dict['etda_name'] = etda_actor['name']
                     merge_dict['etda_aliases'] = etda_actor['variations']
                     merge_dict['etda_first_seen'] = etda_actor['created']
+                    merge_dict['etda_url'] = etda_actor['url']
                     if 'country' in etda_actor.keys():
                         merge_dict['country'] = etda_actor['country']
                     else:
@@ -180,5 +187,5 @@ for mitre_actor in mitre_actor_list:
 
                     merge_list.append(merge_dict)
 
-outfile = open('Categorized_Adversary_TTPs.json', 'w')
-json.dump(merge_list, outfile, indent=2)
+outfile = open('Categorized_Adversary_TTPs.json', 'w', encoding='utf-8')
+json.dump(merge_list, outfile, indent=2, ensure_ascii=False)

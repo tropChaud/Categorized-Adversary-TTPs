@@ -10,6 +10,7 @@
     ],
     "mitre_attack_created": "2021-01-05",
     "mitre_attack_last_modified": "2021-05-04",
+    "mitre_url": "https://attack.mitre.org/groups/G0118",
     "etda_id": "93ba9804-335e-4782-855d-40af22b93201",
     "etda_name": "APT 29, Cozy Bear, The Dukes",
     "etda_aliases": [
@@ -30,11 +31,13 @@
       "StellarParticle",
       "Nobelium",
       "Iron Ritual",
-      "Operation \u201cGhost\u201d",
-      "Operation \u201cOffice monkeys\u201d",
-      "Operation \u201cStellarParticle\u201d"
+      "Cloaked Ursa",
+      "Operation “Ghost”",
+      "Operation “Office monkeys”",
+      "Operation “StellarParticle”"
     ],
     "etda_first_seen": "2008",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -164,14 +167,16 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0003",
     "etda_id": "4622bc44-8c01-4807-8d12-b22352472c29",
     "etda_name": "Cutting Kitten, TG-2889",
     "etda_aliases": [
       "Cutting Kitten",
       "TG-2889",
-      "Operation \u201cCleaver\u201d"
+      "Operation “Cleaver”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4622bc44-8c01-4807-8d12-b22352472c29",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -227,12 +232,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0036",
     "etda_id": "e6eeb30a-a941-46f9-8340-20958f1d6cb0",
     "etda_name": "GCMAN",
     "etda_aliases": [
       "GCMAN"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e6eeb30a-a941-46f9-8340-20958f1d6cb0",
     "country": "RU",
     "motivation": [
       "Financial crime"
@@ -259,6 +266,7 @@
     ],
     "mitre_attack_created": "2020-05-12",
     "mitre_attack_last_modified": "2021-10-14",
+    "mitre_url": "https://attack.mitre.org/groups/G0102",
     "etda_id": "480940e0-47b0-4295-9067-c2500ccfdaec",
     "etda_name": "Wizard Spider, Gold Blackburn",
     "etda_aliases": [
@@ -268,9 +276,10 @@
       "Gold Blackburn",
       "Gold Ulrick",
       "ITG23",
-      "Operation \u201cBazaFlix\u201d"
+      "Operation “BazaFlix”"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=480940e0-47b0-4295-9067-c2500ccfdaec",
     "country": "RU",
     "motivation": [
       "Financial crime",
@@ -348,12 +357,14 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2022-04-17",
+    "mitre_url": "https://attack.mitre.org/groups/G0059",
     "etda_id": "bb9b25ed-9ddc-4f65-bd01-ab8d6efc34ac",
     "etda_name": "Magic Hound, APT 35, Cobalt Gypsy, Charming Kitten",
     "etda_aliases": [
       "Magic Hound",
       "APT 35",
       "Cobalt Illusion",
+      "Cobalt Mirage",
       "Charming Kitten",
       "TEMP.Beanie",
       "Timberworm",
@@ -362,12 +373,13 @@
       "Phosphorus",
       "TunnelVision",
       "UNC788",
-      "Operation \u201cThamar Reservoir\u201d",
-      "Operation \u201cBadBlood\u201d",
-      "Operation \u201cSpoofedScholars\u201d",
+      "Operation “Thamar Reservoir”",
+      "Operation “BadBlood”",
+      "Operation “SpoofedScholars”",
       "Cobalt Gypsy"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bb9b25ed-9ddc-4f65-bd01-ab8d6efc34ac",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -466,6 +478,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0027",
     "etda_id": "e67091ab-cbea-4d73-984d-e4b29f6c48a9",
     "etda_name": "Emissary Panda, APT 27, LuckyMouse, Bronze Union",
     "etda_aliases": [
@@ -481,13 +494,14 @@
       "Iron Tiger",
       "Earth Smilodon",
       "ZipToken",
-      "Operation \u201cIron Tiger\u201d",
-      "Operation \u201cPZChao\u201d",
-      "Operation \u201cSpoiledLegacy\u201d",
-      "Operation \u201cDRBControl\u201d",
-      "Operation \u201cStealthyTrident\u201d"
+      "Operation “Iron Tiger”",
+      "Operation “PZChao”",
+      "Operation “SpoiledLegacy”",
+      "Operation “DRBControl”",
+      "Operation “StealthyTrident”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e67091ab-cbea-4d73-984d-e4b29f6c48a9",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -594,6 +608,7 @@
     ],
     "mitre_attack_created": "2019-05-24",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0091",
     "etda_id": "743a5e7c-a08f-47e1-861c-8789ea1189f9",
     "etda_name": "Silence, Contract Crew",
     "etda_aliases": [
@@ -605,6 +620,7 @@
       "TAG-CR8"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=743a5e7c-a08f-47e1-861c-8789ea1189f9",
     "country": "None Provided",
     "motivation": [
       "Financial crime"
@@ -725,6 +741,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-05-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0032",
     "etda_id": "41dcfaff-d5f0-484d-8649-ef8c61588eec",
     "etda_name": "Lazarus Group, Hidden Cobra, Labyrinth Chollima",
     "etda_aliases": [
@@ -741,21 +758,23 @@
       "ATK 3",
       "SectorA01",
       "ITG03",
-      "Operation \u201cFlame\u201d",
-      "Operation \u201cTroy\u201d",
-      "Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d",
-      "Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment",
-      "Operation \u201cGhostSecret\u201d",
-      "Operation \u201cAppleJeus\u201d",
-      "Operation \u201cCryptoCore\u201d",
-      "Operation \u201cSharpshooter\u201d",
-      "Operation \u201cAppleJeus sequel\u201d",
-      "Operation \u201cIn(ter)caption\u201d",
-      "Operation \u201cNorth Star\u201d",
-      "Operation \u201cDream Job\u201d",
-      "Operation \u201cLolZarus\u201d"
+      "TA404",
+      "Operation “Flame”",
+      "Operation “Troy”",
+      "Operation “Ten Days of Rain” / ”DarkSeoul”",
+      "Operation “Blockbuster”: Breach of Sony Pictures Entertainment",
+      "Operation “GhostSecret”",
+      "Operation “AppleJeus”",
+      "Operation “CryptoCore”",
+      "Operation “Sharpshooter”",
+      "Operation “AppleJeus sequel”",
+      "Operation “In(ter)caption”",
+      "Operation “North Star”",
+      "Operation “Dream Job”",
+      "Operation “LolZarus”"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=41dcfaff-d5f0-484d-8649-ef8c61588eec",
     "country": "KP",
     "motivation": [
       "Information theft and espionage",
@@ -923,6 +942,7 @@
     ],
     "mitre_attack_created": "2019-09-23",
     "mitre_attack_last_modified": "2021-10-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0096",
     "etda_id": "2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
     "etda_name": "APT 41",
     "etda_aliases": [
@@ -934,11 +954,13 @@
       "Earth Baku",
       "SparklingGoblin",
       "Grayfly",
-      "Operation \u201cShadowHammer\u201d",
-      "Operation \u201cColunmTK\u201d",
+      "Operation “ShadowHammer”",
+      "Operation “CuckooBees”",
+      "Operation “ColunmTK”",
       "APT 41"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
     "country": "CN",
     "motivation": [
       "Financial crime",
@@ -1072,6 +1094,7 @@
     ],
     "mitre_attack_created": "2020-05-05",
     "mitre_attack_last_modified": "2022-04-06",
+    "mitre_url": "https://attack.mitre.org/groups/G0098",
     "etda_id": "8914b19b-9d8a-469f-8b95-37db9894e070",
     "etda_name": "BlackTech, Circuit Panda, Radio Panda",
     "etda_aliases": [
@@ -1081,11 +1104,12 @@
       "Palmerworm",
       "TEMP.Overboard",
       "T-APT-03",
-      "Operation \u201cShrouded Crossbow\u201d",
-      "Operation \u201cPLEAD\u201d",
-      "Operation \u201cWaterbear\u201d"
+      "Operation “Shrouded Crossbow”",
+      "Operation “PLEAD”",
+      "Operation “Waterbear”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8914b19b-9d8a-469f-8b95-37db9894e070",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -1130,6 +1154,7 @@
     ],
     "mitre_attack_created": "2021-03-05",
     "mitre_attack_last_modified": "2021-04-22",
+    "mitre_url": "https://attack.mitre.org/groups/G0126",
     "etda_id": "142dc639-1360-4a2d-a839-11e62ca724e4",
     "etda_name": "DarkHotel",
     "etda_aliases": [
@@ -1144,14 +1169,15 @@
       "Higaisa",
       "T-APT-02",
       "Luder",
-      "Operation \u201cDarkHotel\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cInexsmar\u201d",
-      "Operation \u201cThe Gh0st Remains the Same\u201d",
-      "Operation \u201cPowerFall\u201d",
+      "Operation “DarkHotel”",
+      "Operation “Daybreak”",
+      "Operation “Inexsmar”",
+      "Operation “The Gh0st Remains the Same”",
+      "Operation “PowerFall”",
       "DarkHotel"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=142dc639-1360-4a2d-a839-11e62ca724e4",
     "country": "KR",
     "motivation": [
       "Information theft and espionage"
@@ -1255,6 +1281,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-14",
+    "mitre_url": "https://attack.mitre.org/groups/G0016",
     "etda_id": "93ba9804-335e-4782-855d-40af22b93201",
     "etda_name": "APT 29, Cozy Bear, The Dukes",
     "etda_aliases": [
@@ -1275,11 +1302,13 @@
       "StellarParticle",
       "Nobelium",
       "Iron Ritual",
-      "Operation \u201cGhost\u201d",
-      "Operation \u201cOffice monkeys\u201d",
-      "Operation \u201cStellarParticle\u201d"
+      "Cloaked Ursa",
+      "Operation “Ghost”",
+      "Operation “Office monkeys”",
+      "Operation “StellarParticle”"
     ],
     "etda_first_seen": "2008",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -1467,6 +1496,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-03-09",
+    "mitre_url": "https://attack.mitre.org/groups/G0010",
     "etda_id": "ebff5365-ae36-4e47-a310-28c1f3be0b3a",
     "etda_name": "Turla, Waterbug, Venomous Bear",
     "etda_aliases": [
@@ -1488,15 +1518,16 @@
       "Popeye",
       "Wraith",
       "TAG-0530",
-      "Operation \u201cMoonlight Maze\u201d",
-      "Operation \u201cEpic Turla\u201d",
-      "Operation \u201cPenguin Turla\u201d",
-      "Operation \u201cSatellite Turla\u201d",
-      "Operation \u201cWITCHCOVEN\u201d",
-      "Operation \u201cSkipper Turla\u201d",
-      "Operation \u201cTurla Mosquito\u201d"
+      "Operation “Moonlight Maze”",
+      "Operation “Epic Turla”",
+      "Operation “Penguin Turla”",
+      "Operation “Satellite Turla”",
+      "Operation “WITCHCOVEN”",
+      "Operation “Skipper Turla”",
+      "Operation “Turla Mosquito”"
     ],
     "etda_first_seen": "1996",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ebff5365-ae36-4e47-a310-28c1f3be0b3a",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -1660,10 +1691,12 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-05-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0034",
     "etda_id": "7f0a4e84-4c28-4f8c-a70a-3cac308bca90",
     "etda_name": "Sandworm Team, Iron Viking, Voodoo Bear",
     "etda_aliases": [
       "Sandworm Team",
+      "Sandworm",
       "Iron Viking",
       "CTG-7263",
       "Voodoo Bear",
@@ -1674,6 +1707,7 @@
       "UAC-0082"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7f0a4e84-4c28-4f8c-a70a-3cac308bca90",
     "country": "RU",
     "motivation": [
       "Sabotage and destruction"
@@ -1780,13 +1814,15 @@
     ],
     "mitre_attack_created": "2020-08-24",
     "mitre_attack_last_modified": "2022-03-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0114",
     "etda_id": "1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
     "etda_name": "Chimera",
     "etda_aliases": [
-      "Operation \u201cSkeleton Key\u201d",
+      "Operation “Skeleton Key”",
       "Chimera"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -1868,12 +1904,14 @@
     ],
     "mitre_attack_created": "2021-09-21",
     "mitre_attack_last_modified": "2021-10-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0135",
     "etda_id": "18989a3d-e984-40a9-8fd6-ed6f6b318272",
     "etda_name": "BackdoorDiplomacy",
     "etda_aliases": [
       "BackdoorDiplomacy"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=18989a3d-e984-40a9-8fd6-ed6f6b318272",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -1927,12 +1965,14 @@
     ],
     "mitre_attack_created": "2020-06-25",
     "mitre_attack_last_modified": "2021-04-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0112",
     "etda_id": "b75fd09b-c1ba-4b08-8adc-61925e605e78",
     "etda_name": "WindShift",
     "etda_aliases": [
       "WindShift"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b75fd09b-c1ba-4b08-8adc-61925e605e78",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -1971,6 +2011,7 @@
     ],
     "mitre_attack_created": "2019-01-31",
     "mitre_attack_last_modified": "2021-08-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0085",
     "etda_id": "1a7f67d2-c05e-48f6-b62e-76b2bea6d174",
     "etda_name": "FIN4, Wolf Spider",
     "etda_aliases": [
@@ -1978,6 +2019,7 @@
       "Wolf Spider"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1a7f67d2-c05e-48f6-b62e-76b2bea6d174",
     "country": "RO",
     "motivation": [
       "Financial crime"
@@ -2015,6 +2057,7 @@
     ],
     "mitre_attack_created": "2019-01-29",
     "mitre_attack_last_modified": "2022-01-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0082",
     "etda_id": "a979f6ac-99b3-4810-9362-94187db06784",
     "etda_name": "Bluenoroff, APT 38, Stardust Chollima",
     "etda_aliases": [
@@ -2027,6 +2070,7 @@
       "ATK 117"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a979f6ac-99b3-4810-9362-94187db06784",
     "country": "KP",
     "motivation": [
       "Financial crime"
@@ -2088,6 +2132,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-04-22",
+    "mitre_url": "https://attack.mitre.org/groups/G0012",
     "etda_id": "142dc639-1360-4a2d-a839-11e62ca724e4",
     "etda_name": "DarkHotel",
     "etda_aliases": [
@@ -2102,14 +2147,15 @@
       "Higaisa",
       "T-APT-02",
       "Luder",
-      "Operation \u201cDarkHotel\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cInexsmar\u201d",
-      "Operation \u201cThe Gh0st Remains the Same\u201d",
-      "Operation \u201cPowerFall\u201d",
+      "Operation “DarkHotel”",
+      "Operation “Daybreak”",
+      "Operation “Inexsmar”",
+      "Operation “The Gh0st Remains the Same”",
+      "Operation “PowerFall”",
       "DarkHotel"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=142dc639-1360-4a2d-a839-11e62ca724e4",
     "country": "KR",
     "motivation": [
       "Information theft and espionage"
@@ -2208,6 +2254,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-05-13",
+    "mitre_url": "https://attack.mitre.org/groups/G0004",
     "etda_id": "110ed515-11db-4bf1-af41-a66f513ecf70",
     "etda_name": "Ke3chang, Vixen Panda, APT 15, GREF, Playful Dragon",
     "etda_aliases": [
@@ -2224,10 +2271,11 @@
       "Nickel",
       "Metushy",
       "Social Network Team",
-      "Operation \u201cKe3chang\u201d",
-      "Operation \u201cMirageFox\u201d"
+      "Operation “Ke3chang”",
+      "Operation “MirageFox”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=110ed515-11db-4bf1-af41-a66f513ecf70",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -2353,6 +2401,7 @@
     ],
     "mitre_attack_created": "2021-04-12",
     "mitre_attack_last_modified": "2022-04-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0129",
     "etda_id": "d8fa62d2-de5c-4c13-8cdf-6428d02bc4d6",
     "etda_name": "Mustang Panda, Bronze President",
     "etda_aliases": [
@@ -2363,6 +2412,7 @@
       "Red Lich"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8fa62d2-de5c-4c13-8cdf-6428d02bc4d6",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -2458,6 +2508,7 @@
     ],
     "mitre_attack_created": "2019-08-26",
     "mitre_attack_last_modified": "2022-05-24",
+    "mitre_url": "https://attack.mitre.org/groups/G0094",
     "etda_id": "5e3544bf-98ad-4e9f-b65e-85f05c36486f",
     "etda_name": "Kimsuky, Velvet Chollima",
     "etda_aliases": [
@@ -2468,15 +2519,16 @@
       "Black Banshee",
       "ITG16",
       "TA406",
-      "Operation \u201cBaby Coin\u201d",
-      "Operation \u201cStolen Pencil\u201d",
-      "Operation \u201cMystery Baby\u201d",
-      "Operation \u201cKabar Cobra\u201d",
-      "Operation \u201cStealth Power\u201d",
-      "Operation \u201cSmoke Screen\u201d",
-      "Operation \u201cRed Salt\u201d"
+      "Operation “Baby Coin”",
+      "Operation “Stolen Pencil”",
+      "Operation “Mystery Baby”",
+      "Operation “Kabar Cobra”",
+      "Operation “Stealth Power”",
+      "Operation “Smoke Screen”",
+      "Operation “Red Salt”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5e3544bf-98ad-4e9f-b65e-85f05c36486f",
     "country": "KP",
     "motivation": [
       "Information theft and espionage"
@@ -2593,6 +2645,7 @@
     ],
     "mitre_attack_created": "2020-05-26",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0107",
     "etda_id": "59308a4a-3c7b-4589-87e5-0c4d0d19274e",
     "etda_name": "Whitefly, Mofang",
     "etda_aliases": [
@@ -2605,6 +2658,7 @@
       "Superman"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=59308a4a-3c7b-4589-87e5-0c4d0d19274e",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -2655,6 +2709,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0065",
     "etda_id": "b106313a-d204-4d9f-866b-e750a98d0e06",
     "etda_name": "Leviathan, APT 40, TEMP.Periscope",
     "etda_aliases": [
@@ -2669,6 +2724,7 @@
       "ITG09"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b106313a-d204-4d9f-866b-e750a98d0e06",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -2751,6 +2807,7 @@
     ],
     "mitre_attack_created": "2019-05-28",
     "mitre_attack_last_modified": "2021-12-01",
+    "mitre_url": "https://attack.mitre.org/groups/G0092",
     "etda_id": "0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
     "etda_name": "TA505, Graceful Spider, Gold Evergreen",
     "etda_aliases": [
@@ -2763,10 +2820,11 @@
       "SectorJ04",
       "Hive0065",
       "Chimborazo",
-      "Operation \u201cTrident Breach\u201d",
-      "Operation \u201cTovar\u201d"
+      "Operation “Trident Breach”",
+      "Operation “Tovar”"
     ],
     "etda_first_seen": "2006",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
     "country": "RU",
     "motivation": [
       "Financial crime",
@@ -2822,6 +2880,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-01",
+    "mitre_url": "https://attack.mitre.org/groups/G0022",
     "etda_id": "92ced576-2522-4b79-8645-baa5e84ffee3",
     "etda_name": "APT 3, Gothic Panda, Buckeye",
     "etda_aliases": [
@@ -2832,12 +2891,13 @@
       "Bronze Mayfair",
       "UPS Team",
       "Group 6",
-      "Operation \u201cClandestine Fox\u201d",
-      "Operation \u201cClandestine Fox\u201d, Part Deux",
-      "Operation \u201cDouble Tap\u201d",
-      "Operation \u201cClandestine Wolf\u201d"
+      "Operation “Clandestine Fox”",
+      "Operation “Clandestine Fox”, Part Deux",
+      "Operation “Double Tap”",
+      "Operation “Clandestine Wolf”"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92ced576-2522-4b79-8645-baa5e84ffee3",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -2920,6 +2980,7 @@
     ],
     "mitre_attack_created": "2019-04-16",
     "mitre_attack_last_modified": "2022-05-24",
+    "mitre_url": "https://attack.mitre.org/groups/G0088",
     "etda_id": "ea108a02-eb3a-4e08-be7b-bd164fc5c220",
     "etda_name": "TEMP.Veles",
     "etda_aliases": [
@@ -2928,6 +2989,7 @@
       "TEMP.Veles"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ea108a02-eb3a-4e08-be7b-bd164fc5c220",
     "country": "RU",
     "motivation": [
       "Sabotage and destruction"
@@ -2976,6 +3038,7 @@
     ],
     "mitre_attack_created": "2017-12-14",
     "mitre_attack_last_modified": "2022-05-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0049",
     "etda_id": "eeb31f97-edcf-4836-b621-a1865305b91e",
     "etda_name": "OilRig, APT 34, Helix Kitten, Chrysene",
     "etda_aliases": [
@@ -2992,6 +3055,7 @@
       "ITG13"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=eeb31f97-edcf-4836-b621-a1865305b91e",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -3012,6 +3076,7 @@
       "Azerbaijan",
       "Iraq",
       "Israel",
+      "Jordan",
       "Kuwait",
       "Lebanon",
       "Mauritius",
@@ -3095,6 +3160,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2022-05-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0074",
     "etda_id": "3a78595b-3d41-401f-8e8c-ac527a854d08",
     "etda_name": "Berserk Bear, Dragonfly 2.0",
     "etda_aliases": [
@@ -3103,6 +3169,7 @@
       "Dymalloy"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3a78595b-3d41-401f-8e8c-ac527a854d08",
     "country": "RU",
     "motivation": [
       "Sabotage and destruction"
@@ -3139,6 +3206,7 @@
     ],
     "mitre_attack_created": "2020-05-08",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0100",
     "etda_id": "7849ff33-1be0-4715-89b1-3adcb182561a",
     "etda_name": "Inception Framework, Cloud Atlas",
     "etda_aliases": [
@@ -3147,10 +3215,11 @@
       "Oxygen",
       "ATK 116",
       "The Rocra",
-      "Operation \u201cRedOctober\u201d",
-      "Operation \u201cCloud Atlas\u201d"
+      "Operation “RedOctober”",
+      "Operation “Cloud Atlas”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7849ff33-1be0-4715-89b1-3adcb182561a",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -3253,6 +3322,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0080",
     "etda_id": "d8339e9a-c946-4304-aac4-722d8652d273",
     "etda_name": "Cobalt Group",
     "etda_aliases": [
@@ -3264,6 +3334,7 @@
       "Cobalt Group"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8339e9a-c946-4304-aac4-722d8652d273",
     "country": "RU",
     "motivation": [
       "Financial crime"
@@ -3355,6 +3426,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0026",
     "etda_id": "aa2f3420-e239-4b0c-9066-c6f5804de6a8",
     "etda_name": "APT 18, Dynamite Panda, Wekby",
     "etda_aliases": [
@@ -3365,6 +3437,7 @@
       "Scandium"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=aa2f3420-e239-4b0c-9066-c6f5804de6a8",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -3411,6 +3484,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0005",
     "etda_id": "a85ba864-0a13-4337-bd57-8df380b7b4fa",
     "etda_name": "APT 12, Numbered Panda",
     "etda_aliases": [
@@ -3426,6 +3500,7 @@
       "Crimson Iron"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a85ba864-0a13-4337-bd57-8df380b7b4fa",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -3464,6 +3539,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2021-04-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0069",
     "etda_id": "0d5af1f9-fa2e-4ce9-a4ce-0c6fade938e9",
     "etda_name": "MuddyWater, Seedworm, TEMP.Zagros, Static Kitten",
     "etda_aliases": [
@@ -3477,11 +3553,12 @@
       "ATK 51",
       "T-APT-14",
       "ITG17",
-      "Operation \u201cBlackWater\u201d",
-      "Operation \u201cQuicksand\u201d",
-      "Operation \u201cEarth Vetala\u201d"
+      "Operation “BlackWater”",
+      "Operation “Quicksand”",
+      "Operation “Earth Vetala”"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0d5af1f9-fa2e-4ce9-a4ce-0c6fade938e9",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -3599,12 +3676,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0014",
     "etda_id": "4feaae3b-b420-4bd0-ad22-1eccf413d53b",
     "etda_name": "Night Dragon",
     "etda_aliases": [
       "Night Dragon"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4feaae3b-b420-4bd0-ad22-1eccf413d53b",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -3648,15 +3727,17 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0070",
     "etda_id": "fc5237e5-874a-4892-af91-f50550dd9588",
     "etda_name": "Dark Caracal",
     "etda_aliases": [
       "ATK 27",
       "TAG-CT3",
-      "Operation \u201cDark Caracal\u201d",
+      "Operation “Dark Caracal”",
       "Dark Caracal"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=fc5237e5-874a-4892-af91-f50550dd9588",
     "country": "LB",
     "motivation": [
       "Information theft and espionage"
@@ -3720,6 +3801,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2021-03-02",
+    "mitre_url": "https://attack.mitre.org/groups/G0066",
     "etda_id": "58f101e3-5fe8-43d4-8d92-f09987604385",
     "etda_name": "APT 17, Deputy Dog, Elderwood, Sneaky Panda",
     "etda_aliases": [
@@ -3737,11 +3819,12 @@
       "Deputy Dog",
       "ATK 2",
       "Operation Aurora",
-      "Operation \u201cDeputyDog\u201d",
-      "Operation \u201cEphemeral Hydra\u201d",
-      "Operation \u201cRAT Cook\u201d"
+      "Operation “DeputyDog”",
+      "Operation “Ephemeral Hydra”",
+      "Operation “RAT Cook”"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -3795,6 +3878,7 @@
     ],
     "mitre_attack_created": "2021-09-02",
     "mitre_attack_last_modified": "2021-10-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0134",
     "etda_id": "be967aec-2b55-45f2-86e8-7f22cc66db85",
     "etda_name": "Transparent Tribe, APT 36",
     "etda_aliases": [
@@ -3805,11 +3889,12 @@
       "TEMP.Lapis",
       "Copper Fieldstone",
       "Earth Karkaddan",
-      "Operation \u201cTransparent Tribe\u201d",
-      "Operation \u201cC-Major\u201d",
-      "Operation \u201cHoney Trap\u201d"
+      "Operation “Transparent Tribe”",
+      "Operation “C-Major”",
+      "Operation “Honey Trap”"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be967aec-2b55-45f2-86e8-7f22cc66db85",
     "country": "PK",
     "motivation": [
       "Information theft and espionage"
@@ -3877,6 +3962,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-11-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0038",
     "etda_id": "6d2ff349-ad5d-4237-9cb3-3d8891c35fbf",
     "etda_name": "Stealth Falcon, FruityArmor",
     "etda_aliases": [
@@ -3885,6 +3971,7 @@
       "Project Raven"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6d2ff349-ad5d-4237-9cb3-3d8891c35fbf",
     "country": "AE",
     "motivation": [
       "Information theft and espionage"
@@ -3928,6 +4015,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0073",
     "etda_id": "58c7e347-341c-4446-bf03-81fc1f7d9254",
     "etda_name": "APT 19, Deep Panda, C0d0so0",
     "etda_aliases": [
@@ -3938,10 +4026,11 @@
       "TG-3551",
       "Bronze Firestone",
       "Pupa",
-      "Operation \u201cKingslayer\u201d",
+      "Operation “Kingslayer”",
       "C0d0so0"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58c7e347-341c-4446-bf03-81fc1f7d9254",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -3996,6 +4085,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-04-27",
+    "mitre_url": "https://attack.mitre.org/groups/G0021",
     "etda_id": "6a9903bb-0925-4715-83cf-f058c03a003b",
     "etda_name": "Molerats, Extreme Jackal, Gaza Cybergang",
     "etda_aliases": [
@@ -4007,14 +4097,15 @@
       "Aluminum Saratoga",
       "ATK 89",
       "TAG-CT5",
-      "Operation \u201cMolerats\u201d",
-      "Operation \u201cMoonlight\u201d",
-      "Operation \u201cDustySky\u201d",
-      "Operation \u201cDustySky\u201d Part 2",
-      "Operation \u201cTopHat\u201d",
-      "Operation \u201cSneakyPastes\u201d"
+      "Operation “Molerats”",
+      "Operation “Moonlight”",
+      "Operation “DustySky”",
+      "Operation “DustySky” Part 2",
+      "Operation “TopHat”",
+      "Operation “SneakyPastes”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6a9903bb-0925-4715-83cf-f058c03a003b",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -4097,6 +4188,7 @@
     ],
     "mitre_attack_created": "2019-01-29",
     "mitre_attack_last_modified": "2021-04-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0081",
     "etda_id": "dcba8f16-98e2-4d31-b7db-f4f1bdbfdb56",
     "etda_name": "Tropic Trooper, Pirate Panda, APT 23, KeyBoy",
     "etda_aliases": [
@@ -4107,9 +4199,10 @@
       "KeyBoy",
       "Bronze Hobart",
       "Earth Centaur",
-      "Operation \u201cTropic Trooper\u201d"
+      "Operation “Tropic Trooper”"
     ],
     "etda_first_seen": "2011",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dcba8f16-98e2-4d31-b7db-f4f1bdbfdb56",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -4184,6 +4277,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-11-02",
+    "mitre_url": "https://attack.mitre.org/groups/G0040",
     "etda_id": "5ead2470-4d43-44e9-9306-de226d2477e1",
     "etda_name": "Patchwork, Dropping Elephant",
     "etda_aliases": [
@@ -4198,6 +4292,7 @@
       "ATK 11"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5ead2470-4d43-44e9-9306-de226d2477e1",
     "country": "IN",
     "motivation": [
       "Information theft and espionage"
@@ -4277,6 +4372,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2022-05-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0064",
     "etda_id": "958e1f46-a2b6-4beb-8cb0-ddc90c08368e",
     "etda_name": "APT 33, Elfin, Magnallium",
     "etda_aliases": [
@@ -4290,6 +4386,7 @@
       "Cobalt Trinity"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=958e1f46-a2b6-4beb-8cb0-ddc90c08368e",
     "country": "IR",
     "motivation": [
       "Information theft and espionage",
@@ -4363,6 +4460,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-14",
+    "mitre_url": "https://attack.mitre.org/groups/G0037",
     "etda_id": "61c8ecd4-e4e1-4f36-b209-ca55106ec22f",
     "etda_name": "FIN6, Skeleton Spider",
     "etda_aliases": [
@@ -4375,6 +4473,7 @@
       "TAG-CR2"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=61c8ecd4-e4e1-4f36-b209-ca55106ec22f",
     "country": "None Provided",
     "motivation": [
       "Financial crime",
@@ -4439,13 +4538,15 @@
     ],
     "mitre_attack_created": "2019-05-02",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0089",
     "etda_id": "7f575804-406b-4dde-b2ce-563eca80c703",
     "etda_name": "The White Company",
     "etda_aliases": [
-      "Operation \u201cShaheen\u201d",
+      "Operation “Shaheen”",
       "The White Company"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7f575804-406b-4dde-b2ce-563eca80c703",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -4482,6 +4583,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-11",
+    "mitre_url": "https://attack.mitre.org/groups/G0045",
     "etda_id": "2aa9ca75-fa1b-422e-9677-02983934f983",
     "etda_name": "Stone Panda, APT 10, menuPass",
     "etda_aliases": [
@@ -4500,15 +4602,16 @@
       "ATK 41",
       "TA429",
       "ITG01",
-      "Operation \u201cCloud Hopper\u201d",
-      "Operation \u201cTradeSecret\u201d",
-      "Operation \u201cChessMaster\u201d",
-      "Operation \u201cSoft Cell\u201d",
-      "Operation \u201cNew Battle\u201d",
-      "Operation \u201cA41APT\u201d",
-      "Operation \u201cCache Panda\u201d"
+      "Operation “Cloud Hopper”",
+      "Operation “TradeSecret”",
+      "Operation “ChessMaster”",
+      "Operation “Soft Cell”",
+      "Operation “New Battle”",
+      "Operation “A41APT”",
+      "Operation “Cache Panda”"
     ],
     "etda_first_seen": "2006",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2aa9ca75-fa1b-422e-9677-02983934f983",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -4616,6 +4719,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-08-19",
+    "mitre_url": "https://attack.mitre.org/groups/G0019",
     "etda_id": "c62ba18b-436f-4db5-b25d-053daea89259",
     "etda_name": "Naikon, Lotus Panda",
     "etda_aliases": [
@@ -4623,9 +4727,10 @@
       "Hellsing",
       "Lotus Panda",
       "ITG06",
-      "Operation \u201cCameraShy\u201d"
+      "Operation “CameraShy”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c62ba18b-436f-4db5-b25d-053daea89259",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -4683,6 +4788,7 @@
     ],
     "mitre_attack_created": "2021-01-27",
     "mitre_attack_last_modified": "2021-04-21",
+    "mitre_url": "https://attack.mitre.org/groups/G0121",
     "etda_id": "4e925967-099e-4708-9bca-ade4890d847b",
     "etda_name": "SideWinder, Rattlesnake",
     "etda_aliases": [
@@ -4692,6 +4798,7 @@
       "APT-C-17"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4e925967-099e-4708-9bca-ade4890d847b",
     "country": "IN",
     "motivation": [
       "Information theft and espionage"
@@ -4750,12 +4857,14 @@
     ],
     "mitre_attack_created": "2021-09-28",
     "mitre_attack_last_modified": "2021-10-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0137",
     "etda_id": "e4c70f58-d897-472b-8a10-577c0239a678",
     "etda_name": "Ferocious Kitten",
     "etda_aliases": [
       "Ferocious Kitten"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e4c70f58-d897-472b-8a10-577c0239a678",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -4779,6 +4888,7 @@
     ],
     "mitre_attack_created": "2020-05-26",
     "mitre_attack_last_modified": "2020-06-19",
+    "mitre_url": "https://attack.mitre.org/groups/G0106",
     "etda_id": "bacc587d-719b-4555-bc37-db7a9455dc6a",
     "etda_name": "Rocke, Iron Group",
     "etda_aliases": [
@@ -4786,6 +4896,7 @@
       "Iron Group"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bacc587d-719b-4555-bc37-db7a9455dc6a",
     "country": "CN",
     "motivation": [
       "Financial gain"
@@ -4842,6 +4953,7 @@
     ],
     "mitre_attack_created": "2017-12-14",
     "mitre_attack_last_modified": "2021-10-14",
+    "mitre_url": "https://attack.mitre.org/groups/G0050",
     "etda_id": "b79f69a4-18a3-4d4f-b6e5-5ad3e01c984b",
     "etda_name": "APT 32, OceanLotus, SeaLotus",
     "etda_aliases": [
@@ -4853,10 +4965,11 @@
       "Tin Woodlawn",
       "ATK 17",
       "SectorF01",
-      "Operation \u201cPhantomLance\u201d",
-      "Operation \u201cCobalt Kitty\u201d"
+      "Operation “PhantomLance”",
+      "Operation “Cobalt Kitty”"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b79f69a4-18a3-4d4f-b6e5-5ad3e01c984b",
     "country": "VN",
     "motivation": [
       "Information theft and espionage"
@@ -4987,6 +5100,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0018",
     "etda_id": "d54adbf5-1684-4824-8416-045b3265eb3d",
     "etda_name": "Temper Panda, admin@338",
     "etda_aliases": [
@@ -4996,6 +5110,7 @@
       "Magnesium"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d54adbf5-1684-4824-8416-045b3265eb3d",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5037,6 +5152,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-02-02",
+    "mitre_url": "https://attack.mitre.org/groups/G0046",
     "etda_id": "c3f1f1ff-7d79-4385-bb5b-340c252c5a77",
     "etda_name": "FIN7",
     "etda_aliases": [
@@ -5050,6 +5166,7 @@
       "FIN7"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c3f1f1ff-7d79-4385-bb5b-340c252c5a77",
     "country": "RU",
     "motivation": [
       "Financial crime"
@@ -5126,6 +5243,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0015",
     "etda_id": "24403b57-1bb4-4c24-964c-ac2a35e67869",
     "etda_name": "Taidoor",
     "etda_aliases": [
@@ -5133,6 +5251,7 @@
       "Taidoor"
     ],
     "etda_first_seen": "2008",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=24403b57-1bb4-4c24-964c-ac2a35e67869",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5166,6 +5285,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-05-24",
+    "mitre_url": "https://attack.mitre.org/groups/G0035",
     "etda_id": "a1492ea6-162c-46a9-a2d5-9618641b5ab2",
     "etda_name": "Energetic Bear, Dragonfly",
     "etda_aliases": [
@@ -5182,6 +5302,7 @@
       "Bromine"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a1492ea6-162c-46a9-a2d5-9618641b5ab2",
     "country": "RU",
     "motivation": [
       "Sabotage and destruction"
@@ -5286,6 +5407,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0006",
     "etda_id": "b99367ed-e483-40a3-98d0-8d3a2102a4ab",
     "etda_name": "Comment Crew, APT 1",
     "etda_aliases": [
@@ -5299,11 +5421,12 @@
       "Byzantine Candor",
       "Shanghai Group",
       "GIF89a",
-      "Operation \u201cSeasalt\u201d",
-      "Operation \u201cSiesta\u201d",
-      "Operation \u201cOceansalt\u201d"
+      "Operation “Seasalt”",
+      "Operation “Siesta”",
+      "Operation “Oceansalt”"
     ],
     "etda_first_seen": "2006",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b99367ed-e483-40a3-98d0-8d3a2102a4ab",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5397,6 +5520,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-03-16",
+    "mitre_url": "https://attack.mitre.org/groups/G0007",
     "etda_id": "e6037735-ed1b-4ae3-a45b-45d66e2c80f1",
     "etda_name": "Sofacy, APT 28, Fancy Bear, Sednit",
     "etda_aliases": [
@@ -5419,13 +5543,14 @@
       "TAG-0700",
       "UAC-0028",
       "Grizzly Steppe",
-      "Operation \u201cPawn Storm\u201d",
-      "Operation \u201cRussian Doll\u201d",
-      "Operation \u201cKomplex\u201d",
-      "Operation \u201cDealersChoice\u201d",
-      "Operation \u201cDear Joohn\u201d"
+      "Operation “Pawn Storm”",
+      "Operation “Russian Doll”",
+      "Operation “Komplex”",
+      "Operation “DealersChoice”",
+      "Operation “Dear Joohn”"
     ],
     "etda_first_seen": "2004",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e6037735-ed1b-4ae3-a45b-45d66e2c80f1",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -5599,6 +5724,7 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2020-10-22",
+    "mitre_url": "https://attack.mitre.org/groups/G0056",
     "etda_id": "c33e0a3e-f5b9-46e2-9fab-f19869292c11",
     "etda_name": "Promethium, StrongPity",
     "etda_aliases": [
@@ -5607,6 +5733,7 @@
       "APT-C-41"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c33e0a3e-f5b9-46e2-9fab-f19869292c11",
     "country": "TR",
     "motivation": [
       "Information theft and espionage"
@@ -5659,6 +5786,7 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0060",
     "etda_id": "334d9e0e-dab2-4bc5-8db2-5ab016f36947",
     "etda_name": "Bronze Butler, Tick, RedBaldNight, Stalker Panda",
     "etda_aliases": [
@@ -5668,9 +5796,10 @@
       "TEMP.Tick",
       "RedBaldNight",
       "Stalker Panda",
-      "Operation \u201cENDTRADE\u201d"
+      "Operation “ENDTRADE”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=334d9e0e-dab2-4bc5-8db2-5ab016f36947",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5748,6 +5877,7 @@
     ],
     "mitre_attack_created": "2021-03-24",
     "mitre_attack_last_modified": "2021-04-20",
+    "mitre_url": "https://attack.mitre.org/groups/G0128",
     "etda_id": "e3e29e0b-f472-4a46-bbb7-d328b2348fcf",
     "etda_name": "APT 31, Judgment Panda, Zirconium",
     "etda_aliases": [
@@ -5755,9 +5885,11 @@
       "Judgment Panda",
       "Zirconium",
       "RedBravo",
-      "Bronze Vinewood"
+      "Bronze Vinewood",
+      "TA412"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e3e29e0b-f472-4a46-bbb7-d328b2348fcf",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5809,12 +5941,14 @@
     ],
     "mitre_attack_created": "2021-09-24",
     "mitre_attack_last_modified": "2021-10-16",
+    "mitre_url": "https://attack.mitre.org/groups/G0136",
     "etda_id": "b4571e18-c0c8-42fb-9c03-aa7b5b29b2b7",
     "etda_name": "IndigoZebra",
     "etda_aliases": [
       "IndigoZebra"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b4571e18-c0c8-42fb-9c03-aa7b5b29b2b7",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5847,6 +5981,7 @@
     ],
     "mitre_attack_created": "2021-05-05",
     "mitre_attack_last_modified": "2022-01-27",
+    "mitre_url": "https://attack.mitre.org/groups/G0131",
     "etda_id": "85b77804-7780-4bd9-9332-f250525122a8",
     "etda_name": "Tonto Team, HartBeat, Karma Panda",
     "etda_aliases": [
@@ -5856,10 +5991,11 @@
       "CactusPete",
       "Bronze Huntley",
       "LoneRanger",
-      "Operation \u201cBitter Biscuit\u201d",
+      "Operation “Bitter Biscuit”",
       "HartBeat"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=85b77804-7780-4bd9-9332-f250525122a8",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5907,12 +6043,14 @@
     ],
     "mitre_attack_created": "2021-03-03",
     "mitre_attack_last_modified": "2022-04-16",
+    "mitre_url": "https://attack.mitre.org/groups/G0125",
     "etda_id": "7c88c982-c383-4552-90b4-cbb67ec5240f",
     "etda_name": "Hafnium",
     "etda_aliases": [
       "Hafnium"
     ],
     "etda_first_seen": "2021",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7c88c982-c383-4552-90b4-cbb67ec5240f",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -5956,6 +6094,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-02-09",
+    "mitre_url": "https://attack.mitre.org/groups/G0009",
     "etda_id": "58c7e347-341c-4446-bf03-81fc1f7d9254",
     "etda_name": "APT 19, Deep Panda, C0d0so0",
     "etda_aliases": [
@@ -5966,10 +6105,11 @@
       "TG-3551",
       "Bronze Firestone",
       "Pupa",
-      "Operation \u201cKingslayer\u201d",
+      "Operation “Kingslayer”",
       "C0d0so0"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58c7e347-341c-4446-bf03-81fc1f7d9254",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -6012,6 +6152,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0077",
     "etda_id": "bde56229-34b6-4a33-b6c0-358d41416ee3",
     "etda_name": "Leafminer, Raspite",
     "etda_aliases": [
@@ -6020,6 +6161,7 @@
       "Flash Kitten"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bde56229-34b6-4a33-b6c0-358d41416ee3",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -6064,20 +6206,23 @@
     ],
     "mitre_attack_created": "2021-01-22",
     "mitre_attack_last_modified": "2021-04-27",
+    "mitre_url": "https://attack.mitre.org/groups/G0120",
     "etda_id": "e5ad7790-80c8-4319-a52e-469e20c95573",
     "etda_name": "Evilnum",
     "etda_aliases": [
       "Jointworm",
-      "Operation \u201cPhantom in the Command Shell\u201d",
+      "Operation “Phantom in the Command Shell”",
       "Evilnum"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e5ad7790-80c8-4319-a52e-469e20c95573",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
     ],
     "victim_industries": [
-      "Financial"
+      "Financial",
+      "Government"
     ],
     "victim_countries": [
       "Albania",
@@ -6119,6 +6264,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0047",
     "etda_id": "a48ab06b-092a-481d-ae0b-c4050ed281f7",
     "etda_name": "Gamaredon Group",
     "etda_aliases": [
@@ -6137,6 +6283,7 @@
       "Gamaredon Group"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a48ab06b-092a-481d-ae0b-c4050ed281f7",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -6249,12 +6396,14 @@
     ],
     "mitre_attack_created": "2021-11-24",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0140",
     "etda_id": "84510b1b-3499-4a9f-bbeb-90b391e3d2cf",
     "etda_name": "LazyScripter",
     "etda_aliases": [
       "LazyScripter"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=84510b1b-3499-4a9f-bbeb-90b391e3d2cf",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -6298,6 +6447,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0024",
     "etda_id": "028aa521-2de8-49c4-88d7-455f4d9141ba",
     "etda_name": "Putter Panda, APT 2",
     "etda_aliases": [
@@ -6308,6 +6458,7 @@
       "Sulphur"
     ],
     "etda_first_seen": "2007",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=028aa521-2de8-49c4-88d7-455f4d9141ba",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -6336,12 +6487,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-05-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0048",
     "etda_id": "72d3f856-6883-4840-bf43-a3dd24c61bbc",
     "etda_name": "RTM",
     "etda_aliases": [
       "RTM"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=72d3f856-6883-4840-bf43-a3dd24c61bbc",
     "country": "RU",
     "motivation": [
       "Financial crime"
@@ -6374,6 +6527,7 @@
     ],
     "mitre_attack_created": "2019-09-13",
     "mitre_attack_last_modified": "2021-10-06",
+    "mitre_url": "https://attack.mitre.org/groups/G0095",
     "etda_id": "833458a9-a8a0-4efb-be06-d5ef87b6b842",
     "etda_name": "El Machete",
     "etda_aliases": [
@@ -6381,10 +6535,11 @@
       "APT-C-43",
       "ATK 97",
       "TAG-NS1",
-      "Operation \u201cHpReact\u201d",
+      "Operation “HpReact”",
       "El Machete"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=833458a9-a8a0-4efb-be06-d5ef87b6b842",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -6447,12 +6602,14 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0054",
     "etda_id": "76db0506-25f4-4b80-90aa-032d0a8345fe",
     "etda_name": "Sowbug",
     "etda_aliases": [
       "Sowbug"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=76db0506-25f4-4b80-90aa-032d0a8345fe",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -6489,17 +6646,21 @@
     ],
     "mitre_attack_created": "2019-07-18",
     "mitre_attack_last_modified": "2021-04-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0093",
     "etda_id": "8dd3c489-96f1-412f-9eec-60f96a674571",
     "etda_name": "Gallium",
     "etda_aliases": [
       "Gallium"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8dd3c489-96f1-412f-9eec-60f96a674571",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
     ],
     "victim_industries": [
+      "Financial",
+      "Government",
       "Telecommunications"
     ],
     "victim_countries": "None Provided",
@@ -6545,6 +6706,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0079",
     "etda_id": "2849cc26-d6c8-4484-821e-cb0f7006bddc",
     "etda_name": "DarkHydrus, LazyMeerkat",
     "etda_aliases": [
@@ -6553,6 +6715,7 @@
       "ATK 77"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2849cc26-d6c8-4484-821e-cb0f7006bddc",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -6585,6 +6748,7 @@
     ],
     "mitre_attack_created": "2019-02-19",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0087",
     "etda_id": "d7f937b7-b50b-4022-bca1-9e403ffefe45",
     "etda_name": "Chafer, APT 39",
     "etda_aliases": [
@@ -6596,6 +6760,7 @@
       "ITG07"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d7f937b7-b50b-4022-bca1-9e403ffefe45",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -6684,24 +6849,27 @@
     ],
     "mitre_attack_created": "2021-09-29",
     "mitre_attack_last_modified": "2022-05-24",
+    "mitre_url": "https://attack.mitre.org/groups/G0138",
     "etda_id": "00089621-cabc-421a-b2ce-3fd18f6bfa9c",
     "etda_name": "Andariel, Silent Chollima",
     "etda_aliases": [
       "Andariel",
       "Silent Chollima",
       "Stonefly",
-      "Operation \u201cBLACKMINE\u201d",
-      "Operation \u201cGHOSTRAT\u201d",
-      "Operation \u201cXEDA\u201d",
-      "Operation \u201cINITROY\u201d/Phase 1",
-      "Operation \u201cDESERTWOLF\u201d/Phase 3",
-      "Operation \u201cBLACKSHEEP\u201d/Phase 3.",
-      "Operation \u201cINITROY\u201d/Phase 2",
-      "Operation \u201cVANXATM\u201d",
-      "Operation \u201cMayday\u201d",
-      "Operation \u201cGoldenAxe\u201d"
+      "Plutonium",
+      "Operation “BLACKMINE”",
+      "Operation “GHOSTRAT”",
+      "Operation “XEDA”",
+      "Operation “INITROY”/Phase 1",
+      "Operation “DESERTWOLF”/Phase 3",
+      "Operation “BLACKSHEEP”/Phase 3.",
+      "Operation “INITROY”/Phase 2",
+      "Operation “VANXATM”",
+      "Operation “Mayday”",
+      "Operation “GoldenAxe”"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=00089621-cabc-421a-b2ce-3fd18f6bfa9c",
     "country": "KP",
     "motivation": [
       "Information theft and espionage"
@@ -6737,6 +6905,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2021-10-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0067",
     "etda_id": "be6e7cee-7c2c-4298-941d-01b2106284e6",
     "etda_name": "Reaper, APT 37, Ricochet Chollima, ScarCruft",
     "etda_aliases": [
@@ -6754,29 +6923,30 @@
       "InkySquid",
       "ATK 4",
       "ITG10",
-      "Operation \u201cErebus\u201d",
-      "Operation \u201cDaybreak\u201d",
-      "Operation \u201cGolden Time\u201d",
-      "Operation \u201cEvil New Year\u201d",
-      "Operation \u201cAre You Happy?\u201d",
-      "Operation \u201cFreeMilk\u201d",
-      "Operation \u201cNorth Korean Human Right\u201d",
-      "Operation \u201cFractured Block\u201d",
-      "Operation \u201cEvil New Year 2018\u201d",
-      "Operation \u201cBattle Cruiser\u201d",
-      "Operation \u201cStar Cruiser\u201d",
-      "Operation \u201cOnezero\u201d",
-      "Operation \u201cRocket Man\u201d",
-      "Operation \u201cKorean Sword\u201d",
-      "Operation \u201cHoliday Wiper\u201d",
-      "Operation \u201cGolden Bird\u201d",
-      "Operation \u201cHigh Expert\u201d",
-      "Operation \u201cBlack Banner\u201d",
-      "Operation \u201cFractured Statue\u201d",
-      "Operation \u201cDragon messenger\u201d",
-      "Operation \u201cSpy Cloud\u201d"
+      "Operation “Erebus”",
+      "Operation “Daybreak”",
+      "Operation “Golden Time”",
+      "Operation “Evil New Year”",
+      "Operation “Are You Happy?”",
+      "Operation “FreeMilk”",
+      "Operation “North Korean Human Right”",
+      "Operation “Fractured Block”",
+      "Operation “Evil New Year 2018”",
+      "Operation “Battle Cruiser”",
+      "Operation “Star Cruiser”",
+      "Operation “Onezero”",
+      "Operation “Rocket Man”",
+      "Operation “Korean Sword”",
+      "Operation “Holiday Wiper”",
+      "Operation “Golden Bird”",
+      "Operation “High Expert”",
+      "Operation “Black Banner”",
+      "Operation “Fractured Statue”",
+      "Operation “Dragon messenger”",
+      "Operation “Spy Cloud”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be6e7cee-7c2c-4298-941d-01b2106284e6",
     "country": "KP",
     "motivation": [
       "Information theft and espionage"
@@ -6849,6 +7019,7 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0061",
     "etda_id": "92691488-ff3b-4ff0-92f1-1c732bce88d2",
     "etda_name": "FIN8",
     "etda_aliases": [
@@ -6856,6 +7027,7 @@
       "FIN8"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92691488-ff3b-4ff0-92f1-1c732bce88d2",
     "country": "None Provided",
     "motivation": [
       "Financial crime"
@@ -6918,6 +7090,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-10-13",
+    "mitre_url": "https://attack.mitre.org/groups/G0025",
     "etda_id": "58f101e3-5fe8-43d4-8d92-f09987604385",
     "etda_name": "APT 17, Deputy Dog, Elderwood, Sneaky Panda",
     "etda_aliases": [
@@ -6935,11 +7108,12 @@
       "Deputy Dog",
       "ATK 2",
       "Operation Aurora",
-      "Operation \u201cDeputyDog\u201d",
-      "Operation \u201cEphemeral Hydra\u201d",
-      "Operation \u201cRAT Cook\u201d"
+      "Operation “DeputyDog”",
+      "Operation “Ephemeral Hydra”",
+      "Operation “RAT Cook”"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -6982,12 +7156,14 @@
     ],
     "mitre_attack_created": "2022-01-18",
     "mitre_attack_last_modified": "2022-04-21",
+    "mitre_url": "https://attack.mitre.org/groups/G0143",
     "etda_id": "0730437a-1b64-4777-a920-64bbe97214c0",
     "etda_name": "Aquatic Panda",
     "etda_aliases": [
       "Aquatic Panda"
     ],
     "etda_first_seen": "2020",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0730437a-1b64-4777-a920-64bbe97214c0",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7026,6 +7202,7 @@
     ],
     "mitre_attack_created": "2021-02-03",
     "mitre_attack_last_modified": "2021-04-21",
+    "mitre_url": "https://attack.mitre.org/groups/G0122",
     "etda_id": "dfa23dfc-0cb8-4621-bde5-1583e1e7bfa4",
     "etda_name": "Mabna Institute, Cobalt Dickens, Silent Librarian",
     "etda_aliases": [
@@ -7037,6 +7214,7 @@
       "TA4900"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dfa23dfc-0cb8-4621-bde5-1583e1e7bfa4",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -7081,15 +7259,18 @@
     ],
     "mitre_attack_created": "2021-01-06",
     "mitre_attack_last_modified": "2022-03-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0119",
     "etda_id": "a13e6ede-eb86-499f-837e-820845da04a6",
     "etda_name": "Indrik Spider",
     "etda_aliases": [
       "Gold Drake",
       "Gold Winter",
       "Evil Corp",
+      "UNC2165",
       "Indrik Spider"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a13e6ede-eb86-499f-837e-820845da04a6",
     "country": "RU",
     "motivation": [
       "Financial crime",
@@ -7133,6 +7314,7 @@
     ],
     "mitre_attack_created": "2020-05-05",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0099",
     "etda_id": "1421d8ca-9aff-4245-8ee4-cdf72c4c65c5",
     "etda_name": "Blind Eagle",
     "etda_aliases": [
@@ -7140,6 +7322,7 @@
       "Blind Eagle"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1421d8ca-9aff-4245-8ee4-cdf72c4c65c5",
     "country": "CO",
     "motivation": [
       "Information theft and espionage"
@@ -7178,6 +7361,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0044",
     "etda_id": "55d0e323-bb26-4779-b09f-cae04740b0bd",
     "etda_name": "Winnti Group, Blackfly, Wicked Panda",
     "etda_aliases": [
@@ -7186,6 +7370,7 @@
       "Wicked Panda"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=55d0e323-bb26-4779-b09f-cae04740b0bd",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7237,6 +7422,7 @@
     ],
     "mitre_attack_created": "2021-08-24",
     "mitre_attack_last_modified": "2021-10-14",
+    "mitre_url": "https://attack.mitre.org/groups/G0133",
     "etda_id": "982ea477-0c28-490e-87d6-3f43da257cae",
     "etda_name": "DustSquad, Golden Falcon",
     "etda_aliases": [
@@ -7246,6 +7432,7 @@
       "Nomadic Octopus"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=982ea477-0c28-490e-87d6-3f43da257cae",
     "country": "RU",
     "motivation": [
       "Information theft and espionage"
@@ -7277,6 +7464,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0078",
     "etda_id": "7d44d2cd-98a0-4bcf-8ad3-02e3c382cbad",
     "etda_name": "Gorgon Group",
     "etda_aliases": [
@@ -7286,6 +7474,7 @@
       "Gorgon Group"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7d44d2cd-98a0-4bcf-8ad3-02e3c382cbad",
     "country": "PK",
     "motivation": [
       "Information theft and espionage"
@@ -7329,15 +7518,17 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2021-04-22",
+    "mitre_url": "https://attack.mitre.org/groups/G0068",
     "etda_id": "69d35f6f-9bd8-4d36-b120-2b563ef06841",
     "etda_name": "Platinum",
     "etda_aliases": [
       "TwoForOne",
       "ATK 33",
-      "Operation \u201cEasternRoppels\u201d",
+      "Operation “EasternRoppels”",
       "Platinum"
     ],
     "etda_first_seen": "2009",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=69d35f6f-9bd8-4d36-b120-2b563ef06841",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7380,12 +7571,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0039",
     "etda_id": "155b1a73-17ac-449e-bdcd-54a79119b397",
     "etda_name": "Suckfly",
     "etda_aliases": [
       "Suckfly"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=155b1a73-17ac-449e-bdcd-54a79119b397",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7419,6 +7612,7 @@
     ],
     "mitre_attack_created": "2021-03-19",
     "mitre_attack_last_modified": "2021-09-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0127",
     "etda_id": "269da320-1b20-4721-9bd6-17e0a355fe7d",
     "etda_name": "TA551, Shathak",
     "etda_aliases": [
@@ -7427,6 +7621,7 @@
       "Shathak"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=269da320-1b20-4721-9bd6-17e0a355fe7d",
     "country": "None Provided",
     "motivation": [
       "Financial gain"
@@ -7459,14 +7654,16 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-04-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0001",
     "etda_id": "6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
     "etda_name": "Axiom, Group 72",
     "etda_aliases": [
       "Axiom",
       "Group 72",
-      "Operation \u201cSMN\u201d"
+      "Operation “SMN”"
     ],
     "etda_first_seen": "2008",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7511,12 +7708,14 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2020-07-23",
+    "mitre_url": "https://attack.mitre.org/groups/G0072",
     "etda_id": "84c2b582-22dd-4dd0-b690-a7b4ff3477ee",
     "etda_name": "Honeybee",
     "etda_aliases": [
       "Honeybee"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=84c2b582-22dd-4dd0-b690-a7b4ff3477ee",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -7564,6 +7763,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0008",
     "etda_id": "e5869096-4b2d-406d-b8d1-713eda321457",
     "etda_name": "Carbanak, Anunak",
     "etda_aliases": [
@@ -7573,6 +7773,7 @@
       "Gold Waterfall"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e5869096-4b2d-406d-b8d1-713eda321457",
     "country": "UA",
     "motivation": [
       "Financial crime",
@@ -7634,14 +7835,16 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0011",
     "etda_id": "26627515-afdb-421b-b59e-3a5300210001",
     "etda_name": "PittyTiger, Pitty Panda",
     "etda_aliases": [
       "PittyTiger",
       "Pitty Panda",
-      "Operation \u201cThe Eye of the Tiger\u201d"
+      "Operation “The Eye of the Tiger”"
     ],
     "etda_first_seen": "2011",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=26627515-afdb-421b-b59e-3a5300210001",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7667,12 +7870,14 @@
     ],
     "mitre_attack_created": "2021-05-24",
     "mitre_attack_last_modified": "2021-10-15",
+    "mitre_url": "https://attack.mitre.org/groups/G0132",
     "etda_id": "18339642-2d15-4dae-abfe-27abe661b911",
     "etda_name": "CostaRicto",
     "etda_aliases": [
       "CostaRicto"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=18339642-2d15-4dae-abfe-27abe661b911",
     "country": "None Provided",
     "motivation": [
       "Financial gain"
@@ -7709,6 +7914,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0076",
     "etda_id": "3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
     "etda_name": "Lotus Blossom, Spring Dragon, Thrip",
     "etda_aliases": [
@@ -7721,9 +7927,10 @@
       "CTG-8171",
       "ATK 1",
       "ATK 78",
-      "Operation \u201cLotus Blossom\u201d"
+      "Operation “Lotus Blossom”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7775,15 +7982,17 @@
     ],
     "mitre_attack_created": "2021-04-14",
     "mitre_attack_last_modified": "2021-12-17",
+    "mitre_url": "https://attack.mitre.org/groups/G0130",
     "etda_id": "9d17cae3-0777-428b-b9b7-fcbdf52af5ba",
     "etda_name": "Flying Kitten, Ajax Security Team",
     "etda_aliases": [
       "Flying Kitten",
       "Ajax Security Team",
       "Group 26",
-      "Operation \u201cSaffron Rose\u201d"
+      "Operation “Saffron Rose”"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d17cae3-0777-428b-b9b7-fcbdf52af5ba",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -7811,12 +8020,14 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2021-10-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0071",
     "etda_id": "571b223a-c3cd-4c5c-a4fb-7fa7f3ce4502",
     "etda_name": "Orangeworm",
     "etda_aliases": [
       "Orangeworm"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=571b223a-c3cd-4c5c-a4fb-7fa7f3ce4502",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -7865,14 +8076,16 @@
     ],
     "mitre_attack_created": "2021-11-30",
     "mitre_attack_last_modified": "2022-05-04",
+    "mitre_url": "https://attack.mitre.org/groups/G0141",
     "etda_id": "80d60b05-bf0a-4630-afa8-666fa6f72147",
     "etda_name": "Gelsemium",
     "etda_aliases": [
-      "Operation \u201cTooHash\u201d",
-      "Operation \u201cNightScout\u201d",
+      "Operation “TooHash”",
+      "Operation “NightScout”",
       "Gelsemium"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=80d60b05-bf0a-4630-afa8-666fa6f72147",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -7881,29 +8094,45 @@
       "Education",
       "Gaming",
       "Government",
-      "High-Tech"
+      "High-Tech",
+      "NGOs"
     ],
     "victim_countries": [
+      "Argentina",
+      "Brunei",
       "China",
+      "Djibouti",
       "Egypt",
+      "Equatorial Guinea",
       "Hong Kong",
+      "Indonesia",
       "Iran",
       "Iraq",
       "Israel",
       "Japan",
       "Jordan",
+      "Kenya",
+      "Laos",
       "Lebanon",
+      "Malaysia",
       "Mongolia",
+      "Nigeria",
       "North Korea",
       "Oman",
+      "Pakistan",
+      "Russia",
       "Saudi Arabia",
       "South Korea",
       "Sri Lanka",
+      "Swaziland",
       "Syria",
       "Taiwan",
+      "Thailand",
       "Turkey",
-      "Yemen",
-      "UAE"
+      "UAE",
+      "UK",
+      "Vietnam",
+      "Yemen"
     ],
     "mitre_attack_ttps": []
   },
@@ -7915,6 +8144,7 @@
     ],
     "mitre_attack_created": "2020-05-12",
     "mitre_attack_last_modified": "2020-05-29",
+    "mitre_url": "https://attack.mitre.org/groups/G0103",
     "etda_id": "59308a4a-3c7b-4589-87e5-0c4d0d19274e",
     "etda_name": "Whitefly, Mofang",
     "etda_aliases": [
@@ -7927,6 +8157,7 @@
       "Superman"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=59308a4a-3c7b-4589-87e5-0c4d0d19274e",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -7966,12 +8197,14 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0062",
     "etda_id": "da14ab64-16ed-4d61-93a7-69cf3f06115d",
     "etda_name": "TA459",
     "etda_aliases": [
       "TA459"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=da14ab64-16ed-4d61-93a7-69cf3f06115d",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8001,12 +8234,14 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2021-10-16",
+    "mitre_url": "https://attack.mitre.org/groups/G0053",
     "etda_id": "79996110-5bcb-4996-b3d8-0d778030f0dc",
     "etda_name": "FIN5",
     "etda_aliases": [
       "FIN5"
     ],
     "etda_first_seen": "2008",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=79996110-5bcb-4996-b3d8-0d778030f0dc",
     "country": "None Provided",
     "motivation": [
       "Financial crime"
@@ -8038,12 +8273,14 @@
     ],
     "mitre_attack_created": "2017-12-14",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0051",
     "etda_id": "32e3ffa7-e053-4841-a072-7f314eb1637c",
     "etda_name": "FIN10",
     "etda_aliases": [
       "FIN10"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=32e3ffa7-e053-4841-a072-7f314eb1637c",
     "country": "None Provided",
     "motivation": [
       "Financial crime"
@@ -8081,6 +8318,7 @@
     ],
     "mitre_attack_created": "2020-12-21",
     "mitre_attack_last_modified": "2021-04-20",
+    "mitre_url": "https://attack.mitre.org/groups/G0117",
     "etda_id": "9d13d133-e25a-4de0-8952-6b0cbdb92899",
     "etda_name": "Parisite, Fox Kitten, Pioneer Kitten",
     "etda_aliases": [
@@ -8092,6 +8330,7 @@
       "UNC757"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d13d133-e25a-4de0-8952-6b0cbdb92899",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -8180,12 +8419,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2022-01-19",
+    "mitre_url": "https://attack.mitre.org/groups/G0031",
     "etda_id": "3c462561-ef5e-48ac-9138-38dc25d2afc4",
     "etda_name": "Dust Storm",
     "etda_aliases": [
       "Dust Storm"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3c462561-ef5e-48ac-9138-38dc25d2afc4",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8213,12 +8454,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-18",
+    "mitre_url": "https://attack.mitre.org/groups/G0033",
     "etda_id": "d8a39ee0-3ec7-41dc-9d6e-dcbab0779ca3",
     "etda_name": "Poseidon Group",
     "etda_aliases": [
       "Poseidon Group"
     ],
     "etda_first_seen": "2005",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8a39ee0-3ec7-41dc-9d6e-dcbab0779ca3",
     "country": "BR",
     "motivation": [
       "Information theft and espionage"
@@ -8260,14 +8503,16 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2021-05-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0052",
     "etda_id": "a674fc23-26e8-4f6e-ba55-1a6ef4029878",
     "etda_name": "CopyKittens, Slayer Kitten",
     "etda_aliases": [
       "CopyKittens",
       "Slayer Kitten",
-      "Operation \u201cWilted Tulip\u201d"
+      "Operation “Wilted Tulip”"
     ],
     "etda_first_seen": "2013",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a674fc23-26e8-4f6e-ba55-1a6ef4029878",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -8305,6 +8550,7 @@
     ],
     "mitre_attack_created": "2018-10-17",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0075",
     "etda_id": "020d538c-5250-46d8-9713-e739536cdd7e",
     "etda_name": "Rancor",
     "etda_aliases": [
@@ -8312,6 +8558,7 @@
       "Rancor"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=020d538c-5250-46d8-9713-e739536cdd7e",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8343,6 +8590,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-10-12",
+    "mitre_url": "https://attack.mitre.org/groups/G0023",
     "etda_id": "96d67d0e-dff0-4bbd-99fa-6dbdb433474f",
     "etda_name": "APT 16, SVCMONDR",
     "etda_aliases": [
@@ -8350,6 +8598,7 @@
       "SVCMONDR"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=96d67d0e-dff0-4bbd-99fa-6dbdb433474f",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8377,6 +8626,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-07-29",
+    "mitre_url": "https://attack.mitre.org/groups/G0013",
     "etda_id": "a97aea4e-ac99-4506-89e6-ba1e5b766b0d",
     "etda_name": "APT 30, Override Panda",
     "etda_aliases": [
@@ -8387,6 +8637,7 @@
       "Bronze Sterling"
     ],
     "etda_first_seen": "2005",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a97aea4e-ac99-4506-89e6-ba1e5b766b0d",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8428,6 +8679,7 @@
     ],
     "mitre_attack_created": "2020-09-22",
     "mitre_attack_last_modified": "2021-04-26",
+    "mitre_url": "https://attack.mitre.org/groups/G0115",
     "etda_id": "bdd28842-178b-4258-a37f-5c1c1bb71bb2",
     "etda_name": "Pinchy Spider, Gold Southfield",
     "etda_aliases": [
@@ -8436,6 +8688,7 @@
       "Gold Garden"
     ],
     "etda_first_seen": "2018",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bdd28842-178b-4258-a37f-5c1c1bb71bb2",
     "country": "RU",
     "motivation": [
       "Financial gain"
@@ -8463,6 +8716,7 @@
     ],
     "mitre_attack_created": "2021-02-08",
     "mitre_attack_last_modified": "2022-04-20",
+    "mitre_url": "https://attack.mitre.org/groups/G0123",
     "etda_id": "238acb51-8489-43d7-83b2-9ea4db18ddb6",
     "etda_name": "Volatile Cedar",
     "etda_aliases": [
@@ -8470,6 +8724,7 @@
       "Volatile Cedar"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=238acb51-8489-43d7-83b2-9ea4db18ddb6",
     "country": "LB",
     "motivation": [
       "Information theft and espionage"
@@ -8506,12 +8761,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0043",
     "etda_id": "316b9d45-f67a-4595-bdf3-5137489fb3c5",
     "etda_name": "Group5",
     "etda_aliases": [
       "Group5"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=316b9d45-f67a-4595-bdf3-5137489fb3c5",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -8536,12 +8793,14 @@
     ],
     "mitre_attack_created": "2019-01-30",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0084",
     "etda_id": "dafbb134-1652-4444-8b12-9b4cc121e3c2",
     "etda_name": "Gallmaker",
     "etda_aliases": [
       "Gallmaker"
     ],
     "etda_first_seen": "2017",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dafbb134-1652-4444-8b12-9b4cc121e3c2",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -8569,6 +8828,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2019-03-22",
+    "mitre_url": "https://attack.mitre.org/groups/G0017",
     "etda_id": "6823d807-dfa8-42f3-84d5-986a7ef60c56",
     "etda_name": "DragonOK",
     "etda_aliases": [
@@ -8576,6 +8836,7 @@
       "DragonOK"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6823d807-dfa8-42f3-84d5-986a7ef60c56",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8602,6 +8863,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-06-29",
+    "mitre_url": "https://attack.mitre.org/groups/G0041",
     "etda_id": "d7d99de3-c515-4117-b40c-7696babb69c1",
     "etda_name": "Strider, ProjectSauron",
     "etda_aliases": [
@@ -8609,6 +8871,7 @@
       "ProjectSauron"
     ],
     "etda_first_seen": "2011",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d7d99de3-c515-4117-b40c-7696babb69c1",
     "country": "US",
     "motivation": [
       "Information theft and espionage"
@@ -8642,12 +8905,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0002",
     "etda_id": "a89dfb9b-f899-4d5e-b835-1fbb37295660",
     "etda_name": "Moafee",
     "etda_aliases": [
       "Moafee"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a89dfb9b-f899-4d5e-b835-1fbb37295660",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8671,12 +8936,14 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2020-03-30",
+    "mitre_url": "https://attack.mitre.org/groups/G0029",
     "etda_id": "d130ffbe-6498-4559-9b16-58fb88146c45",
     "etda_name": "Scarlet Mimic",
     "etda_aliases": [
       "Scarlet Mimic"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d130ffbe-6498-4559-9b16-58fb88146c45",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8697,6 +8964,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2019-03-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0030",
     "etda_id": "3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
     "etda_name": "Lotus Blossom, Spring Dragon, Thrip",
     "etda_aliases": [
@@ -8709,9 +8977,10 @@
       "CTG-8171",
       "ATK 1",
       "ATK 78",
-      "Operation \u201cLotus Blossom\u201d"
+      "Operation “Lotus Blossom”"
     ],
     "etda_first_seen": "2012",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
     "country": "CN",
     "motivation": [
       "Information theft and espionage"
@@ -8753,12 +9022,14 @@
     ],
     "mitre_attack_created": "2018-04-18",
     "mitre_attack_last_modified": "2018-10-17",
+    "mitre_url": "https://attack.mitre.org/groups/G0063",
     "etda_id": "7db7cd4f-ca76-4176-9d94-80429033ef49",
     "etda_name": "BlackOasis",
     "etda_aliases": [
       "BlackOasis"
     ],
     "etda_first_seen": "2015",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7db7cd4f-ca76-4176-9d94-80429033ef49",
     "country": "None Provided",
     "motivation": [
       "Information theft and espionage"
@@ -8794,12 +9065,14 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2019-03-25",
+    "mitre_url": "https://attack.mitre.org/groups/G0055",
     "etda_id": "05fb2a9c-1ffb-4a2d-87fc-4103c9c62adf",
     "etda_name": "Neodymium",
     "etda_aliases": [
       "Neodymium"
     ],
     "etda_first_seen": "2016",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=05fb2a9c-1ffb-4a2d-87fc-4103c9c62adf",
     "country": "TR",
     "motivation": [
       "Information theft and espionage"
@@ -8816,6 +9089,7 @@
     ],
     "mitre_attack_created": "2017-05-31",
     "mitre_attack_last_modified": "2018-10-17",
+    "mitre_url": "https://attack.mitre.org/groups/G0042",
     "etda_id": "af67327e-b4c9-443b-bcc9-3fb2efd41401",
     "etda_name": "Operation HangOver, Monsoon, Viceroy Tiger",
     "etda_aliases": [
@@ -8825,6 +9099,7 @@
       "Neon"
     ],
     "etda_first_seen": "2010",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=af67327e-b4c9-443b-bcc9-3fb2efd41401",
     "country": "IN",
     "motivation": [
       "Information theft and espionage"
@@ -8870,6 +9145,7 @@
     ],
     "mitre_attack_created": "2018-01-16",
     "mitre_attack_last_modified": "2018-10-17",
+    "mitre_url": "https://attack.mitre.org/groups/G0057",
     "etda_id": "eeb31f97-edcf-4836-b621-a1865305b91e",
     "etda_name": "OilRig, APT 34, Helix Kitten, Chrysene",
     "etda_aliases": [
@@ -8886,6 +9162,7 @@
       "ITG13"
     ],
     "etda_first_seen": "2014",
+    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=eeb31f97-edcf-4836-b621-a1865305b91e",
     "country": "IR",
     "motivation": [
       "Information theft and espionage"
@@ -8906,6 +9183,7 @@
       "Azerbaijan",
       "Iraq",
       "Israel",
+      "Jordan",
       "Kuwait",
       "Lebanon",
       "Mauritius",
