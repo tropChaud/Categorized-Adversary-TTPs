@@ -92,10 +92,8 @@
       "Energy",
       "Engineering",
       "Entertainment",
-      "Food and Agriculture",
       "Government",
       "Healthcare",
-      "IT",
       "Manufacturing",
       "Media",
       "Mining",
@@ -103,7 +101,9 @@
       "Satellites",
       "Transportation",
       "Financial (Finance)",
+      "Food & Agriculture",
       "High Tech (High-Tech)",
+      "Information Technology (IT)",
       "Non-Profit Organizations (Non Profits)",
       "Telecommunications (Telecoms)"
     ],
@@ -121,9 +121,9 @@
       "South Korea",
       "Switzerland",
       "Taiwan",
-      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -290,11 +290,11 @@
       "Education",
       "Energy",
       "Government",
-      "IT",
       "Media",
       "Mining",
       "Financial (Finance)",
       "High Tech (High-Tech)",
+      "Information Technology (IT)",
       "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
@@ -307,8 +307,8 @@
       "Netherlands",
       "Switzerland",
       "Russia",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1585",
@@ -351,9 +351,9 @@
       "Education",
       "Engineering",
       "Healthcare",
-      "Telecommunications",
       "Transportation",
-      "High Tech (High-Tech)"
+      "High Tech (High-Tech)",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "United States of America (USA)"
@@ -414,11 +414,11 @@
       "Energy",
       "Government",
       "Manufacturing",
-      "Telecommunications",
       "Think Tanks",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Pharmaceuticals"
+      "Pharmaceuticals",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Australia",
@@ -518,11 +518,11 @@
       "Healthcare",
       "Industrial",
       "Media",
-      "Oil and gas",
       "Think Tanks",
       "Financial (Finance)",
       "Information Technology (IT)",
-      "Non-Governmental Organizations (NGOs)"
+      "Non-Governmental Organizations (NGOs)",
+      "Oil & Gas"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -568,11 +568,11 @@
       "Thailand",
       "Turkey",
       "Uganda",
-      "UK",
       "Ukraine",
       "Uzbekistan",
       "NATO",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -723,11 +723,11 @@
       "Energy",
       "Government",
       "Media",
-      "Pharmaceutical",
       "Transportation",
       "Think Tanks",
       "Law Enforcement",
       "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals",
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
@@ -940,9 +940,9 @@
       "Luxembourg",
       "Philippines",
       "Sweden",
-      "USA",
       "Vietnam",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1056.001",
@@ -1114,9 +1114,9 @@
       "Singapore",
       "South Korea",
       "Thailand",
-      "USA",
       "Vietnam",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1036.003",
@@ -1250,8 +1250,8 @@
       "Israel",
       "Saudi Arabia",
       "South Korea",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1065",
@@ -1327,10 +1327,10 @@
       "Energy",
       "Government",
       "Hospitality",
-      "Telecommunications",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Oil & Gas"
+      "Oil & Gas",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Azerbaijan",
@@ -1344,8 +1344,8 @@
       "Qatar",
       "Saudi Arabia",
       "Turkey",
-      "UK",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [],
@@ -1433,9 +1433,9 @@
       "Romania",
       "Russia",
       "South Korea",
-      "USA",
       "Vietnam",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1555.003",
@@ -1585,11 +1585,11 @@
       "Aviation",
       "Engineering",
       "Government",
-      "IT",
-      "Telecommunications",
       "Transportation",
       "High Tech (High-Tech)",
-      "Shipping & Logistics"
+      "Information Technology (IT)",
+      "Shipping & Logistics",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Israel",
@@ -1598,8 +1598,8 @@
       "Saudi Arabia",
       "Spain",
       "Turkey",
-      "USA",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1569.002",
@@ -1707,9 +1707,9 @@
       "Financial (Finance)",
       "High Tech (High-Tech)",
       "Oil & Gas",
+      "Online Video Game Companies (Online Gaming)",
       "Pharmaceuticals",
-      "Telecommunications (Telecoms)",
-      "Online Video Game Companies (Online Gaming)"
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Australia",
@@ -1743,9 +1743,9 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -2304,10 +2304,10 @@
     ],
     "victim_industries": [
       "Energy",
-      "Food and Agriculture",
       "Healthcare",
       "Hospitality",
-      "Financial (Finance)"
+      "Financial (Finance)",
+      "Food & Agriculture"
     ],
     "victim_countries": [
       "Australia",
@@ -2499,8 +2499,8 @@
       "Saudi Arabia",
       "South Korea",
       "Turkey",
-      "UK",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -2542,10 +2542,10 @@
       "Financial Crime"
     ],
     "victim_industries": [
-      "High-Tech",
       "Media",
       "Retail",
-      "Financial (Finance)"
+      "Financial (Finance)",
+      "High Tech (High-Tech)"
     ],
     "victim_countries": [
       "Argentina",
@@ -2871,10 +2871,10 @@
       "Government",
       "Healthcare",
       "Hospitality",
-      "Pharmaceutical",
       "Research",
       "Technology",
-      "Non-Governmental Organizations (NGOs)"
+      "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -2911,9 +2911,9 @@
       "Tajikistan",
       "Thailand",
       "Turkey",
-      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -2985,11 +2985,11 @@
       "Energy",
       "Government",
       "Manufacturing",
-      "Telecommunications",
       "Think Tanks",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Pharmaceuticals"
+      "Pharmaceuticals",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Australia",
@@ -3090,9 +3090,9 @@
       "Energy",
       "Industrial",
       "Manufacturing",
-      "Pharmaceutical",
       "Information Technology (IT)",
-      "Oil & Gas"
+      "Oil & Gas",
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Canada",
@@ -3302,11 +3302,11 @@
       "Education",
       "Energy",
       "Government",
-      "IT",
       "Media",
       "Mining",
       "Financial (Finance)",
       "High Tech (High-Tech)",
+      "Information Technology (IT)",
       "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
@@ -3319,8 +3319,8 @@
       "Netherlands",
       "Switzerland",
       "Russia",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1203",
@@ -3650,8 +3650,8 @@
       "Australia",
       "France",
       "Malta",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1047",
@@ -3721,11 +3721,11 @@
     ],
     "victim_industries": [
       "Entertainment",
-      "Food and Agriculture",
       "Healthcare",
       "Hospitality",
       "Retail",
-      "Financial (Finance)"
+      "Financial (Finance)",
+      "Food & Agriculture"
     ],
     "victim_countries": [
       "Canada",
@@ -3861,8 +3861,8 @@
       "Malaysia",
       "Poland",
       "Saudi Arabia",
-      "USA",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1505.003",
@@ -4121,8 +4121,8 @@
     "victim_industries": [
       "Defense",
       "Government",
-      "NGOs",
-      "Law Enforcement"
+      "Law Enforcement",
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Albania",
@@ -4246,8 +4246,8 @@
       "Education",
       "Gaming",
       "Government",
-      "NGOs",
-      "High Tech (High-Tech)"
+      "High Tech (High-Tech)",
+      "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
       "Argentina",
@@ -4281,10 +4281,10 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "UK",
       "Vietnam",
       "Yemen",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [],
     "merged_name": "Gelsemium, Operation “TooHash”, Operation “NightScout”"
@@ -4320,8 +4320,8 @@
       "Russia",
       "Spain",
       "Switzerland",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -4470,10 +4470,10 @@
       "Government",
       "Healthcare",
       "Hospitality",
-      "Pharmaceutical",
       "Research",
       "Technology",
-      "Non-Governmental Organizations (NGOs)"
+      "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -4510,9 +4510,9 @@
       "Tajikistan",
       "Thailand",
       "Turkey",
-      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -4686,11 +4686,11 @@
       "Turkmenistan",
       "Uganda",
       "Ukraine",
-      "USA",
       "Uzbekistan",
       "Venezuela",
       "Vietnam",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1083",
@@ -4912,10 +4912,10 @@
       "Syria",
       "Trinidad and Tobago",
       "Turkey",
-      "USA",
       "Venezuela",
       "Uzbekistan",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1082",
@@ -5196,9 +5196,9 @@
       "South Korea",
       "Taiwan",
       "Thailand",
-      "USA",
       "Vietnam",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1124",
@@ -5479,7 +5479,7 @@
       "Philippines",
       "Saudi Arabia",
       "Switzerland",
-      "UK",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -5643,8 +5643,8 @@
       "Sri Lanka",
       "Taiwan",
       "Thailand",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [],
     "merged_name": "MONSOON, Operation HangOver, Monsoon, Viceroy Tiger, Neon"
@@ -5775,10 +5775,10 @@
       "Energy",
       "Government",
       "Healthcare",
-      "Oil and gas",
       "Technology",
       "Financial (Finance)",
       "Information Technology (IT)",
+      "Oil & Gas",
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
@@ -5796,10 +5796,10 @@
       "Spain",
       "Syria",
       "Turkey",
-      "UK",
       "Venezuela",
       "Yemen",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -5981,10 +5981,10 @@
       "Energy",
       "Government",
       "Media",
-      "Telecommunications",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Oil & Gas"
+      "Oil & Gas",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -6018,9 +6018,9 @@
       "South Korea",
       "Syria",
       "Turkey",
-      "UK",
       "Yemen",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -6085,17 +6085,17 @@
       "Defense",
       "Education",
       "Energy",
-      "Food and Agriculture",
       "Gaming",
       "Government",
       "Healthcare",
-      "IT",
       "Media",
-      "Oil and gas",
       "Transportation",
       "Financial (Finance)",
+      "Food & Agriculture",
       "High Tech (High-Tech)",
+      "Information Technology (IT)",
       "Non-Governmental Organizations (NGOs)",
+      "Oil & Gas",
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
@@ -6244,9 +6244,9 @@
       "South Korea",
       "South Sudan",
       "Taiwan",
-      "USA",
       "Vietnam",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -6529,10 +6529,10 @@
       "Energy",
       "Government",
       "Hospitality",
-      "Telecommunications",
       "Financial (Finance)",
       "High Tech (High-Tech)",
-      "Oil & Gas"
+      "Oil & Gas",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Azerbaijan",
@@ -6546,8 +6546,8 @@
       "Qatar",
       "Saudi Arabia",
       "Turkey",
-      "UK",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -6661,8 +6661,8 @@
       "Sweden",
       "Switzerland",
       "Turkey",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1071.001",
@@ -6828,11 +6828,11 @@
       "Energy",
       "Government",
       "Media",
-      "Pharmaceutical",
       "Think Tanks",
       "Financial (Finance)",
       "Information Technology (IT)",
-      "Non-Governmental Organizations (NGOs)"
+      "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Bangladesh",
@@ -6842,8 +6842,8 @@
       "Pakistan",
       "South Korea",
       "Sri Lanka",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1033",
@@ -6961,8 +6961,8 @@
       "India",
       "Kazakhstan",
       "Russia",
-      "USA",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1087.002",
@@ -7490,11 +7490,11 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "UK",
       "Ukraine",
       "Uzbekistan",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -7569,8 +7569,8 @@
       "Japan",
       "Switzerland",
       "Turkey",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1598.003",
@@ -7662,8 +7662,8 @@
       "Netherlands",
       "Saudi Arabia",
       "Thailand",
-      "UK",
-      "United Arab Emirates (UAE)"
+      "United Arab Emirates (UAE)",
+      "United Kingdom (UK)"
     ],
     "mitre_attack_ttps": [
       "T1555",
@@ -7793,8 +7793,8 @@
       "Information Theft & Espionage"
     ],
     "victim_industries": [
-      "Telecommunications",
-      "Financial (Finance)"
+      "Financial (Finance)",
+      "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
       "Belarus",
@@ -8134,8 +8134,8 @@
       "Thailand",
       "Tibet",
       "Turkey",
-      "USA",
-      "United Kingdom (UK)"
+      "United Kingdom (UK)",
+      "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
       "T1119",
@@ -8397,8 +8397,8 @@
       "Sweden",
       "Thailand",
       "Turkey",
-      "UK",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -8567,13 +8567,13 @@
       "Embassies",
       "Energy",
       "Government",
-      "IT",
       "Media",
-      "Pharmaceutical",
       "Research",
       "Retail",
       "High Tech (High-Tech)",
-      "Non-Governmental Organizations (NGOs)"
+      "Information Technology (IT)",
+      "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals"
     ],
     "victim_countries": [
       "Afghanistan",
@@ -8755,11 +8755,11 @@
       "Energy",
       "Government",
       "Media",
-      "Pharmaceutical",
       "Transportation",
       "Think Tanks",
       "Law Enforcement",
       "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals",
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
@@ -8901,8 +8901,8 @@
       "Lebanon",
       "Russia",
       "Saudi Arabia",
-      "UK",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
@@ -9053,8 +9053,8 @@
       "Government",
       "Healthcare",
       "Technology",
-      "Online Video Game Companies (Online Gaming)",
       "Financial (Finance)",
+      "Online Video Game Companies (Online Gaming)",
       "Pharmaceuticals",
       "Telecommunications (Telecoms)"
     ],
@@ -9347,12 +9347,12 @@
       "Energy",
       "Government",
       "Healthcare",
-      "IT",
       "Media",
-      "Pharmaceutical",
       "Financial (Finance)",
       "High Tech (High-Tech)",
+      "Information Technology (IT)",
       "Non-Governmental Organizations (NGOs)",
+      "Pharmaceuticals",
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
@@ -9381,9 +9381,9 @@
       "Taiwan",
       "Thailand",
       "Turkey",
-      "UK",
       "Vietnam",
       "United Arab Emirates (UAE)",
+      "United Kingdom (UK)",
       "United States of America (USA)"
     ],
     "mitre_attack_ttps": [
