@@ -1,0 +1,92 @@
+{
+    "name": "Axiom, Group 72, Operation \u201cSMN\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Axiom, Group 72, Operation \u201cSMN\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0001\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
+    "techniques": [
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1001.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1553",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1563.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1546.008",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1584.005",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

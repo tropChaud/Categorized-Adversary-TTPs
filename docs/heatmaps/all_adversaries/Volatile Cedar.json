@@ -1,0 +1,48 @@
+{
+    "name": "Volatile Cedar, Lebanese Cedar, Dancing Salome",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Volatile Cedar, Lebanese Cedar, Dancing Salome. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0123\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=238acb51-8489-43d7-83b2-9ea4db18ddb6",
+    "techniques": [
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1595.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1595.003",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

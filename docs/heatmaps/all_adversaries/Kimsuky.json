@@ -1,0 +1,384 @@
+{
+    "name": "Kimsuky, STOLEN PENCIL, Thallium, Black Banshee, Velvet Chollima, Cerium, ITG16, TA406, Operation \u201cBaby Coin\u201d, Operation \u201cStolen Pencil\u201d, Operation \u201cMystery Baby\u201d, Operation \u201cKabar Cobra\u201d, Operation \u201cStealth Power\u201d, Operation \u201cSmoke Screen\u201d, Operation \u201cRed Salt\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Kimsuky, STOLEN PENCIL, Thallium, Black Banshee, Velvet Chollima, Cerium, ITG16, TA406, Operation \u201cBaby Coin\u201d, Operation \u201cStolen Pencil\u201d, Operation \u201cMystery Baby\u201d, Operation \u201cKabar Cobra\u201d, Operation \u201cStealth Power\u201d, Operation \u201cSmoke Screen\u201d, Operation \u201cRed Salt\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0094\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5e3544bf-98ad-4e9f-b65e-85f05c36486f",
+    "techniques": [
+        {
+            "techniqueID": "T1583.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1587",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1111",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1041",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1564.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1594",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1591",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1098",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1587.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1055",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1136.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1543.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1112",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1055.012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1608.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1114.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1133",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1518.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1593.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1176",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1040",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1593.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1219",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.010",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1598.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1140",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1567.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1557",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1552.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1586.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1564.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1553.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1546.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1555.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1584.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1102.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1534",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1550.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "name": "Fox Kitten, UNC757, PIONEER KITTEN, Parisite, Pioneer Kitten, Cobalt Foxglove, Rubidium",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Fox Kitten, UNC757, PIONEER KITTEN, Parisite, Pioneer Kitten, Cobalt Foxglove, Rubidium. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0117\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d13d133-e25a-4de0-8952-6b0cbdb92899",
+    "techniques": [
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1552.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1213",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1110",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1210",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1555.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1572",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1546.008",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1102",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1530",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1090",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1046",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1217",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1039",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1585.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1136.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

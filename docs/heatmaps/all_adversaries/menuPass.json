@@ -1,0 +1,216 @@
+{
+    "name": "menuPass, Cicada, POTASSIUM, Stone Panda, APT10, Red Apollo, CVNX, HOGFISH, APT 10, menuPass Team, Potassium, Hogfish, Happyyongzi, Bronze Riverside, CTG-5938, ATK 41, TA429, ITG01, Operation \u201cCloud Hopper\u201d, Operation \u201cTradeSecret\u201d, Operation \u201cChessMaster\u201d, Operation \u201cSoft Cell\u201d, Operation \u201cNew Battle\u201d, Operation \u201cA41APT\u201d, Operation \u201cCache Panda\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for menuPass, Cicada, POTASSIUM, Stone Panda, APT10, Red Apollo, CVNX, HOGFISH, APT 10, menuPass Team, Potassium, Hogfish, Happyyongzi, Bronze Riverside, CTG-5938, ATK 41, TA429, ITG01, Operation \u201cCloud Hopper\u201d, Operation \u201cTradeSecret\u201d, Operation \u201cChessMaster\u201d, Operation \u201cSoft Cell\u201d, Operation \u201cNew Battle\u201d, Operation \u201cA41APT\u201d, Operation \u201cCache Panda\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0045\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2aa9ca75-fa1b-422e-9677-02983934f983",
+    "techniques": [
+        {
+            "techniqueID": "T1047",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1140",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1039",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1210",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1568.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1046",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1090.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1049",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1199",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1553.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1119",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1055.012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

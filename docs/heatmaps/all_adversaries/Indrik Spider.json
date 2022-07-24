@@ -1,0 +1,104 @@
+{
+    "name": "Indrik Spider, Evil Corp, Gold Drake, Gold Winter, UNC2165",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Indrik Spider, Evil Corp, Gold Drake, Gold Winter, UNC2165. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0119\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a13e6ede-eb86-499f-837e-820845da04a6",
+    "techniques": [
+        {
+            "techniqueID": "T1486",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1136",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1489",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1484.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1584.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1047",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

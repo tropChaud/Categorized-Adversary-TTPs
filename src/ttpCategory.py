@@ -1,7 +1,6 @@
 import requests
 import json
 import re
-import csv
 
 # MITRE Groups https://attack.mitre.org/groups/
 mitre_actors = requests.get('https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json')

@@ -1,0 +1,128 @@
+{
+    "name": "TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation \u201cTrident Breach\u201d, Operation \u201cTovar\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation \u201cTrident Breach\u201d, Operation \u201cTovar\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0092\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
+    "techniques": [
+        {
+            "techniqueID": "T1553.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1486",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1559.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1055.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1555.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1553.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1552.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1568.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1069",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

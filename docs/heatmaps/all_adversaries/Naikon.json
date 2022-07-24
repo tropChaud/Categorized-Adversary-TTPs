@@ -1,0 +1,84 @@
+{
+    "name": "Naikon, Hellsing, Lotus Panda, ITG06, Operation \u201cCameraShy\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Naikon, Hellsing, Lotus Panda, ITG06, Operation \u201cCameraShy\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0019\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c62ba18b-436f-4db5-b25d-053daea89259",
+    "techniques": [
+        {
+            "techniqueID": "T1518.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1137.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1046",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1047",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

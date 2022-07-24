@@ -1,0 +1,144 @@
+{
+    "name": "Sidewinder, T-APT-04, Rattlesnake, SideWinder, APT-C-17",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Sidewinder, T-APT-04, Rattlesnake, SideWinder, APT-C-17. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0121\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4e925967-099e-4708-9bca-ade4890d847b",
+    "techniques": [
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1518.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1598.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1559.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1124",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1598.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1518",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1119",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1020",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

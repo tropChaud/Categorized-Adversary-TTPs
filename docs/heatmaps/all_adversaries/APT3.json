@@ -1,0 +1,208 @@
+{
+    "name": "APT3, Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, APT 3, Bronze Mayfair, Group 6, Operation \u201cClandestine Fox\u201d, Operation \u201cClandestine Fox\u201d, Part Deux, Operation \u201cDouble Tap\u201d, Operation \u201cClandestine Wolf\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for APT3, Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, APT 3, Bronze Mayfair, Group 6, Operation \u201cClandestine Fox\u201d, Operation \u201cClandestine Fox\u201d, Part Deux, Operation \u201cDouble Tap\u201d, Operation \u201cClandestine Wolf\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0022\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92ced576-2522-4b79-8645-baa5e84ffee3",
+    "techniques": [
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1552.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1041",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1090.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1543.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1049",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1104",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1065",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1069",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1555.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1098",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1110.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1136.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1546.008",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1043",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1564.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1095",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

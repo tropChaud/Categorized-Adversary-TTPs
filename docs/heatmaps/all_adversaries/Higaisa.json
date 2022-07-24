@@ -1,0 +1,132 @@
+{
+    "name": "Higaisa, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, T-APT-02, Luder, Operation \u201cDarkHotel\u201d, Operation \u201cDaybreak\u201d, Operation \u201cInexsmar\u201d, Operation \u201cThe Gh0st Remains the Same\u201d, Operation \u201cPowerFall\u201d, DarkHotel",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Higaisa, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, T-APT-02, Luder, Operation \u201cDarkHotel\u201d, Operation \u201cDaybreak\u201d, Operation \u201cInexsmar\u201d, Operation \u201cThe Gh0st Remains the Same\u201d, Operation \u201cPowerFall\u201d, DarkHotel. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0126\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=142dc639-1360-4a2d-a839-11e62ca724e4",
+    "techniques": [
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1140",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1573.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1220",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1041",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1564.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1124",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1001.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.007",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1090.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1029",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

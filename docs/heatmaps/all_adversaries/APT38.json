@@ -1,0 +1,200 @@
+{
+    "name": "APT38, NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, APT 38, CTG-6459, Nickel Gladstone, T-APT-15, ATK 117",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for APT38, NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, APT 38, CTG-6459, Nickel Gladstone, T-APT-15, ATK 117. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0082\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a979f6ac-99b3-4810-9362-94187db06784",
+    "techniques": [
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1529",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1569.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1565.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1565.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1561.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1485",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1518.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1135",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1049",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1486",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1115",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1217",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1565.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1110",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1543.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1112",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

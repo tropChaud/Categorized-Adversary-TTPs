@@ -1,0 +1,252 @@
+{
+    "name": "Threat Group-3390, Earth Smilodon, TG-3390, Emissary Panda, BRONZE UNION, APT27, Iron Tiger, LuckyMouse, APT 27, Bronze Union, TEMP.Hippo, Budworm, Group 35, ATK 15, ZipToken, Operation \u201cIron Tiger\u201d, Operation \u201cPZChao\u201d, Operation \u201cSpoiledLegacy\u201d, Operation \u201cDRBControl\u201d, Operation \u201cStealthyTrident\u201d",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Threat Group-3390, Earth Smilodon, TG-3390, Emissary Panda, BRONZE UNION, APT27, Iron Tiger, LuckyMouse, APT 27, Bronze Union, TEMP.Hippo, Budworm, Group 35, ATK 15, ZipToken, Operation \u201cIron Tiger\u201d, Operation \u201cPZChao\u201d, Operation \u201cSpoiledLegacy\u201d, Operation \u201cDRBControl\u201d, Operation \u201cStealthyTrident\u201d. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0027\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e67091ab-cbea-4d73-984d-e4b29f6c48a9",
+    "techniques": [
+        {
+            "techniqueID": "T1119",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1560.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1543.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1548.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1133",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1055.012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1567.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1608.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1555.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1047",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1046",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1112",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1547.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1140",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1068",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1030",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1043",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1608.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1562.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1199",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1195.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1087.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1049",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1210",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1608.001",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

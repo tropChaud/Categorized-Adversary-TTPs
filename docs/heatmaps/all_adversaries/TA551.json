@@ -1,0 +1,84 @@
+{
+    "name": "TA551, GOLD CABIN, Shathak, Gold Cabin",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for TA551, GOLD CABIN, Shathak, Gold Cabin. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0127\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=269da320-1b20-4721-9bd6-17e0a355fe7d",
+    "techniques": [
+        {
+            "techniqueID": "T1071.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1589.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1132.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.011",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.010",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1568.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1218.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.003",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

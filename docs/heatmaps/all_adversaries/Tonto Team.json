@@ -1,0 +1,88 @@
+{
+    "name": "Tonto Team, Earth Akhlut, BRONZE HUNTLEY, CactusPete, Karma Panda, HeartBeat, Bronze Huntley, LoneRanger, Operation \u201cBitter Biscuit\u201d, HartBeat",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for Tonto Team, Earth Akhlut, BRONZE HUNTLEY, CactusPete, Karma Panda, HeartBeat, Bronze Huntley, LoneRanger, Operation \u201cBitter Biscuit\u201d, HartBeat. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0131\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=85b77804-7780-4bd9-9332-f250525122a8",
+    "techniques": [
+        {
+            "techniqueID": "T1090.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1203",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1068",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1135",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1210",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1566.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1574.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1069.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1056.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1204.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.006",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}

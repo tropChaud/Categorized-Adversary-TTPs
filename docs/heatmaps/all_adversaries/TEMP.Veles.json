@@ -1,0 +1,104 @@
+{
+    "name": "TEMP.Veles, XENOTIME, Xenotime, ATK 91",
+    "versions": {
+        "attack": "11",
+        "navigator": "4.6.1",
+        "layer": "4.3"
+    },
+    "domain": "enterprise-attack",
+    "description": "Heatmap of (sub)techniques for TEMP.Veles, XENOTIME, Xenotime, ATK 91. Source datasets can be found here: https://github.com/tropChaud/Categorized-Adversary-TTPs\n\nMITRE ATT&CK profile: https://attack.mitre.org/groups/G0088\nETDA profile: https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ea108a02-eb3a-4e08-be7b-bd164fc5c220",
+    "techniques": [
+        {
+            "techniqueID": "T1074.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1065",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1070.006",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1027.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1003.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1043",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1021.004",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1505.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1583.003",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1133",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1053.005",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1059.001",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1546.012",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1571",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1588.002",
+            "score": 1
+        },
+        {
+            "techniqueID": "T1036.005",
+            "score": 1
+        }
+    ],
+    "layout": {
+        "layout": "side",
+        "aggregateFunction": "max",
+        "showID": false,
+        "showName": true,
+        "showAggregateScores": true,
+        "countUnscored": false
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#ff6666"
+        ],
+        "minValue": 0,
+        "maxValue": 1
+    }
+}
