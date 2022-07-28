@@ -1,0 +1,842 @@
+[
+    {
+        "id": "Financial Crime",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Financial%20Crime.json"
+    },
+    {
+        "id": "Financial Gain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Financial%20Gain.json"
+    },
+    {
+        "id": "Information Theft & Espionage",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Information%20Theft%20&%20Espionage.json"
+    },
+    {
+        "id": "Sabotage & Destruction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Sabotage%20&%20Destruction.json"
+    },
+    {
+        "id": "Aerospace",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Aerospace.json"
+    },
+    {
+        "id": "Automotive",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Automotive.json"
+    },
+    {
+        "id": "Aviation",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Aviation.json"
+    },
+    {
+        "id": "Casinos & Gambling",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Casinos%20&%20Gambling.json"
+    },
+    {
+        "id": "Chemical",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Chemical.json"
+    },
+    {
+        "id": "Construction",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Construction.json"
+    },
+    {
+        "id": "Critical Infrastructure",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Critical%20Infrastructure.json"
+    },
+    {
+        "id": "Defense",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Defense.json"
+    },
+    {
+        "id": "Education",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Education.json"
+    },
+    {
+        "id": "Embassies",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Embassies.json"
+    },
+    {
+        "id": "Energy",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Energy.json"
+    },
+    {
+        "id": "Engineering",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Engineering.json"
+    },
+    {
+        "id": "Entertainment",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Entertainment.json"
+    },
+    {
+        "id": "Financial (Finance)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Financial%20(Finance).json"
+    },
+    {
+        "id": "Food & Agriculture",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Food%20&%20Agriculture.json"
+    },
+    {
+        "id": "Gaming",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Gaming.json"
+    },
+    {
+        "id": "Government",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Government.json"
+    },
+    {
+        "id": "Healthcare",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Healthcare.json"
+    },
+    {
+        "id": "High Tech",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/High%20Tech.json"
+    },
+    {
+        "id": "Hospitality",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Hospitality.json"
+    },
+    {
+        "id": "Information Technology (IT)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Information%20Technology%20(IT).json"
+    },
+    {
+        "id": "Industrial",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Industrial.json"
+    },
+    {
+        "id": "Law Enforcement",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Law%20Enforcement.json"
+    },
+    {
+        "id": "Manufacturing",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Manufacturing.json"
+    },
+    {
+        "id": "Media",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Media.json"
+    },
+    {
+        "id": "Mining",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Mining.json"
+    },
+    {
+        "id": "Non-Governmental Organizations (NGOs)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Non-Governmental%20Organizations%20(NGOs).json"
+    },
+    {
+        "id": "Non-Profit Organizations (Non Profits)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Non-Profit%20Organizations%20(Non%20Profits).json"
+    },
+    {
+        "id": "Oil & Gas",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Oil%20&%20Gas.json"
+    },
+    {
+        "id": "Online Video Game Companies (Online Gaming)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Online%20Video%20Game%20Companies%20(Online%20Gaming).json"
+    },
+    {
+        "id": "Petrochemical",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Petrochemical.json"
+    },
+    {
+        "id": "Pharmaceuticals",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Pharmaceuticals.json"
+    },
+    {
+        "id": "Research",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Research.json"
+    },
+    {
+        "id": "Retail",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Retail.json"
+    },
+    {
+        "id": "Satellites",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Satellites.json"
+    },
+    {
+        "id": "Shipping & Logistics",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Shipping%20&%20Logistics.json"
+    },
+    {
+        "id": "Technology",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Technology.json"
+    },
+    {
+        "id": "Telecommunications (Telecoms)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Telecommunications%20(Telecoms).json"
+    },
+    {
+        "id": "Think Tanks",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Think%20Tanks.json"
+    },
+    {
+        "id": "Transportation",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Transportation.json"
+    },
+    {
+        "id": "Utilities",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Utilities.json"
+    },
+    {
+        "id": "Brazil",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Brazil.json"
+    },
+    {
+        "id": "China",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/China.json"
+    },
+    {
+        "id": "Colombia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Colombia.json"
+    },
+    {
+        "id": "India",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/India.json"
+    },
+    {
+        "id": "Iran",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Iran.json"
+    },
+    {
+        "id": "North Korea (Democratic People's Republic of Korea, DPRK)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/North%20Korea%20(Democratic%20People's%20Republic%20of%20Korea,%20DPRK).json"
+    },
+    {
+        "id": "South Korea (Republic of Korea, ROK)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/South%20Korea%20(Republic%20of%20Korea,%20ROK).json"
+    },
+    {
+        "id": "Lebanon",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Lebanon.json"
+    },
+    {
+        "id": "Pakistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Pakistan.json"
+    },
+    {
+        "id": "Romania",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Romania.json"
+    },
+    {
+        "id": "Russia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Russia.json"
+    },
+    {
+        "id": "Turkey",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Turkey.json"
+    },
+    {
+        "id": "Ukraine",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Ukraine.json"
+    },
+    {
+        "id": "United Arab Emirates (UAE)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20Arab%20Emirates%20(UAE).json"
+    },
+    {
+        "id": "United States of America (USA)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20States%20of%20America%20(USA).json"
+    },
+    {
+        "id": "Vietnam",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Vietnam.json"
+    },
+    {
+        "id": "ASEAN",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/ASEAN.json"
+    },
+    {
+        "id": "Afghanistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Afghanistan.json"
+    },
+    {
+        "id": "Albania",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Albania.json"
+    },
+    {
+        "id": "Algeria",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Algeria.json"
+    },
+    {
+        "id": "Angola",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Angola.json"
+    },
+    {
+        "id": "Antigua and Barbuda",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Antigua%20and%20Barbuda.json"
+    },
+    {
+        "id": "Argentina",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Argentina.json"
+    },
+    {
+        "id": "Armenia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Armenia.json"
+    },
+    {
+        "id": "Australia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Australia.json"
+    },
+    {
+        "id": "Austria",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Austria.json"
+    },
+    {
+        "id": "Azerbaijan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Azerbaijan.json"
+    },
+    {
+        "id": "Bahamas",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bahamas.json"
+    },
+    {
+        "id": "Bahrain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bahrain.json"
+    },
+    {
+        "id": "Bangladesh",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bangladesh.json"
+    },
+    {
+        "id": "Barbados",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Barbados.json"
+    },
+    {
+        "id": "Belarus",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Belarus.json"
+    },
+    {
+        "id": "Belgium",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Belgium.json"
+    },
+    {
+        "id": "Belize",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Belize.json"
+    },
+    {
+        "id": "Bhutan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bhutan.json"
+    },
+    {
+        "id": "Bolivia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bolivia.json"
+    },
+    {
+        "id": "Bosnia and Herzegovina",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bosnia%20and%20Herzegovina.json"
+    },
+    {
+        "id": "Botswana",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Botswana.json"
+    },
+    {
+        "id": "Brazil",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Brazil.json"
+    },
+    {
+        "id": "Brunei",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Brunei.json"
+    },
+    {
+        "id": "Bulgaria",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Bulgaria.json"
+    },
+    {
+        "id": "Cambodia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Cambodia.json"
+    },
+    {
+        "id": "Canada",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Canada.json"
+    },
+    {
+        "id": "Chechnya",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Chechnya.json"
+    },
+    {
+        "id": "Chile",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Chile.json"
+    },
+    {
+        "id": "China",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/China.json"
+    },
+    {
+        "id": "Colombia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Colombia.json"
+    },
+    {
+        "id": "Congo",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Congo.json"
+    },
+    {
+        "id": "Costa Rica",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Costa%20Rica.json"
+    },
+    {
+        "id": "Cote d'Ivoire",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Cote%20d'Ivoire.json"
+    },
+    {
+        "id": "Croatia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Croatia.json"
+    },
+    {
+        "id": "Cuba",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Cuba.json"
+    },
+    {
+        "id": "Cyprus",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Cyprus.json"
+    },
+    {
+        "id": "Czech",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Czech.json"
+    },
+    {
+        "id": "Denmark",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Denmark.json"
+    },
+    {
+        "id": "Dominican Republic",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Dominican%20Republic.json"
+    },
+    {
+        "id": "Ecuador",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Ecuador.json"
+    },
+    {
+        "id": "Egypt",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Egypt.json"
+    },
+    {
+        "id": "El Salvador",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/El%20Salvador.json"
+    },
+    {
+        "id": "Estonia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Estonia.json"
+    },
+    {
+        "id": "Ethiopia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Ethiopia.json"
+    },
+    {
+        "id": "Finland",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Finland.json"
+    },
+    {
+        "id": "France",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/France.json"
+    },
+    {
+        "id": "Georgia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Georgia.json"
+    },
+    {
+        "id": "Germany",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Germany.json"
+    },
+    {
+        "id": "Ghana",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Ghana.json"
+    },
+    {
+        "id": "Gibraltar",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Gibraltar.json"
+    },
+    {
+        "id": "Greece",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Greece.json"
+    },
+    {
+        "id": "Guatemala",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Guatemala.json"
+    },
+    {
+        "id": "Honduras",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Honduras.json"
+    },
+    {
+        "id": "Hong Kong",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Hong%20Kong.json"
+    },
+    {
+        "id": "Hungary",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Hungary.json"
+    },
+    {
+        "id": "Iceland",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Iceland.json"
+    },
+    {
+        "id": "India",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/India.json"
+    },
+    {
+        "id": "Indonesia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Indonesia.json"
+    },
+    {
+        "id": "Iran",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Iran.json"
+    },
+    {
+        "id": "Iraq",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Iraq.json"
+    },
+    {
+        "id": "Ireland",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Ireland.json"
+    },
+    {
+        "id": "Israel",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Israel.json"
+    },
+    {
+        "id": "Italy",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Italy.json"
+    },
+    {
+        "id": "Jamaica",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Jamaica.json"
+    },
+    {
+        "id": "Japan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Japan.json"
+    },
+    {
+        "id": "Jordan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Jordan.json"
+    },
+    {
+        "id": "Kazakhstan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Kazakhstan.json"
+    },
+    {
+        "id": "Kenya",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Kenya.json"
+    },
+    {
+        "id": "Kuwait",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Kuwait.json"
+    },
+    {
+        "id": "Kyrgyzstan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Kyrgyzstan.json"
+    },
+    {
+        "id": "Laos",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Laos.json"
+    },
+    {
+        "id": "Latvia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Latvia.json"
+    },
+    {
+        "id": "Lebanon",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Lebanon.json"
+    },
+    {
+        "id": "Libya",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Libya.json"
+    },
+    {
+        "id": "Lithuania",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Lithuania.json"
+    },
+    {
+        "id": "Luxembourg",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Luxembourg.json"
+    },
+    {
+        "id": "Macao",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Macao.json"
+    },
+    {
+        "id": "Macedonia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Macedonia.json"
+    },
+    {
+        "id": "Malaysia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Malaysia.json"
+    },
+    {
+        "id": "Mali",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Mali.json"
+    },
+    {
+        "id": "Malta",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Malta.json"
+    },
+    {
+        "id": "Mauritius",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Mauritius.json"
+    },
+    {
+        "id": "Mexico",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Mexico.json"
+    },
+    {
+        "id": "Moldova",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Moldova.json"
+    },
+    {
+        "id": "Mongolia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Mongolia.json"
+    },
+    {
+        "id": "Montenegro",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Montenegro.json"
+    },
+    {
+        "id": "Morocco",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Morocco.json"
+    },
+    {
+        "id": "Mozambique",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Mozambique.json"
+    },
+    {
+        "id": "Myanmar",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Myanmar.json"
+    },
+    {
+        "id": "NATO",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/NATO.json"
+    },
+    {
+        "id": "Namibia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Namibia.json"
+    },
+    {
+        "id": "Nepal",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Nepal.json"
+    },
+    {
+        "id": "Netherlands",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Netherlands.json"
+    },
+    {
+        "id": "New Zealand",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/New%20Zealand.json"
+    },
+    {
+        "id": "Nicaragua",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Nicaragua.json"
+    },
+    {
+        "id": "Nigeria",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Nigeria.json"
+    },
+    {
+        "id": "North Korea",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/North%20Korea.json"
+    },
+    {
+        "id": "Norway",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Norway.json"
+    },
+    {
+        "id": "Oman",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Oman.json"
+    },
+    {
+        "id": "Pakistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Pakistan.json"
+    },
+    {
+        "id": "Palestine",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Palestine.json"
+    },
+    {
+        "id": "Panama",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Panama.json"
+    },
+    {
+        "id": "Papua New Guinea",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Papua%20New%20Guinea.json"
+    },
+    {
+        "id": "Paraguay",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Paraguay.json"
+    },
+    {
+        "id": "Peru",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Peru.json"
+    },
+    {
+        "id": "Philippines",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Philippines.json"
+    },
+    {
+        "id": "Poland",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Poland.json"
+    },
+    {
+        "id": "Portugal",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Portugal.json"
+    },
+    {
+        "id": "Qatar",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Qatar.json"
+    },
+    {
+        "id": "Romania",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Romania.json"
+    },
+    {
+        "id": "Russia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Russia.json"
+    },
+    {
+        "id": "Rwanda",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Rwanda.json"
+    },
+    {
+        "id": "Saudi Arabia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Saudi%20Arabia.json"
+    },
+    {
+        "id": "Senegal",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Senegal.json"
+    },
+    {
+        "id": "Serbia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Serbia.json"
+    },
+    {
+        "id": "Seychelles",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Seychelles.json"
+    },
+    {
+        "id": "Singapore",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Singapore.json"
+    },
+    {
+        "id": "Slovakia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Slovakia.json"
+    },
+    {
+        "id": "Slovenia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Slovenia.json"
+    },
+    {
+        "id": "Somalia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Somalia.json"
+    },
+    {
+        "id": "South Africa",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/South%20Africa.json"
+    },
+    {
+        "id": "South Korea",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/South%20Korea.json"
+    },
+    {
+        "id": "South Sudan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/South%20Sudan.json"
+    },
+    {
+        "id": "Spain",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Spain.json"
+    },
+    {
+        "id": "Sri Lanka",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Sri%20Lanka.json"
+    },
+    {
+        "id": "Suriname",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Suriname.json"
+    },
+    {
+        "id": "Sweden",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Sweden.json"
+    },
+    {
+        "id": "Switzerland",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Switzerland.json"
+    },
+    {
+        "id": "Syria",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Syria.json"
+    },
+    {
+        "id": "Taiwan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Taiwan.json"
+    },
+    {
+        "id": "Tajikistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Tajikistan.json"
+    },
+    {
+        "id": "Tanzania",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Tanzania.json"
+    },
+    {
+        "id": "Thailand",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Thailand.json"
+    },
+    {
+        "id": "Tibet",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Tibet.json"
+    },
+    {
+        "id": "Trinidad and Tobago",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Trinidad%20and%20Tobago.json"
+    },
+    {
+        "id": "Tunisia",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Tunisia.json"
+    },
+    {
+        "id": "Turkey",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Turkey.json"
+    },
+    {
+        "id": "Turkmenistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Turkmenistan.json"
+    },
+    {
+        "id": "United Arab Emirates (UAE)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/United%20Arab%20Emirates%20(UAE).json"
+    },
+    {
+        "id": "United Kingdom (UK)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/United%20Kingdom%20(UK).json"
+    },
+    {
+        "id": "United States of America (USA)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/United%20States%20of%20America%20(USA).json"
+    },
+    {
+        "id": "Uganda",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Uganda.json"
+    },
+    {
+        "id": "Ukraine",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Ukraine.json"
+    },
+    {
+        "id": "Uruguay",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Uruguay.json"
+    },
+    {
+        "id": "Uzbekistan",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Uzbekistan.json"
+    },
+    {
+        "id": "Venezuela",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Venezuela.json"
+    },
+    {
+        "id": "Vietnam",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Vietnam.json"
+    },
+    {
+        "id": "Yemen",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/victim-country/Yemen.json"
+    }
+]
