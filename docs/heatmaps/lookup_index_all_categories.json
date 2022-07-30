@@ -88,8 +88,8 @@
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Healthcare.json"
     },
     {
-        "id": "High Tech",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/High%20Tech.json"
+        "id": "High Tech (High-Tech)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/High%20Tech%20(High-Tech).json"
     },
     {
         "id": "Hospitality",
@@ -180,6 +180,10 @@
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Utilities.json"
     },
     {
+        "id": "United Arab Emirates (UAE)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20Arab%20Emirates%20(UAE).json"
+    },
+    {
         "id": "Brazil",
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Brazil.json"
     },
@@ -230,10 +234,6 @@
     {
         "id": "Ukraine",
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Ukraine.json"
-    },
-    {
-        "id": "United Arab Emirates (UAE)",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20Arab%20Emirates%20(UAE).json"
     },
     {
         "id": "United States of America (USA)",
