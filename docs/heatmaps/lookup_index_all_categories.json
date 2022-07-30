@@ -13,7 +13,7 @@
     },
     {
         "id": "Sabotage & Destruction",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Sabotage%20&%20Destruction.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Sabotage%20%26%20Destruction.json"
     },
     {
         "id": "Aerospace",
@@ -29,7 +29,7 @@
     },
     {
         "id": "Casinos & Gambling",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Casinos%20&%20Gambling.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Casinos%20%26%20Gambling.json"
     },
     {
         "id": "Chemical",
@@ -73,7 +73,7 @@
     },
     {
         "id": "Food & Agriculture",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Food%20&%20Agriculture.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Food%20%26%20Agriculture.json"
     },
     {
         "id": "Gaming",
@@ -129,7 +129,7 @@
     },
     {
         "id": "Oil & Gas",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Oil%20&%20Gas.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Oil%20%26%20Gas.json"
     },
     {
         "id": "Online Video Game Companies (Online Gaming)",
@@ -157,7 +157,7 @@
     },
     {
         "id": "Shipping & Logistics",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Shipping%20&%20Logistics.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Shipping%20%26%20Logistics.json"
     },
     {
         "id": "Technology",
