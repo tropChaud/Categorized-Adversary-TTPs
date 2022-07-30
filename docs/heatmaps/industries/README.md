@@ -17,7 +17,7 @@
 * [Gaming](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FGaming.json)
 * [Government](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FGovernment.json)
 * [Healthcare](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FHealthcare.json)
-* [High Tech](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FHigh%20Tech.json)
+* [High Tech (High-Tech)](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FHigh%20Tech%20(High-Tech).json)
 * [Hospitality](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FHospitality.json)
 * [Information Technology (IT)](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FInformation%20Technology%20(IT).json)
 * [Industrial](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fraw.githubusercontent.com%2FtropChaud%2FCategorized-Adversary-TTPs%2Fmain%2Fdocs%2Fheatmaps%2Findustries%2FIndustrial.json)

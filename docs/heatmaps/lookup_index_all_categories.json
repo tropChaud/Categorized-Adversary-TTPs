@@ -9,11 +9,11 @@
     },
     {
         "id": "Information Theft & Espionage",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Information%20Theft%20&%20Espionage.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Information%20Theft%20%26%20Espionage.json"
     },
     {
         "id": "Sabotage & Destruction",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Sabotage%20&%20Destruction.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/motivations/Sabotage%20%26%20Destruction.json"
     },
     {
         "id": "Aerospace",
@@ -29,7 +29,7 @@
     },
     {
         "id": "Casinos & Gambling",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Casinos%20&%20Gambling.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Casinos%20%26%20Gambling.json"
     },
     {
         "id": "Chemical",
@@ -73,7 +73,7 @@
     },
     {
         "id": "Food & Agriculture",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Food%20&%20Agriculture.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Food%20%26%20Agriculture.json"
     },
     {
         "id": "Gaming",
@@ -88,8 +88,8 @@
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Healthcare.json"
     },
     {
-        "id": "High Tech",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/High%20Tech.json"
+        "id": "High Tech (High-Tech)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/High%20Tech%20(High-Tech).json"
     },
     {
         "id": "Hospitality",
@@ -129,7 +129,7 @@
     },
     {
         "id": "Oil & Gas",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Oil%20&%20Gas.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Oil%20%26%20Gas.json"
     },
     {
         "id": "Online Video Game Companies (Online Gaming)",
@@ -157,7 +157,7 @@
     },
     {
         "id": "Shipping & Logistics",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Shipping%20&%20Logistics.json"
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Shipping%20%26%20Logistics.json"
     },
     {
         "id": "Technology",
@@ -178,6 +178,10 @@
     {
         "id": "Utilities",
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/industries/Utilities.json"
+    },
+    {
+        "id": "United Arab Emirates (UAE)",
+        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20Arab%20Emirates%20(UAE).json"
     },
     {
         "id": "Brazil",
@@ -230,10 +234,6 @@
     {
         "id": "Ukraine",
         "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/Ukraine.json"
-    },
-    {
-        "id": "United Arab Emirates (UAE)",
-        "url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/country/United%20Arab%20Emirates%20(UAE).json"
     },
     {
         "id": "United States of America (USA)",
