@@ -17,7 +17,7 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1421d8ca-9aff-4245-8ee4-cdf72c4c65c5",
-    "country": "Colombia",
+    "country": "Colombia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -29,10 +29,10 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "Colombia",
-      "Ecuador",
-      "Panama",
-      "Spain"
+      "Colombia (Victim Country)",
+      "Ecuador (Victim Country)",
+      "Panama (Victim Country)",
+      "Spain (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.005",
@@ -79,7 +79,7 @@
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b99367ed-e483-40a3-98d0-8d3a2102a4ab",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -108,23 +108,23 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Belgium",
-      "Canada",
-      "France",
-      "India",
-      "Israel",
-      "Japan",
-      "Luxembourg",
-      "Norway",
-      "Singapore",
-      "South Africa",
-      "South Korea",
-      "Switzerland",
-      "Taiwan",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "Canada (Victim Country)",
+      "France (Victim Country)",
+      "India (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Norway (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1135",
@@ -183,7 +183,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a85ba864-0a13-4337-bd57-8df380b7b4fa",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -195,10 +195,10 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Germany",
-      "Japan",
-      "Taiwan",
-      "United States of America (USA)"
+      "Germany (Victim Country)",
+      "Japan (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1203",
@@ -227,7 +227,7 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=96d67d0e-dff0-4bbd-99fa-6dbdb433474f",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -238,9 +238,9 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "Japan",
-      "Taiwan",
-      "Thailand"
+      "Japan (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1584.004"
@@ -281,7 +281,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -298,17 +298,17 @@
       "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
-      "Belgium",
-      "China",
-      "Germany",
-      "Indonesia",
-      "Italy",
-      "Japan",
-      "Netherlands",
-      "Switzerland",
-      "Russia",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Germany (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Russia (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1585",
@@ -340,7 +340,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=aa2f3420-e239-4b0c-9066-c6f5804de6a8",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -356,7 +356,7 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "United States of America (USA)"
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.003",
@@ -404,7 +404,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58c7e347-341c-4446-bf03-81fc1f7d9254",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -421,8 +421,8 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1043",
@@ -501,7 +501,7 @@
     ],
     "etda_first_seen": "2004",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e6037735-ed1b-4ae3-a45b-45d66e2c80f1",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -525,55 +525,55 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Armenia",
-      "Australia",
-      "Azerbaijan",
-      "Belarus",
-      "Belgium",
-      "Brazil",
-      "Bulgaria",
-      "Canada",
-      "Chile",
-      "China",
-      "Croatia",
-      "Cyprus",
-      "France",
-      "Georgia",
-      "Germany",
-      "Hungary",
-      "India",
-      "Iran",
-      "Iraq",
-      "Japan",
-      "Jordan",
-      "Kazakhstan",
-      "Latvia",
-      "Malaysia",
-      "Mexico",
-      "Mongolia",
-      "Montenegro",
-      "Netherlands",
-      "Norway",
-      "Pakistan",
-      "Poland",
-      "Romania",
-      "Slovakia",
-      "South Africa",
-      "South Korea",
-      "Spain",
-      "Sweden",
-      "Switzerland",
-      "Tajikistan",
-      "Thailand",
-      "Turkey",
-      "Uganda",
-      "Ukraine",
-      "Uzbekistan",
-      "NATO",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Armenia (Victim Country)",
+      "Australia (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "Croatia (Victim Country)",
+      "Cyprus (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Japan (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Latvia (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Montenegro (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Norway (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Poland (Victim Country)",
+      "Romania (Victim Country)",
+      "Slovakia (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Uganda (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "NATO (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1560",
@@ -714,7 +714,7 @@
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -731,50 +731,50 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Azerbaijan",
-      "Belarus",
-      "Belgium",
-      "Brazil",
-      "Bulgaria",
-      "Canada",
-      "Chechnya",
-      "China",
-      "Cyprus",
-      "Czech",
-      "France",
-      "Georgia",
-      "Germany",
-      "Hungary",
-      "India",
-      "Ireland",
-      "Israel",
-      "Japan",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Latvia",
-      "Lebanon",
-      "Lithuania",
-      "Luxembourg",
-      "Mexico",
-      "Montenegro",
-      "Netherlands",
-      "New Zealand",
-      "Poland",
-      "Portugal",
-      "Romania",
-      "Russia",
-      "Slovakia",
-      "Slovenia",
-      "Spain",
-      "South Korea",
-      "Turkey",
-      "Uganda",
-      "Ukraine",
-      "Uzbekistan",
-      "NATO",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "Chechnya (Victim Country)",
+      "China (Victim Country)",
+      "Cyprus (Victim Country)",
+      "Czech (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Ireland (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Latvia (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Lithuania (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Mexico (Victim Country)",
+      "Montenegro (Victim Country)",
+      "Netherlands (Victim Country)",
+      "New Zealand (Victim Country)",
+      "Poland (Victim Country)",
+      "Portugal (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Slovakia (Victim Country)",
+      "Slovenia (Victim Country)",
+      "Spain (Victim Country)",
+      "South Korea (Victim Country)",
+      "Turkey (Victim Country)",
+      "Uganda (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "NATO (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1546.003",
@@ -919,7 +919,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92ced576-2522-4b79-8645-baa5e84ffee3",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -934,15 +934,15 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Belgium",
-      "Hong Kong",
-      "Italy",
-      "Luxembourg",
-      "Philippines",
-      "Sweden",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Italy (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Philippines (Victim Country)",
+      "Sweden (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1056.001",
@@ -1014,7 +1014,7 @@
     ],
     "etda_first_seen": "2005",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a97aea4e-ac99-4506-89e6-ba1e5b766b0d",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1023,24 +1023,24 @@
       "Government"
     ],
     "victim_countries": [
-      "ASEAN",
-      "Bhutan",
-      "Brunei",
-      "Cambodia",
-      "India",
-      "Indonesia",
-      "Japan",
-      "Laos",
-      "Malaysia",
-      "Myanmar",
-      "Nepal",
-      "Philippines",
-      "Saudi Arabia",
-      "Singapore",
-      "South Korea",
-      "Thailand",
-      "Vietnam",
-      "United States of America (USA)"
+      "ASEAN (Victim Country)",
+      "Bhutan (Victim Country)",
+      "Brunei (Victim Country)",
+      "Cambodia (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Japan (Victim Country)",
+      "Laos (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Nepal (Victim Country)",
+      "Philippines (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.002",
@@ -1077,7 +1077,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b79f69a4-18a3-4d4f-b6e5-5ad3e01c984b",
-    "country": "Vietnam",
+    "country": "Vietnam (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1093,30 +1093,30 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "ASEAN",
-      "Australia",
-      "Bangladesh",
-      "Brunei",
-      "Cambodia",
-      "China",
-      "Denmark",
-      "Germany",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Japan",
-      "Laos",
-      "Malaysia",
-      "Myanmar",
-      "Nepal",
-      "Netherlands",
-      "Philippines",
-      "Singapore",
-      "South Korea",
-      "Thailand",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "ASEAN (Victim Country)",
+      "Australia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Brunei (Victim Country)",
+      "Cambodia (Victim Country)",
+      "China (Victim Country)",
+      "Denmark (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Iran (Victim Country)",
+      "Japan (Victim Country)",
+      "Laos (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Nepal (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Philippines (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1036.003",
@@ -1226,7 +1226,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=958e1f46-a2b6-4beb-8cb0-ddc90c08368e",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage",
       "Sabotage & Destruction"
@@ -1245,13 +1245,13 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "Iran",
-      "Iraq",
-      "Israel",
-      "Saudi Arabia",
-      "South Korea",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Israel (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Korea (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1065",
@@ -1289,67 +1289,6 @@
     ],
     "merged_name": "APT33, HOLMIUM, Elfin, APT 33, Magnallium, Holmium, ATK 35, Refined Kitten, TA451, Cobalt Trinity",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT33.json"
-  },
-  {
-    "mitre_attack_id": "intrusion-set--68ba94ab-78b8-43e7-83e2-aed3466882c6",
-    "mitre_attack_name": "APT34",
-    "mitre_attack_aliases": [
-      "APT34"
-    ],
-    "mitre_attack_created": "2018-01-16",
-    "mitre_attack_last_modified": "2018-10-17",
-    "mitre_url": "https://attack.mitre.org/groups/G0057",
-    "etda_id": "eeb31f97-edcf-4836-b621-a1865305b91e",
-    "etda_name": "OilRig, APT 34, Helix Kitten, Chrysene",
-    "etda_aliases": [
-      "OilRig",
-      "APT 34",
-      "Helix Kitten",
-      "Twisted Kitten",
-      "Crambus",
-      "Chrysene",
-      "Cobalt Gypsy",
-      "TA452",
-      "IRN2",
-      "ATK 40",
-      "ITG13"
-    ],
-    "etda_first_seen": "2014",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=eeb31f97-edcf-4836-b621-a1865305b91e",
-    "country": "Iran",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": [
-      "Aviation",
-      "Chemical",
-      "Education",
-      "Energy",
-      "Government",
-      "Hospitality",
-      "Financial (Finance)",
-      "High Tech (High-Tech)",
-      "Oil & Gas",
-      "Telecommunications (Telecoms)"
-    ],
-    "victim_countries": [
-      "Azerbaijan",
-      "Iraq",
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Lebanon",
-      "Mauritius",
-      "Pakistan",
-      "Qatar",
-      "Saudi Arabia",
-      "Turkey",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "APT34, OilRig, APT 34, Helix Kitten, Twisted Kitten, Crambus, Chrysene, Cobalt Gypsy, TA452, IRN2, ATK 40, ITG13"
   },
   {
     "mitre_attack_id": "intrusion-set--4a2ce82e-1a74-468a-a6fb-bbead541383c",
@@ -1407,7 +1346,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be6e7cee-7c2c-4298-941d-01b2106284e6",
-    "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
+    "country": "North Korea (Democratic People's Republic of Korea, DPRK) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1424,18 +1363,18 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "China",
-      "Hong Kong",
-      "India",
-      "Japan",
-      "Kuwait",
-      "Nepal",
-      "Romania",
-      "Russia",
-      "South Korea",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "China (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Japan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Nepal (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1555.003",
@@ -1499,12 +1438,16 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a979f6ac-99b3-4810-9362-94187db06784",
-    "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
+    "country": "North Korea (Democratic People's Republic of Korea, DPRK) (Base)",
     "motivation": [
       "Financial Crime"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1059.003",
       "T1082",
@@ -1577,7 +1520,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d7f937b7-b50b-4022-bca1-9e403ffefe45",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1592,14 +1535,14 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Saudi Arabia",
-      "Spain",
-      "Turkey",
-      "United Arab Emirates (UAE)",
-      "United States of America (USA)"
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Spain (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1569.002",
@@ -1686,7 +1629,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage",
       "Financial Crime"
@@ -1712,41 +1655,41 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Bahrain",
-      "Brazil",
-      "Canada",
-      "Chile",
-      "Denmark",
-      "Finland",
-      "France",
-      "Georgia",
-      "Hong Kong",
-      "India",
-      "Indonesia",
-      "Italy",
-      "Japan",
-      "Malaysia",
-      "Mexico",
-      "Myanmar",
-      "Netherlands",
-      "Pakistan",
-      "Philippines",
-      "Poland",
-      "Qatar",
-      "Saudi Arabia",
-      "Singapore",
-      "South Korea",
-      "South Africa",
-      "Sweden",
-      "Switzerland",
-      "Taiwan",
-      "Thailand",
-      "Turkey",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Bahrain (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "Denmark (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Philippines (Victim Country)",
+      "Poland (Victim Country)",
+      "Qatar (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "South Africa (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1133",
@@ -1836,7 +1779,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d17cae3-0777-428b-b9b7-fcbdf52af5ba",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1844,7 +1787,7 @@
       "Defense"
     ],
     "victim_countries": [
-      "United States of America (USA)"
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1555.003",
@@ -1887,12 +1830,16 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=00089621-cabc-421a-b2ce-3fd18f6bfa9c",
-    "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
+    "country": "North Korea (Democratic People's Republic of Korea, DPRK) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1204.002",
       "T1590.005",
@@ -1926,7 +1873,7 @@
     ],
     "etda_first_seen": "2020",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0730437a-1b64-4777-a920-64bbe97214c0",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1935,7 +1882,9 @@
       "Technology",
       "Telecommunications (Telecoms)"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1059.003",
       "T1595.002",
@@ -1975,7 +1924,7 @@
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -1987,10 +1936,10 @@
       "Media"
     ],
     "victim_countries": [
-      "Japan",
-      "South Korea",
-      "Taiwan",
-      "United States of America (USA)"
+      "Japan (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1203",
@@ -2037,7 +1986,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=334d9e0e-dab2-4bc5-8db2-5ab016f36947",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2053,14 +2002,14 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "China",
-      "Hong Kong",
-      "Japan",
-      "Russia",
-      "Singapore",
-      "South Korea",
-      "Taiwan",
-      "United States of America (USA)"
+      "China (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Japan (Victim Country)",
+      "Russia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1124",
@@ -2123,7 +2072,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=18989a3d-e984-40a9-8fd6-ed6f6b318272",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2132,22 +2081,22 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Albania",
-      "Bhutan",
-      "Croatia",
-      "Georgia",
-      "Germany",
-      "Ghana",
-      "India",
-      "Libya",
-      "Namibia",
-      "Nigeria",
-      "Poland",
-      "Saudi Arabia",
-      "South Africa",
-      "Sri Lanka",
-      "Uzbekistan",
-      "United Arab Emirates (UAE)"
+      "Albania (Victim Country)",
+      "Bhutan (Victim Country)",
+      "Croatia (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Ghana (Victim Country)",
+      "India (Victim Country)",
+      "Libya (Victim Country)",
+      "Namibia (Victim Country)",
+      "Nigeria (Victim Country)",
+      "Poland (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Africa (Victim Country)",
+      "Sri Lanka (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1046",
@@ -2185,7 +2134,7 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7db7cd4f-ca76-4176-9d94-80429033ef49",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2194,19 +2143,19 @@
       "Think Tanks"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Angola",
-      "Bahrain",
-      "Iran",
-      "Iraq",
-      "Jordan",
-      "Libya",
-      "Netherlands",
-      "Nigeria",
-      "Russia",
-      "Saudi Arabia",
-      "Tunisia",
-      "United Kingdom (UK)"
+      "Afghanistan (Victim Country)",
+      "Angola (Victim Country)",
+      "Bahrain (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Jordan (Victim Country)",
+      "Libya (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Nigeria (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Tunisia (Victim Country)",
+      "United Kingdom (UK) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1027"
@@ -2239,7 +2188,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8914b19b-9d8a-469f-8b95-37db9894e070",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2252,11 +2201,11 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "China",
-      "Hong Kong",
-      "Japan",
-      "Taiwan",
-      "United States of America (USA)"
+      "China (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Japan (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1588.003",
@@ -2297,7 +2246,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e5869096-4b2d-406d-b8d1-713eda321457",
-    "country": "Ukraine",
+    "country": "Ukraine (Base)",
     "motivation": [
       "Financial Gain",
       "Financial Crime"
@@ -2310,33 +2259,33 @@
       "Food & Agriculture"
     ],
     "victim_countries": [
-      "Australia",
-      "Austria",
-      "Brazil",
-      "Bulgaria",
-      "Canada",
-      "China",
-      "Czech",
-      "France",
-      "Germany",
-      "Hong Kong",
-      "Iceland",
-      "India",
-      "Luxembourg",
-      "Morocco",
-      "Nepal",
-      "Norway",
-      "Pakistan",
-      "Poland",
-      "Russia",
-      "Spain",
-      "Sweden",
-      "Switzerland",
-      "Taiwan",
-      "Ukraine",
-      "Uzbekistan",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Brazil (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Czech (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Iceland (Victim Country)",
+      "India (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Morocco (Victim Country)",
+      "Nepal (Victim Country)",
+      "Norway (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Poland (Victim Country)",
+      "Russia (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1078",
@@ -2369,7 +2318,7 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2378,7 +2327,7 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "Taiwan"
+      "Taiwan (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1133",
@@ -2464,7 +2413,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4622bc44-8c01-4807-8d12-b22352472c29",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2485,23 +2434,23 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Canada",
-      "China",
-      "France",
-      "Germany",
-      "India",
-      "Israel",
-      "Kuwait",
-      "Mexico",
-      "Netherlands",
-      "Pakistan",
-      "Qatar",
-      "Saudi Arabia",
-      "South Korea",
-      "Turkey",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Israel (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Mexico (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Qatar (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1588.002",
@@ -2537,7 +2486,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8339e9a-c946-4304-aac4-722d8652d273",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -2548,37 +2497,37 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "Argentina",
-      "Armenia",
-      "Austria",
-      "Azerbaijan",
-      "Belarus",
-      "Bulgaria",
-      "Canada",
-      "China",
-      "Czech",
-      "Estonia",
-      "Georgia",
-      "Italy",
-      "Jordan",
-      "Kazakhstan",
-      "Kuwait",
-      "Kyrgyzstan",
-      "Malaysia",
-      "Moldova",
-      "Netherlands",
-      "Poland",
-      "Romania",
-      "Russia",
-      "Spain",
-      "Taiwan",
-      "Tajikistan",
-      "Thailand",
-      "Turkey",
-      "Ukraine",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Argentina (Victim Country)",
+      "Armenia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Czech (Victim Country)",
+      "Estonia (Victim Country)",
+      "Georgia (Victim Country)",
+      "Italy (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Moldova (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Poland (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Spain (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071.004",
@@ -2637,7 +2586,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a674fc23-26e8-4f6e-ba55-1a6ef4029878",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2649,12 +2598,12 @@
       "Information Technology (IT)"
     ],
     "victim_countries": [
-      "Germany",
-      "Israel",
-      "Jordan",
-      "Saudi Arabia",
-      "Turkey",
-      "United States of America (USA)"
+      "Germany (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Turkey (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1588.002",
@@ -2684,25 +2633,27 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=18339642-2d15-4dae-abfe-27abe661b911",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Gain"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Australia",
-      "Austria",
-      "Bahamas",
-      "Bangladesh",
-      "China",
-      "Czech",
-      "France",
-      "India",
-      "Mozambique",
-      "Netherlands",
-      "Portugal",
-      "Singapore",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Bahamas (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "China (Victim Country)",
+      "Czech (Victim Country)",
+      "France (Victim Country)",
+      "India (Victim Country)",
+      "Mozambique (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Portugal (Victim Country)",
+      "Singapore (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1588.002",
@@ -2733,7 +2684,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=fc5237e5-874a-4892-af91-f50550dd9588",
-    "country": "Lebanon",
+    "country": "Lebanon (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2748,27 +2699,27 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "China",
-      "France",
-      "Germany",
-      "India",
-      "Italy",
-      "Jordan",
-      "Lebanon",
-      "Nepal",
-      "Netherlands",
-      "Pakistan",
-      "Philippines",
-      "Qatar",
-      "Russia",
-      "Saudi Arabia",
-      "South Korea",
-      "Switzerland",
-      "Syria",
-      "Thailand",
-      "Venezuela",
-      "Vietnam",
-      "United States of America (USA)"
+      "China (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Italy (Victim Country)",
+      "Jordan (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Nepal (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Philippines (Victim Country)",
+      "Qatar (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Syria (Victim Country)",
+      "Thailand (Victim Country)",
+      "Venezuela (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071.001",
@@ -2805,7 +2756,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2849cc26-d6c8-4484-821e-cb0f7006bddc",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2814,7 +2765,7 @@
       "Government"
     ],
     "victim_countries": [
-      "Iran"
+      "Iran (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1187",
@@ -2861,7 +2812,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=142dc639-1360-4a2d-a839-11e62ca724e4",
-    "country": "South Korea (Republic of Korea, ROK)",
+    "country": "South Korea (Republic of Korea, ROK) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2877,44 +2828,44 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Armenia",
-      "Bangladesh",
-      "Belgium",
-      "China",
-      "Ethiopia",
-      "Germany",
-      "Greece",
-      "Hong Kong",
-      "India",
-      "Indonesia",
-      "Malaysia",
-      "Ireland",
-      "Israel",
-      "Italy",
-      "Japan",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Lebanon",
-      "Malaysia",
-      "Mexico",
-      "Mozambique",
-      "North Korea",
-      "Pakistan",
-      "Philippines",
-      "Russia",
-      "Saudi Arabia",
-      "Serbia",
-      "Singapore",
-      "South Korea",
-      "Taiwan",
-      "Tajikistan",
-      "Thailand",
-      "Turkey",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Armenia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Ethiopia (Victim Country)",
+      "Germany (Victim Country)",
+      "Greece (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Ireland (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Mozambique (Victim Country)",
+      "North Korea (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Philippines (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1080",
@@ -2975,7 +2926,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58c7e347-341c-4446-bf03-81fc1f7d9254",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -2992,8 +2943,8 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1564.003",
@@ -3009,41 +2960,6 @@
     ],
     "merged_name": "Deep Panda, Shell Crew, WebMasters, KungFu Kittens, PinkPanther, Black Vine, APT 19, Codoso, Sunshop Group, TG-3551, Bronze Firestone, Pupa, Operation “Kingslayer”, C0d0so0",
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Deep%20Panda.json"
-  },
-  {
-    "mitre_attack_id": "intrusion-set--f3bdec95-3d62-42d9-a840-29630f6cdc1a",
-    "mitre_attack_name": "DragonOK",
-    "mitre_attack_aliases": [
-      "DragonOK"
-    ],
-    "mitre_attack_created": "2017-05-31",
-    "mitre_attack_last_modified": "2019-03-22",
-    "mitre_url": "https://attack.mitre.org/groups/G0017",
-    "etda_id": "6823d807-dfa8-42f3-84d5-986a7ef60c56",
-    "etda_name": "DragonOK",
-    "etda_aliases": [
-      "Bronze Overbrook",
-      "DragonOK"
-    ],
-    "etda_first_seen": "2015",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6823d807-dfa8-42f3-84d5-986a7ef60c56",
-    "country": "China",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": [
-      "Manufacturing",
-      "High Tech (High-Tech)"
-    ],
-    "victim_countries": [
-      "Cambodia",
-      "Japan",
-      "Russia",
-      "Taiwan",
-      "Tibet"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "DragonOK, Bronze Overbrook"
   },
   {
     "mitre_attack_id": "intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1",
@@ -3078,7 +2994,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a1492ea6-162c-46a9-a2d5-9618641b5ab2",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Sabotage & Destruction"
     ],
@@ -3095,21 +3011,21 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Canada",
-      "France",
-      "Germany",
-      "Greece",
-      "Italy",
-      "Norway",
-      "Poland",
-      "Romania",
-      "Russia",
-      "Serbia",
-      "Spain",
-      "Turkey",
-      "Ukraine",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Greece (Victim Country)",
+      "Italy (Victim Country)",
+      "Norway (Victim Country)",
+      "Poland (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Spain (Victim Country)",
+      "Turkey (Victim Country)",
+      "Ukraine (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1078",
@@ -3174,54 +3090,6 @@
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dragonfly.json"
   },
   {
-    "mitre_attack_id": "intrusion-set--76d59913-1d24-4992-a8ac-05a3eb093f71",
-    "mitre_attack_name": "Dragonfly 2.0",
-    "mitre_attack_aliases": [
-      "Dragonfly 2.0",
-      "IRON LIBERTY",
-      "DYMALLOY",
-      "Berserk Bear"
-    ],
-    "mitre_attack_created": "2018-10-17",
-    "mitre_attack_last_modified": "2022-05-11",
-    "mitre_url": "https://attack.mitre.org/groups/G0074",
-    "etda_id": "3a78595b-3d41-401f-8e8c-ac527a854d08",
-    "etda_name": "Berserk Bear, Dragonfly 2.0",
-    "etda_aliases": [
-      "Berserk Bear",
-      "Dragonfly 2.0",
-      "Dymalloy"
-    ],
-    "etda_first_seen": "2015",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3a78595b-3d41-401f-8e8c-ac527a854d08",
-    "country": "Russia",
-    "motivation": [
-      "Sabotage & Destruction"
-    ],
-    "victim_industries": [
-      "Energy"
-    ],
-    "victim_countries": [
-      "Azerbaijan",
-      "Belgium",
-      "Canada",
-      "France",
-      "Germany",
-      "Italy",
-      "Norway",
-      "Russia",
-      "Singapore",
-      "Spain",
-      "Switzerland",
-      "Turkey",
-      "Ukraine",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "Dragonfly 2.0, IRON LIBERTY, DYMALLOY, Berserk Bear, Dymalloy"
-  },
-  {
     "mitre_attack_id": "intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31",
     "mitre_attack_name": "Dust Storm",
     "mitre_attack_aliases": [
@@ -3237,7 +3105,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3c462561-ef5e-48ac-9138-38dc25d2afc4",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -3246,9 +3114,9 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Japan",
-      "South Korea",
-      "United States of America (USA)"
+      "Japan (Victim Country)",
+      "South Korea (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1005",
@@ -3293,7 +3161,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=58f101e3-5fe8-43d4-8d92-f09987604385",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -3310,17 +3178,17 @@
       "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
-      "Belgium",
-      "China",
-      "Germany",
-      "Indonesia",
-      "Italy",
-      "Japan",
-      "Netherlands",
-      "Switzerland",
-      "Russia",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Germany (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Russia (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1203",
@@ -3354,7 +3222,7 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e5ad7790-80c8-4319-a52e-469e20c95573",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -3363,16 +3231,16 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "Albania",
-      "Australia",
-      "Belgium",
-      "Canada",
-      "Cyprus",
-      "Czech",
-      "Israel",
-      "Italy",
-      "Ukraine",
-      "United Kingdom (UK)"
+      "Albania (Victim Country)",
+      "Australia (Victim Country)",
+      "Belgium (Victim Country)",
+      "Canada (Victim Country)",
+      "Cyprus (Victim Country)",
+      "Czech (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Ukraine (Victim Country)",
+      "United Kingdom (UK) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1574.001",
@@ -3406,7 +3274,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=32e3ffa7-e053-4841-a072-7f314eb1637c",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3415,8 +3283,8 @@
       "Casinos & Gambling"
     ],
     "victim_countries": [
-      "Canada",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.001",
@@ -3451,7 +3319,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=1a7f67d2-c05e-48f6-b62e-76b2bea6d174",
-    "country": "Romania",
+    "country": "Romania (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3460,7 +3328,9 @@
       "Financial (Finance)",
       "Pharmaceuticals"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1056.002",
       "T1056.001",
@@ -3494,7 +3364,7 @@
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=79996110-5bcb-4996-b3d8-0d778030f0dc",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3502,7 +3372,9 @@
       "Gaming",
       "Hospitality"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1078",
       "T1133",
@@ -3544,7 +3416,7 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=61c8ecd4-e4e1-4f36-b209-ca55106ec22f",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Gain",
       "Financial Crime"
@@ -3556,7 +3428,9 @@
       "Manufacturing",
       "Retail"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1036.004",
       "T1213",
@@ -3628,7 +3502,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c3f1f1ff-7d79-4385-bb5b-340c252c5a77",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3647,11 +3521,11 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "France",
-      "Malta",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "France (Victim Country)",
+      "Malta (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1047",
@@ -3715,7 +3589,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=92691488-ff3b-4ff0-92f1-1c732bce88d2",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3728,11 +3602,11 @@
       "Food & Agriculture"
     ],
     "victim_countries": [
-      "Canada",
-      "Italy",
-      "Panama",
-      "South Africa",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "Italy (Victim Country)",
+      "Panama (Victim Country)",
+      "South Africa (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.001",
@@ -3786,12 +3660,16 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e4c70f58-d897-472b-8a10-577c0239a678",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1036.002",
       "T1036.005",
@@ -3827,7 +3705,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=9d13d133-e25a-4de0-8952-6b0cbdb92899",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -3848,21 +3726,21 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Austria",
-      "Finland",
-      "France",
-      "Germany",
-      "Hungary",
-      "Israel",
-      "Italy",
-      "Kuwait",
-      "Lebanon",
-      "Malaysia",
-      "Poland",
-      "Saudi Arabia",
-      "United Arab Emirates (UAE)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Hungary (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Poland (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1505.003",
@@ -3926,7 +3804,7 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=8dd3c489-96f1-412f-9eec-60f96a674571",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -3935,7 +3813,9 @@
       "Financial (Finance)",
       "Telecommunications (Telecoms)"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1553.002",
       "T1570",
@@ -3988,7 +3868,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e6eeb30a-a941-46f9-8340-20958f1d6cb0",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -3996,7 +3876,7 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "Russia"
+      "Russia (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1021.005",
@@ -4023,12 +3903,16 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bdd28842-178b-4258-a37f-5c1c1bb71bb2",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Gain"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1027",
       "T1195.002",
@@ -4059,7 +3943,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dafbb134-1652-4444-8b12-9b4cc121e3c2",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4068,7 +3952,9 @@
       "Embassies",
       "Government"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1204.002",
       "T1559.002",
@@ -4114,7 +4000,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a48ab06b-092a-481d-ae0b-c4050ed281f7",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4125,48 +4011,48 @@
       "Non-Governmental Organizations (NGOs)"
     ],
     "victim_countries": [
-      "Albania",
-      "Austria",
-      "Australia",
-      "Bangladesh",
-      "Brazil",
-      "Canada",
-      "Chile",
-      "China",
-      "Colombia",
-      "Croatia",
-      "Denmark",
-      "Georgia",
-      "Germany",
-      "Guatemala",
-      "Honduras",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Israel",
-      "Italy",
-      "Japan",
-      "Kazakhstan",
-      "Latvia",
-      "Malaysia",
-      "Netherlands",
-      "Nigeria",
-      "Norway",
-      "Pakistan",
-      "Papua New Guinea",
-      "Poland",
-      "Portugal",
-      "Romania",
-      "Russia",
-      "South Africa",
-      "South Korea",
-      "Spain",
-      "Sweden",
-      "Turkey",
-      "Ukraine",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Albania (Victim Country)",
+      "Austria (Victim Country)",
+      "Australia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "Colombia (Victim Country)",
+      "Croatia (Victim Country)",
+      "Denmark (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Guatemala (Victim Country)",
+      "Honduras (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Iran (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Latvia (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Nigeria (Victim Country)",
+      "Norway (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Papua New Guinea (Victim Country)",
+      "Poland (Victim Country)",
+      "Portugal (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Turkey (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1218.005",
@@ -4221,75 +4107,6 @@
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gamaredon%20Group.json"
   },
   {
-    "mitre_attack_id": "intrusion-set--99910207-1741-4da1-9b5d-537410186b51",
-    "mitre_attack_name": "Gelsemium",
-    "mitre_attack_aliases": [
-      "Gelsemium"
-    ],
-    "mitre_attack_created": "2021-11-30",
-    "mitre_attack_last_modified": "2022-05-04",
-    "mitre_url": "https://attack.mitre.org/groups/G0141",
-    "etda_id": "80d60b05-bf0a-4630-afa8-666fa6f72147",
-    "etda_name": "Gelsemium",
-    "etda_aliases": [
-      "Operation “TooHash”",
-      "Operation “NightScout”",
-      "Gelsemium"
-    ],
-    "etda_first_seen": "2014",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=80d60b05-bf0a-4630-afa8-666fa6f72147",
-    "country": "China",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": [
-      "Education",
-      "Gaming",
-      "Government",
-      "High Tech (High-Tech)",
-      "Non-Governmental Organizations (NGOs)"
-    ],
-    "victim_countries": [
-      "Argentina",
-      "Brunei",
-      "China",
-      "Djibouti",
-      "Egypt",
-      "Equatorial Guinea",
-      "Hong Kong",
-      "Indonesia",
-      "Iran",
-      "Iraq",
-      "Israel",
-      "Japan",
-      "Jordan",
-      "Kenya",
-      "Laos",
-      "Lebanon",
-      "Malaysia",
-      "Mongolia",
-      "Nigeria",
-      "North Korea",
-      "Oman",
-      "Pakistan",
-      "Russia",
-      "Saudi Arabia",
-      "South Korea",
-      "Sri Lanka",
-      "Swaziland",
-      "Syria",
-      "Taiwan",
-      "Thailand",
-      "Turkey",
-      "Vietnam",
-      "Yemen",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "Gelsemium, Operation “TooHash”, Operation “NightScout”"
-  },
-  {
     "mitre_attack_id": "intrusion-set--1f21da59-6a13-455b-afd0-d58d0a5a7d27",
     "mitre_attack_name": "Gorgon Group",
     "mitre_attack_aliases": [
@@ -4308,7 +4125,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7d44d2cd-98a0-4bcf-8ad3-02e3c382cbad",
-    "country": "Pakistan",
+    "country": "Pakistan (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4317,11 +4134,11 @@
       "Manufacturing"
     ],
     "victim_countries": [
-      "Russia",
-      "Spain",
-      "Switzerland",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Russia (Victim Country)",
+      "Spain (Victim Country)",
+      "Switzerland (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -4361,13 +4178,15 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=316b9d45-f67a-4595-bdf3-5137489fb3c5",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Syria"
+      "Syria (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1065",
@@ -4396,12 +4215,16 @@
     ],
     "etda_first_seen": "2021",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7c88c982-c383-4552-90b4-cbb67ec5240f",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1583.003",
       "T1003.003",
@@ -4460,7 +4283,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=142dc639-1360-4a2d-a839-11e62ca724e4",
-    "country": "South Korea (Republic of Korea, ROK)",
+    "country": "South Korea (Republic of Korea, ROK) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4476,44 +4299,44 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Armenia",
-      "Bangladesh",
-      "Belgium",
-      "China",
-      "Ethiopia",
-      "Germany",
-      "Greece",
-      "Hong Kong",
-      "India",
-      "Indonesia",
-      "Malaysia",
-      "Ireland",
-      "Israel",
-      "Italy",
-      "Japan",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Lebanon",
-      "Malaysia",
-      "Mexico",
-      "Mozambique",
-      "North Korea",
-      "Pakistan",
-      "Philippines",
-      "Russia",
-      "Saudi Arabia",
-      "Serbia",
-      "Singapore",
-      "South Korea",
-      "Taiwan",
-      "Tajikistan",
-      "Thailand",
-      "Turkey",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Armenia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Ethiopia (Victim Country)",
+      "Germany (Victim Country)",
+      "Greece (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Ireland (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Mozambique (Victim Country)",
+      "North Korea (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Philippines (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1547.001",
@@ -4562,19 +4385,21 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=84c2b582-22dd-4dd0-b690-a7b4ff3477ee",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Argentina",
-      "Canada",
-      "Indonesia",
-      "Japan",
-      "Singapore",
-      "South Korea",
-      "Vietnam"
+      "Argentina (Victim Country)",
+      "Canada (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Japan (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Vietnam (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1543.003",
@@ -4626,7 +4451,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7849ff33-1be0-4715-89b1-3adcb182561a",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4642,55 +4467,55 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Armenia",
-      "Austria",
-      "Azerbaijan",
-      "Belarus",
-      "Belgium",
-      "Brazil",
-      "Congo",
-      "Cyprus",
-      "France",
-      "Georgia",
-      "Germany",
-      "Greece",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Italy",
-      "Jordan",
-      "Kazakhstan",
-      "Kenya",
-      "Kyrgyzstan",
-      "Lebanon",
-      "Lithuania",
-      "Malaysia",
-      "Moldova",
-      "Morocco",
-      "Mozambique",
-      "Oman",
-      "Pakistan",
-      "Paraguay",
-      "Portugal",
-      "Qatar",
-      "Romania",
-      "Russia",
-      "Saudi Arabia",
-      "South Africa",
-      "Suriname",
-      "Switzerland",
-      "Tajikistan",
-      "Tanzania",
-      "Turkey",
-      "Turkmenistan",
-      "Uganda",
-      "Ukraine",
-      "Uzbekistan",
-      "Venezuela",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Armenia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Congo (Victim Country)",
+      "Cyprus (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Greece (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Iran (Victim Country)",
+      "Italy (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kenya (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Lithuania (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Moldova (Victim Country)",
+      "Morocco (Victim Country)",
+      "Mozambique (Victim Country)",
+      "Oman (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Paraguay (Victim Country)",
+      "Portugal (Victim Country)",
+      "Qatar (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Africa (Victim Country)",
+      "Suriname (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Tanzania (Victim Country)",
+      "Turkey (Victim Country)",
+      "Turkmenistan (Victim Country)",
+      "Uganda (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "Venezuela (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1083",
@@ -4735,15 +4560,17 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b4571e18-c0c8-42fb-9c03-aa7b5b29b2b7",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Afghanistan",
-      "Kyrgyzstan",
-      "Uzbekistan"
+      "Afghanistan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Uzbekistan (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1583.006",
@@ -4778,7 +4605,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a13e6ede-eb86-499f-837e-820845da04a6",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Gain",
       "Financial Crime"
@@ -4789,7 +4616,9 @@
       "Media",
       "Financial (Finance)"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1486",
       "T1136",
@@ -4851,7 +4680,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=110ed515-11db-4bf1-af41-a66f513ecf70",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -4871,51 +4700,51 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Argentina",
-      "Barbados",
-      "Belgium",
-      "Bosnia and Herzegovina",
-      "Brazil",
-      "Bulgaria",
-      "Chile",
-      "China",
-      "Colombia",
-      "Croatia",
-      "Czech",
-      "Dominican Republic",
-      "Ecuador",
-      "Egypt",
-      "El Salvador",
-      "France",
-      "Guatemala",
-      "Honduras",
-      "Hungary",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Italy",
-      "Jamaica",
-      "Kazakhstan",
-      "Kuwait",
-      "Malaysia",
-      "Mali",
-      "Mexico",
-      "Montenegro",
-      "Pakistan",
-      "Panama",
-      "Peru",
-      "Portugal",
-      "Saudi Arabia",
-      "Slovakia",
-      "Switzerland",
-      "Syria",
-      "Trinidad and Tobago",
-      "Turkey",
-      "Venezuela",
-      "Uzbekistan",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Argentina (Victim Country)",
+      "Barbados (Victim Country)",
+      "Belgium (Victim Country)",
+      "Bosnia and Herzegovina (Victim Country)",
+      "Brazil (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "Colombia (Victim Country)",
+      "Croatia (Victim Country)",
+      "Czech (Victim Country)",
+      "Dominican Republic (Victim Country)",
+      "Ecuador (Victim Country)",
+      "Egypt (Victim Country)",
+      "El Salvador (Victim Country)",
+      "France (Victim Country)",
+      "Guatemala (Victim Country)",
+      "Honduras (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Iran (Victim Country)",
+      "Italy (Victim Country)",
+      "Jamaica (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mali (Victim Country)",
+      "Mexico (Victim Country)",
+      "Montenegro (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Panama (Victim Country)",
+      "Peru (Victim Country)",
+      "Portugal (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Slovakia (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Syria (Victim Country)",
+      "Trinidad and Tobago (Victim Country)",
+      "Turkey (Victim Country)",
+      "Venezuela (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1082",
@@ -5000,7 +4829,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5e3544bf-98ad-4e9f-b65e-85f05c36486f",
-    "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
+    "country": "North Korea (Democratic People's Republic of Korea, DPRK) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5013,8 +4842,8 @@
       "Think Tanks"
     ],
     "victim_countries": [
-      "South Korea",
-      "United States of America (USA)"
+      "South Korea (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1583.001",
@@ -5157,7 +4986,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=41dcfaff-d5f0-484d-8649-ef8c61588eec",
-    "country": "North Korea (Democratic People's Republic of Korea, DPRK)",
+    "country": "North Korea (Democratic People's Republic of Korea, DPRK) (Base)",
     "motivation": [
       "Information Theft & Espionage",
       "Financial Crime",
@@ -5174,31 +5003,31 @@
       "Shipping & Logistics"
     ],
     "victim_countries": [
-      "Australia",
-      "Bangladesh",
-      "Brazil",
-      "Canada",
-      "Chile",
-      "China",
-      "Ecuador",
-      "France",
-      "Germany",
-      "Guatemala",
-      "Hong Kong",
-      "India",
-      "Israel",
-      "Japan",
-      "Mexico",
-      "Philippines",
-      "Poland",
-      "Russia",
-      "South Africa",
-      "South Korea",
-      "Taiwan",
-      "Thailand",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "Ecuador (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Guatemala (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Mexico (Victim Country)",
+      "Philippines (Victim Country)",
+      "Poland (Victim Country)",
+      "Russia (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1124",
@@ -5333,7 +5162,7 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=84510b1b-3499-4a9f-bbeb-90b391e3d2cf",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5341,7 +5170,7 @@
       "Aviation"
     ],
     "victim_countries": [
-      "Canada"
+      "Canada (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.007",
@@ -5387,7 +5216,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bde56229-34b6-4a33-b6c0-358d41416ee3",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5398,10 +5227,10 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "Israel",
-      "Kuwait",
-      "Lebanon",
-      "United States of America (USA)"
+      "Israel (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Lebanon (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1110.003",
@@ -5456,7 +5285,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b106313a-d204-4d9f-866b-e750a98d0e06",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5470,17 +5299,17 @@
       "Shipping & Logistics"
     ],
     "victim_countries": [
-      "Belgium",
-      "Cambodia",
-      "Germany",
-      "Hong Kong",
-      "Malaysia",
-      "Norway",
-      "Philippines",
-      "Saudi Arabia",
-      "Switzerland",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "Cambodia (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Norway (Victim Country)",
+      "Philippines (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Switzerland (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1003.001",
@@ -5532,124 +5361,6 @@
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leviathan.json"
   },
   {
-    "mitre_attack_id": "intrusion-set--88b7dbc2-32d3-4e31-af2f-3fc24e1582d7",
-    "mitre_attack_name": "Lotus Blossom",
-    "mitre_attack_aliases": [
-      "Lotus Blossom",
-      "DRAGONFISH",
-      "Spring Dragon"
-    ],
-    "mitre_attack_created": "2017-05-31",
-    "mitre_attack_last_modified": "2019-03-25",
-    "mitre_url": "https://attack.mitre.org/groups/G0030",
-    "etda_id": "3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
-    "etda_name": "Lotus Blossom, Spring Dragon, Thrip",
-    "etda_aliases": [
-      "Lotus Blossom",
-      "Spring Dragon",
-      "Dragonfish",
-      "Billbug",
-      "Thrip",
-      "Bronze Elgin",
-      "CTG-8171",
-      "ATK 1",
-      "ATK 78",
-      "Operation “Lotus Blossom”"
-    ],
-    "etda_first_seen": "2012",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
-    "country": "China",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": [
-      "Aerospace",
-      "Defense",
-      "Education",
-      "Government",
-      "Satellites",
-      "High Tech (High-Tech)",
-      "Telecommunications (Telecoms)"
-    ],
-    "victim_countries": [
-      "ASEAN",
-      "Brunei",
-      "Cambodia",
-      "Hong Kong",
-      "Indonesia",
-      "Japan",
-      "Laos",
-      "Macao",
-      "Malaysia",
-      "Myanmar",
-      "Philippines",
-      "Singapore",
-      "Taiwan",
-      "Thailand",
-      "Vietnam",
-      "United States of America (USA)"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "Lotus Blossom, DRAGONFISH, Spring Dragon, Dragonfish, Billbug, Thrip, Bronze Elgin, CTG-8171, ATK 1, ATK 78, Operation “Lotus Blossom”"
-  },
-  {
-    "mitre_attack_id": "intrusion-set--9559ecaf-2e75-48a7-aee8-9974020bc772",
-    "mitre_attack_name": "MONSOON",
-    "mitre_attack_aliases": [
-      "MONSOON"
-    ],
-    "mitre_attack_created": "2017-05-31",
-    "mitre_attack_last_modified": "2018-10-17",
-    "mitre_url": "https://attack.mitre.org/groups/G0042",
-    "etda_id": "af67327e-b4c9-443b-bcc9-3fb2efd41401",
-    "etda_name": "Operation HangOver, Monsoon, Viceroy Tiger",
-    "etda_aliases": [
-      "Operation HangOver",
-      "Monsoon",
-      "Viceroy Tiger",
-      "Neon"
-    ],
-    "etda_first_seen": "2010",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=af67327e-b4c9-443b-bcc9-3fb2efd41401",
-    "country": "India",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": [
-      "Defense",
-      "Government",
-      "Hospitality",
-      "Telecommunications (Telecoms)"
-    ],
-    "victim_countries": [
-      "Austria",
-      "Bangladesh",
-      "Canada",
-      "China",
-      "France",
-      "Germany",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Jordan",
-      "Norway",
-      "Oman",
-      "Panama",
-      "Pakistan",
-      "Poland",
-      "Romania",
-      "Russia",
-      "Singapore",
-      "Sri Lanka",
-      "Taiwan",
-      "Thailand",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
-    ],
-    "mitre_attack_ttps": [],
-    "merged_name": "MONSOON, Operation HangOver, Monsoon, Viceroy Tiger, Neon"
-  },
-  {
     "mitre_attack_id": "intrusion-set--38863958-a201-4ce1-9dbe-539b0b6804e0",
     "mitre_attack_name": "Machete",
     "mitre_attack_aliases": [
@@ -5672,7 +5383,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=833458a9-a8a0-4efb-be06-d5ef87b6b842",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5685,31 +5396,31 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Argentina",
-      "Belgium",
-      "Bolivia",
-      "Brazil",
-      "Canada",
-      "China",
-      "Colombia",
-      "Cuba",
-      "Dominican Republic",
-      "Ecuador",
-      "France",
-      "Germany",
-      "Guatemala",
-      "Malaysia",
-      "Mexico",
-      "Nicaragua",
-      "Peru",
-      "Russia",
-      "South Korea",
-      "Spain",
-      "Sweden",
-      "Ukraine",
-      "Venezuela",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Argentina (Victim Country)",
+      "Belgium (Victim Country)",
+      "Bolivia (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Colombia (Victim Country)",
+      "Cuba (Victim Country)",
+      "Dominican Republic (Victim Country)",
+      "Ecuador (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Guatemala (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Nicaragua (Victim Country)",
+      "Peru (Victim Country)",
+      "Russia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Venezuela (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1218.007",
@@ -5766,7 +5477,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bb9b25ed-9ddc-4f65-bd01-ab8d6efc34ac",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5782,25 +5493,25 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Canada",
-      "Egypt",
-      "Iran",
-      "Iraq",
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Morocco",
-      "Pakistan",
-      "Saudi Arabia",
-      "Spain",
-      "Syria",
-      "Turkey",
-      "Venezuela",
-      "Yemen",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Canada (Victim Country)",
+      "Egypt (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Morocco (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Spain (Victim Country)",
+      "Syria (Victim Country)",
+      "Turkey (Victim Country)",
+      "Venezuela (Victim Country)",
+      "Yemen (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071",
@@ -5867,7 +5578,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=a89dfb9b-f899-4d5e-b835-1fbb37295660",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5876,7 +5587,7 @@
       "Government"
     ],
     "victim_countries": [
-      "United States of America (USA)"
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1027.001"
@@ -5906,7 +5617,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=59308a4a-3c7b-4589-87e5-0c4d0d19274e",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5921,13 +5632,13 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Canada",
-      "Germany",
-      "India",
-      "Myanmar",
-      "Singapore",
-      "South Korea",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.001",
@@ -5970,7 +5681,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6a9903bb-0925-4715-83cf-f058c03a003b",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -5987,41 +5698,41 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Algeria",
-      "Canada",
-      "China",
-      "Chile",
-      "Denmark",
-      "Egypt",
-      "Germany",
-      "India",
-      "Iran",
-      "Iraq",
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Lebanon",
-      "Latvia",
-      "Libya",
-      "Macedonia",
-      "Morocco",
-      "New Zealand",
-      "Oman",
-      "Palestine",
-      "Qatar",
-      "Russia",
-      "Saudi Arabia",
-      "Serbia",
-      "Slovenia",
-      "Somalia",
-      "South Korea",
-      "Syria",
-      "Turkey",
-      "Yemen",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Algeria (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Chile (Victim Country)",
+      "Denmark (Victim Country)",
+      "Egypt (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Latvia (Victim Country)",
+      "Libya (Victim Country)",
+      "Macedonia (Victim Country)",
+      "Morocco (Victim Country)",
+      "New Zealand (Victim Country)",
+      "Oman (Victim Country)",
+      "Palestine (Victim Country)",
+      "Qatar (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Slovenia (Victim Country)",
+      "Somalia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Syria (Victim Country)",
+      "Turkey (Victim Country)",
+      "Yemen (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1057",
@@ -6077,7 +5788,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0d5af1f9-fa2e-4ce9-a4ce-0c6fade938e9",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6099,35 +5810,35 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Armenia",
-      "Austria",
-      "Azerbaijan",
-      "Bahrain",
-      "Belarus",
-      "Egypt",
-      "Georgia",
-      "India",
-      "Iran",
-      "Iraq",
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Laos",
-      "Lebanon",
-      "Mali",
-      "Netherlands",
-      "Oman",
-      "Pakistan",
-      "Russia",
-      "Saudi Arabia",
-      "Tajikistan",
-      "Thailand",
-      "Tunisia",
-      "Turkey",
-      "Ukraine",
-      "United Arab Emirates (UAE)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Armenia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Bahrain (Victim Country)",
+      "Belarus (Victim Country)",
+      "Egypt (Victim Country)",
+      "Georgia (Victim Country)",
+      "India (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Laos (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Mali (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Oman (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Tunisia (Victim Country)",
+      "Turkey (Victim Country)",
+      "Ukraine (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071.001",
@@ -6211,7 +5922,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8fa62d2-de5c-4c13-8cdf-6428d02bc4d6",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6223,30 +5934,30 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Bangladesh",
-      "Belgium",
-      "China",
-      "Cyprus",
-      "Ethiopia",
-      "Germany",
-      "Greece",
-      "Hong Kong",
-      "India",
-      "Indonesia",
-      "Mongolia",
-      "Myanmar",
-      "Nepal",
-      "Pakistan",
-      "Russia",
-      "Singapore",
-      "South Africa",
-      "South Korea",
-      "South Sudan",
-      "Taiwan",
-      "Vietnam",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Cyprus (Victim Country)",
+      "Ethiopia (Victim Country)",
+      "Germany (Victim Country)",
+      "Greece (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Nepal (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Russia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "South Sudan (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -6297,31 +6008,6 @@
     "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mustang%20Panda.json"
   },
   {
-    "mitre_attack_id": "intrusion-set--025bdaa9-897d-4bad-afa6-013ba5734653",
-    "mitre_attack_name": "NEODYMIUM",
-    "mitre_attack_aliases": [
-      "NEODYMIUM"
-    ],
-    "mitre_attack_created": "2018-01-16",
-    "mitre_attack_last_modified": "2019-03-25",
-    "mitre_url": "https://attack.mitre.org/groups/G0055",
-    "etda_id": "05fb2a9c-1ffb-4a2d-87fc-4103c9c62adf",
-    "etda_name": "Neodymium",
-    "etda_aliases": [
-      "Neodymium"
-    ],
-    "etda_first_seen": "2016",
-    "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=05fb2a9c-1ffb-4a2d-87fc-4103c9c62adf",
-    "country": "Turkey",
-    "motivation": [
-      "Information Theft & Espionage"
-    ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
-    "mitre_attack_ttps": [],
-    "merged_name": "NEODYMIUM, Neodymium"
-  },
-  {
     "mitre_attack_id": "intrusion-set--2a158b0a-7ef8-43cb-9985-bf34d1e12050",
     "mitre_attack_name": "Naikon",
     "mitre_attack_aliases": [
@@ -6341,7 +6027,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c62ba18b-436f-4db5-b25d-053daea89259",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6353,23 +6039,23 @@
       "Law Enforcement"
     ],
     "victim_countries": [
-      "Australia",
-      "Brunei",
-      "Cambodia",
-      "China",
-      "India",
-      "Indonesia",
-      "Laos",
-      "Malaysia",
-      "Myanmar",
-      "Nepal",
-      "Philippines",
-      "Saudi Arabia",
-      "Singapore",
-      "South Korea",
-      "Thailand",
-      "Vietnam",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Brunei (Victim Country)",
+      "Cambodia (Victim Country)",
+      "China (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Laos (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Nepal (Victim Country)",
+      "Philippines (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1518.001",
@@ -6406,7 +6092,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4feaae3b-b420-4bd0-ad22-1eccf413d53b",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6416,11 +6102,11 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Greece",
-      "Kazakhstan",
-      "Netherlands",
-      "Taiwan",
-      "United States of America (USA)"
+      "Greece (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.001",
@@ -6463,7 +6149,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=982ea477-0c28-490e-87d6-3f43da257cae",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6473,8 +6159,8 @@
       "Media"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Kazakhstan"
+      "Afghanistan (Victim Country)",
+      "Kazakhstan (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1564.003",
@@ -6518,7 +6204,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=eeb31f97-edcf-4836-b621-a1865305b91e",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6535,20 +6221,20 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Azerbaijan",
-      "Iraq",
-      "Israel",
-      "Jordan",
-      "Kuwait",
-      "Lebanon",
-      "Mauritius",
-      "Pakistan",
-      "Qatar",
-      "Saudi Arabia",
-      "Turkey",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Azerbaijan (Victim Country)",
+      "Iraq (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Mauritius (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Qatar (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1003.005",
@@ -6629,7 +6315,7 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=571b223a-c3cd-4c5c-a4fb-7fa7f3ce4502",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6641,28 +6327,28 @@
       "Shipping & Logistics"
     ],
     "victim_countries": [
-      "Belgium",
-      "Brazil",
-      "Canada",
-      "Chile",
-      "China",
-      "France",
-      "Germany",
-      "Hong Kong",
-      "Hungary",
-      "India",
-      "Malaysia",
-      "Netherlands",
-      "Norway",
-      "Philippines",
-      "Poland",
-      "Saudi Arabia",
-      "Spain",
-      "Sweden",
-      "Switzerland",
-      "Turkey",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Norway (Victim Country)",
+      "Philippines (Victim Country)",
+      "Poland (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071.001",
@@ -6690,7 +6376,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=69d35f6f-9bd8-4d36-b120-2b563ef06841",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6701,13 +6387,13 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "China",
-      "India",
-      "Indonesia",
-      "Malaysia",
-      "Singapore",
-      "Thailand",
-      "Vietnam"
+      "China (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Singapore (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -6745,33 +6431,35 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=c33e0a3e-f5b9-46e2-9fab-f19869292c11",
-    "country": "Turkey",
+    "country": "Turkey (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Algeria",
-      "Belgium",
-      "Canada",
-      "Colombia",
-      "Cote d'Ivoire",
-      "Egypt",
-      "France",
-      "Germany",
-      "India",
-      "Iraq",
-      "Italy",
-      "Morocco",
-      "Netherlands",
-      "Poland",
-      "Senegal",
-      "South Africa",
-      "Syria",
-      "Tunisia",
-      "Turkey",
-      "Vietnam",
-      "United States of America (USA)"
+      "Algeria (Victim Country)",
+      "Belgium (Victim Country)",
+      "Canada (Victim Country)",
+      "Colombia (Victim Country)",
+      "Cote d'Ivoire (Victim Country)",
+      "Egypt (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Iraq (Victim Country)",
+      "Italy (Victim Country)",
+      "Morocco (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Poland (Victim Country)",
+      "Senegal (Victim Country)",
+      "South Africa (Victim Country)",
+      "Syria (Victim Country)",
+      "Tunisia (Victim Country)",
+      "Turkey (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1547.001",
@@ -6818,7 +6506,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=5ead2470-4d43-44e9-9306-de226d2477e1",
-    "country": "India",
+    "country": "India (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6835,15 +6523,15 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Bangladesh",
-      "China",
-      "Israel",
-      "Japan",
-      "Pakistan",
-      "South Korea",
-      "Sri Lanka",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Bangladesh (Victim Country)",
+      "China (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Pakistan (Victim Country)",
+      "South Korea (Victim Country)",
+      "Sri Lanka (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1033",
@@ -6907,7 +6595,7 @@
     ],
     "etda_first_seen": "2011",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=26627515-afdb-421b-b59e-3a5300210001",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6917,7 +6605,7 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Taiwan"
+      "Taiwan (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1588.002",
@@ -6942,7 +6630,7 @@
     ],
     "etda_first_seen": "2005",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d8a39ee0-3ec7-41dc-9d6e-dcbab0779ca3",
-    "country": "Brazil",
+    "country": "Brazil (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -6956,13 +6644,13 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Brazil",
-      "France",
-      "India",
-      "Kazakhstan",
-      "Russia",
-      "United Arab Emirates (UAE)",
-      "United States of America (USA)"
+      "Brazil (Victim Country)",
+      "France (Victim Country)",
+      "India (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Russia (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1087.002",
@@ -6999,7 +6687,7 @@
     ],
     "etda_first_seen": "2007",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=028aa521-2de8-49c4-88d7-455f4d9141ba",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7010,7 +6698,7 @@
       "Technology"
     ],
     "victim_countries": [
-      "United States of America (USA)"
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1055.001",
@@ -7037,17 +6725,19 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=72d3f856-6883-4840-bf43-a3dd24c61bbc",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Crime"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Czech",
-      "Germany",
-      "Kazakhstan",
-      "Russia",
-      "Ukraine"
+      "Czech (Victim Country)",
+      "Germany (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Russia (Victim Country)",
+      "Ukraine (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1574.001",
@@ -7078,7 +6768,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=020d538c-5250-46d8-9713-e739536cdd7e",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7086,9 +6776,9 @@
       "Government"
     ],
     "victim_countries": [
-      "Cambodia",
-      "Singapore",
-      "Vietnam"
+      "Cambodia (Victim Country)",
+      "Singapore (Victim Country)",
+      "Vietnam (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.002",
@@ -7120,12 +6810,16 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=bacc587d-719b-4555-bc37-db7a9455dc6a",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Financial Gain"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1070.004",
       "T1053.003",
@@ -7198,7 +6892,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7f0a4e84-4c28-4f8c-a70a-3cac308bca90",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Sabotage & Destruction"
     ],
@@ -7209,18 +6903,18 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Azerbaijan",
-      "Belarus",
-      "France",
-      "Georgia",
-      "Iran",
-      "Israel",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Lithuania",
-      "Poland",
-      "Russia",
-      "Ukraine"
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Iran (Victim Country)",
+      "Israel (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Lithuania (Victim Country)",
+      "Poland (Victim Country)",
+      "Russia (Victim Country)",
+      "Ukraine (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1090",
@@ -7314,12 +7008,16 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d130ffbe-6498-4559-9b16-58fb88146c45",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1036.002"
     ],
@@ -7347,7 +7045,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=4e925967-099e-4708-9bca-ade4890d847b",
-    "country": "India",
+    "country": "India (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7356,14 +7054,14 @@
       "Government"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Bangladesh",
-      "China",
-      "Myanmar",
-      "Nepal",
-      "Pakistan",
-      "Qatar",
-      "Sri Lanka"
+      "Afghanistan (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "China (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Nepal (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Qatar (Victim Country)",
+      "Sri Lanka (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1082",
@@ -7421,7 +7119,7 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=743a5e7c-a08f-47e1-861c-8789ea1189f9",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Crime"
     ],
@@ -7432,70 +7130,70 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Antigua and Barbuda",
-      "Armenia",
-      "Australia",
-      "Austria",
-      "Azerbaijan",
-      "Bangladesh",
-      "Belarus",
-      "Belgium",
-      "Belize",
-      "Bulgaria",
-      "Canada",
-      "Chile",
-      "China",
-      "Costa Rica",
-      "Croatia",
-      "Cyprus",
-      "Czech",
-      "Finland",
-      "France",
-      "Georgia",
-      "Germany",
-      "Ghana",
-      "Gibraltar",
-      "Greece",
-      "Hong Kong",
-      "India",
-      "Indonesia",
-      "Ireland",
-      "Israel",
-      "Jamaica",
-      "Jordan",
-      "Kazakhstan",
-      "Kenya",
-      "Kyrgyzstan",
-      "Latvia",
-      "Luxembourg",
-      "Malaysia",
-      "Mexico",
-      "Moldova",
-      "Netherlands",
-      "Norway",
-      "Pakistan",
-      "Panama",
-      "Poland",
-      "Romania",
-      "Russia",
-      "Saudi Arabia",
-      "Serbia",
-      "Seychelles",
-      "Singapore",
-      "South Korea",
-      "Spain",
-      "Sri Lanka",
-      "Sweden",
-      "Switzerland",
-      "Taiwan",
-      "Thailand",
-      "Turkey",
-      "Ukraine",
-      "Uzbekistan",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Antigua and Barbuda (Victim Country)",
+      "Armenia (Victim Country)",
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Bangladesh (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Belize (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "Chile (Victim Country)",
+      "China (Victim Country)",
+      "Costa Rica (Victim Country)",
+      "Croatia (Victim Country)",
+      "Cyprus (Victim Country)",
+      "Czech (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Ghana (Victim Country)",
+      "Gibraltar (Victim Country)",
+      "Greece (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Ireland (Victim Country)",
+      "Israel (Victim Country)",
+      "Jamaica (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kenya (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Latvia (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Moldova (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Norway (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Panama (Victim Country)",
+      "Poland (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Seychelles (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "Spain (Victim Country)",
+      "Sri Lanka (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1113",
@@ -7553,7 +7251,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dfa23dfc-0cb8-4621-bde5-1583e1e7bfa4",
-    "country": "Iran",
+    "country": "Iran (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7561,16 +7259,16 @@
       "Education"
     ],
     "victim_countries": [
-      "Australia",
-      "Canada",
-      "China",
-      "Hong Kong",
-      "Israel",
-      "Japan",
-      "Switzerland",
-      "Turkey",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1598.003",
@@ -7606,7 +7304,7 @@
     ],
     "etda_first_seen": "2015",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=76db0506-25f4-4b80-90aa-032d0a8345fe",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7614,12 +7312,12 @@
       "Government"
     ],
     "victim_countries": [
-      "Argentina",
-      "Brazil",
-      "Brunei",
-      "Ecuador",
-      "Malaysia",
-      "Peru"
+      "Argentina (Victim Country)",
+      "Brazil (Victim Country)",
+      "Brunei (Victim Country)",
+      "Ecuador (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Peru (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1039",
@@ -7653,17 +7351,19 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=6d2ff349-ad5d-4237-9cb3-3d8891c35fbf",
-    "country": "United Arab Emirates (UAE)",
+    "country": "United Arab Emirates (UAE) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Netherlands",
-      "Saudi Arabia",
-      "Thailand",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)"
+      "Netherlands (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Thailand (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1555",
@@ -7704,7 +7404,7 @@
     ],
     "etda_first_seen": "2011",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d7d99de3-c515-4117-b40c-7696babb69c1",
-    "country": "United States of America (USA)",
+    "country": "United States of America (USA) (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7716,12 +7416,12 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Belgium",
-      "China",
-      "Iran",
-      "Russia",
-      "Rwanda",
-      "Sweden"
+      "Belgium (Victim Country)",
+      "China (Victim Country)",
+      "Iran (Victim Country)",
+      "Russia (Victim Country)",
+      "Rwanda (Victim Country)",
+      "Sweden (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1556.002",
@@ -7747,7 +7447,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=155b1a73-17ac-449e-bdcd-54a79119b397",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7760,7 +7460,7 @@
       "Shipping & Logistics"
     ],
     "victim_countries": [
-      "India"
+      "India (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.003",
@@ -7788,7 +7488,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=da14ab64-16ed-4d61-93a7-69cf3f06115d",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -7797,9 +7497,9 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Belarus",
-      "Mongolia",
-      "Russia"
+      "Belarus (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Russia (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.002",
@@ -7838,7 +7538,7 @@
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Gain",
       "Financial Crime"
@@ -7850,7 +7550,9 @@
       "Retail",
       "Financial (Finance)"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1553.002",
       "T1566.002",
@@ -7901,12 +7603,16 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=269da320-1b20-4721-9bd6-17e0a355fe7d",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Financial Gain"
     ],
-    "victim_industries": "None Provided",
-    "victim_countries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1071.001",
       "T1589.002",
@@ -7945,7 +7651,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ea108a02-eb3a-4e08-be7b-bd164fc5c220",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Sabotage & Destruction"
     ],
@@ -7956,8 +7662,8 @@
       "Oil & Gas"
     ],
     "victim_countries": [
-      "Saudi Arabia",
-      "United States of America (USA)"
+      "Saudi Arabia (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1074.001",
@@ -8000,7 +7706,7 @@
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=24403b57-1bb4-4c24-964c-ac2a35e67869",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8008,11 +7714,11 @@
       "Government"
     ],
     "victim_countries": [
-      "Brazil",
-      "Japan",
-      "South Korea",
-      "Taiwan",
-      "United States of America (USA)"
+      "Brazil (Victim Country)",
+      "Japan (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1032"
@@ -8037,7 +7743,7 @@
     ],
     "etda_first_seen": "2017",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=7f575804-406b-4dde-b2ce-563eca80c703",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8046,7 +7752,7 @@
       "Government"
     ],
     "victim_countries": [
-      "Pakistan"
+      "Pakistan (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1204.002",
@@ -8099,7 +7805,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e67091ab-cbea-4d73-984d-e4b29f6c48a9",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8116,26 +7822,26 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Canada",
-      "China",
-      "Germany",
-      "Hong Kong",
-      "India",
-      "Iran",
-      "Israel",
-      "Japan",
-      "Mongolia",
-      "Philippines",
-      "Russia",
-      "Spain",
-      "South Korea",
-      "Taiwan",
-      "Thailand",
-      "Tibet",
-      "Turkey",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Iran (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Philippines (Victim Country)",
+      "Russia (Victim Country)",
+      "Spain (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Tibet (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1119",
@@ -8223,7 +7929,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8237,22 +7943,22 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "ASEAN",
-      "Brunei",
-      "Cambodia",
-      "Hong Kong",
-      "Indonesia",
-      "Japan",
-      "Laos",
-      "Macao",
-      "Malaysia",
-      "Myanmar",
-      "Philippines",
-      "Singapore",
-      "Taiwan",
-      "Thailand",
-      "Vietnam",
-      "United States of America (USA)"
+      "ASEAN (Victim Country)",
+      "Brunei (Victim Country)",
+      "Cambodia (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Japan (Victim Country)",
+      "Laos (Victim Country)",
+      "Macao (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Philippines (Victim Country)",
+      "Singapore (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1048.003",
@@ -8290,7 +7996,7 @@
     ],
     "etda_first_seen": "2009",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=85b77804-7780-4bd9-9332-f250525122a8",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8302,13 +8008,13 @@
       "Information Technology (IT)"
     ],
     "victim_countries": [
-      "India",
-      "Japan",
-      "Mongolia",
-      "Russia",
-      "South Korea",
-      "Taiwan",
-      "United States of America (USA)"
+      "India (Victim Country)",
+      "Japan (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Russia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1090.002",
@@ -8359,7 +8065,7 @@
     ],
     "etda_first_seen": "2013",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=be967aec-2b55-45f2-86e8-7f22cc66db85",
-    "country": "Pakistan",
+    "country": "Pakistan (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8369,37 +8075,37 @@
       "Government"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Australia",
-      "Austria",
-      "Azerbaijan",
-      "Belgium",
-      "Botswana",
-      "Bulgaria",
-      "Canada",
-      "China",
-      "Czech",
-      "Germany",
-      "India",
-      "Iran",
-      "Japan",
-      "Kazakhstan",
-      "Kenya",
-      "Malaysia",
-      "Mongolia",
-      "Nepal",
-      "Netherlands",
-      "Oman",
-      "Pakistan",
-      "Romania",
-      "Saudi Arabia",
-      "Spain",
-      "Sweden",
-      "Thailand",
-      "Turkey",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belgium (Victim Country)",
+      "Botswana (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Czech (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Iran (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kenya (Victim Country)",
+      "Malaysia (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Nepal (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Oman (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Romania (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "Spain (Victim Country)",
+      "Sweden (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1564.001",
@@ -8445,7 +8151,7 @@
     ],
     "etda_first_seen": "2011",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=dcba8f16-98e2-4d31-b7db-f4f1bdbfdb56",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8457,12 +8163,12 @@
       "High Tech (High-Tech)"
     ],
     "victim_countries": [
-      "Hong Kong",
-      "India",
-      "Philippines",
-      "Taiwan",
-      "Tibet",
-      "Vietnam"
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Philippines (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Tibet (Victim Country)",
+      "Vietnam (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1071.004",
@@ -8556,7 +8262,7 @@
     ],
     "etda_first_seen": "1996",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=ebff5365-ae36-4e47-a310-28c1f3be0b3a",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8576,66 +8282,66 @@
       "Pharmaceuticals"
     ],
     "victim_countries": [
-      "Afghanistan",
-      "Algeria",
-      "Armenia",
-      "Australia",
-      "Austria",
-      "Azerbaijan",
-      "Belarus",
-      "Belgium",
-      "Bolivia",
-      "Botswana",
-      "Brazil",
-      "China",
-      "Chile",
-      "Denmark",
-      "Ecuador",
-      "Estonia",
-      "Finland",
-      "France",
-      "Georgia",
-      "Germany",
-      "Hong Kong",
-      "Hungary",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Iraq",
-      "Italy",
-      "Jamaica",
-      "Jordan",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Kuwait",
-      "Latvia",
-      "Mexico",
-      "Netherlands",
-      "Pakistan",
-      "Paraguay",
-      "Poland",
-      "Qatar",
-      "Romania",
-      "Russia",
-      "Serbia",
-      "Spain",
-      "Saudi Arabia",
-      "South Africa",
-      "Sweden",
-      "Switzerland",
-      "Syria",
-      "Tajikistan",
-      "Thailand",
-      "Tunisia",
-      "Turkmenistan",
-      "Ukraine",
-      "Uruguay",
-      "Uzbekistan",
-      "Venezuela",
-      "Vietnam",
-      "Yemen",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Afghanistan (Victim Country)",
+      "Algeria (Victim Country)",
+      "Armenia (Victim Country)",
+      "Australia (Victim Country)",
+      "Austria (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Bolivia (Victim Country)",
+      "Botswana (Victim Country)",
+      "Brazil (Victim Country)",
+      "China (Victim Country)",
+      "Chile (Victim Country)",
+      "Denmark (Victim Country)",
+      "Ecuador (Victim Country)",
+      "Estonia (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Iran (Victim Country)",
+      "Iraq (Victim Country)",
+      "Italy (Victim Country)",
+      "Jamaica (Victim Country)",
+      "Jordan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Kuwait (Victim Country)",
+      "Latvia (Victim Country)",
+      "Mexico (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Pakistan (Victim Country)",
+      "Paraguay (Victim Country)",
+      "Poland (Victim Country)",
+      "Qatar (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Serbia (Victim Country)",
+      "Spain (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "South Africa (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Syria (Victim Country)",
+      "Tajikistan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Tunisia (Victim Country)",
+      "Turkmenistan (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uruguay (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "Venezuela (Victim Country)",
+      "Vietnam (Victim Country)",
+      "Yemen (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1068",
@@ -8746,7 +8452,7 @@
     ],
     "etda_first_seen": "2008",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=93ba9804-335e-4782-855d-40af22b93201",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8763,50 +8469,50 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Azerbaijan",
-      "Belarus",
-      "Belgium",
-      "Brazil",
-      "Bulgaria",
-      "Canada",
-      "Chechnya",
-      "China",
-      "Cyprus",
-      "Czech",
-      "France",
-      "Georgia",
-      "Germany",
-      "Hungary",
-      "India",
-      "Ireland",
-      "Israel",
-      "Japan",
-      "Kazakhstan",
-      "Kyrgyzstan",
-      "Latvia",
-      "Lebanon",
-      "Lithuania",
-      "Luxembourg",
-      "Mexico",
-      "Montenegro",
-      "Netherlands",
-      "New Zealand",
-      "Poland",
-      "Portugal",
-      "Romania",
-      "Russia",
-      "Slovakia",
-      "Slovenia",
-      "Spain",
-      "South Korea",
-      "Turkey",
-      "Uganda",
-      "Ukraine",
-      "Uzbekistan",
-      "NATO",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Azerbaijan (Victim Country)",
+      "Belarus (Victim Country)",
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Bulgaria (Victim Country)",
+      "Canada (Victim Country)",
+      "Chechnya (Victim Country)",
+      "China (Victim Country)",
+      "Cyprus (Victim Country)",
+      "Czech (Victim Country)",
+      "France (Victim Country)",
+      "Georgia (Victim Country)",
+      "Germany (Victim Country)",
+      "Hungary (Victim Country)",
+      "India (Victim Country)",
+      "Ireland (Victim Country)",
+      "Israel (Victim Country)",
+      "Japan (Victim Country)",
+      "Kazakhstan (Victim Country)",
+      "Kyrgyzstan (Victim Country)",
+      "Latvia (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Lithuania (Victim Country)",
+      "Luxembourg (Victim Country)",
+      "Mexico (Victim Country)",
+      "Montenegro (Victim Country)",
+      "Netherlands (Victim Country)",
+      "New Zealand (Victim Country)",
+      "Poland (Victim Country)",
+      "Portugal (Victim Country)",
+      "Romania (Victim Country)",
+      "Russia (Victim Country)",
+      "Slovakia (Victim Country)",
+      "Slovenia (Victim Country)",
+      "Spain (Victim Country)",
+      "South Korea (Victim Country)",
+      "Turkey (Victim Country)",
+      "Uganda (Victim Country)",
+      "Ukraine (Victim Country)",
+      "Uzbekistan (Victim Country)",
+      "NATO (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1484.002",
@@ -8885,7 +8591,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=238acb51-8489-43d7-83b2-9ea4db18ddb6",
-    "country": "Lebanon",
+    "country": "Lebanon (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8894,16 +8600,16 @@
       "Government"
     ],
     "victim_countries": [
-      "Canada",
-      "Egypt",
-      "Israel",
-      "Jordan",
-      "Lebanon",
-      "Russia",
-      "Saudi Arabia",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "Egypt (Victim Country)",
+      "Israel (Victim Country)",
+      "Jordan (Victim Country)",
+      "Lebanon (Victim Country)",
+      "Russia (Victim Country)",
+      "Saudi Arabia (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1105",
@@ -8937,7 +8643,7 @@
     ],
     "etda_first_seen": "2012",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=59308a4a-3c7b-4589-87e5-0c4d0d19274e",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -8952,13 +8658,13 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Canada",
-      "Germany",
-      "India",
-      "Myanmar",
-      "Singapore",
-      "South Korea",
-      "United States of America (USA)"
+      "Canada (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Myanmar (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Korea (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1068",
@@ -8991,14 +8697,16 @@
     ],
     "etda_first_seen": "2018",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=b75fd09b-c1ba-4b08-8adc-61925e605e78",
-    "country": "None Provided",
+    "country": "None Provided (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
     "victim_industries": [
       "Government"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1547.001",
       "T1105",
@@ -9042,7 +8750,7 @@
     ],
     "etda_first_seen": "2010",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=55d0e323-bb26-4779-b09f-cae04740b0bd",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -9059,21 +8767,21 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Belarus",
-      "Brazil",
-      "China",
-      "Germany",
-      "India",
-      "Indonesia",
-      "Japan",
-      "Peru",
-      "Philippines",
-      "Russia",
-      "South Korea",
-      "Taiwan",
-      "Thailand",
-      "Vietnam",
-      "United States of America (USA)"
+      "Belarus (Victim Country)",
+      "Brazil (Victim Country)",
+      "China (Victim Country)",
+      "Germany (Victim Country)",
+      "India (Victim Country)",
+      "Indonesia (Victim Country)",
+      "Japan (Victim Country)",
+      "Peru (Victim Country)",
+      "Philippines (Victim Country)",
+      "Russia (Victim Country)",
+      "South Korea (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1583.001",
@@ -9111,7 +8819,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=480940e0-47b0-4295-9067-c2500ccfdaec",
-    "country": "Russia",
+    "country": "Russia (Base)",
     "motivation": [
       "Financial Gain",
       "Financial Crime"
@@ -9123,7 +8831,9 @@
       "Financial (Finance)",
       "Telecommunications (Telecoms)"
     ],
-    "victim_countries": "None Provided",
+    "victim_countries": [
+      "None Provided (Victim Country)"
+    ],
     "mitre_attack_ttps": [
       "T1053.005",
       "T1033",
@@ -9197,20 +8907,22 @@
     ],
     "etda_first_seen": "2016",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=e3e29e0b-f472-4a46-bbb7-d328b2348fcf",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
-    "victim_industries": "None Provided",
+    "victim_industries": [
+      "None Provided"
+    ],
     "victim_countries": [
-      "Belarus",
-      "Canada",
-      "Finland",
-      "France",
-      "Mongolia",
-      "Norway",
-      "Russia",
-      "United States of America (USA)"
+      "Belarus (Victim Country)",
+      "Canada (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Mongolia (Victim Country)",
+      "Norway (Victim Country)",
+      "Russia (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1059.003",
@@ -9261,7 +8973,7 @@
     ],
     "etda_first_seen": "2014",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=d54adbf5-1684-4824-8416-045b3265eb3d",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -9273,8 +8985,8 @@
       "Financial (Finance)"
     ],
     "victim_countries": [
-      "Hong Kong",
-      "United States of America (USA)"
+      "Hong Kong (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1069.001",
@@ -9337,7 +9049,7 @@
     ],
     "etda_first_seen": "2006",
     "etda_url": "https://apt.etda.or.th/cgi-bin/showcard.cgi?u=2aa9ca75-fa1b-422e-9677-02983934f983",
-    "country": "China",
+    "country": "China (Base)",
     "motivation": [
       "Information Theft & Espionage"
     ],
@@ -9356,35 +9068,35 @@
       "Telecommunications (Telecoms)"
     ],
     "victim_countries": [
-      "Australia",
-      "Belgium",
-      "Brazil",
-      "Canada",
-      "China",
-      "Finland",
-      "France",
-      "Germany",
-      "Hong Kong",
-      "India",
-      "Israel",
-      "Italy",
-      "Japan",
-      "Montenegro",
-      "Netherlands",
-      "Norway",
-      "Philippines",
-      "Singapore",
-      "South Africa",
-      "South Korea",
-      "Sweden",
-      "Switzerland",
-      "Taiwan",
-      "Thailand",
-      "Turkey",
-      "Vietnam",
-      "United Arab Emirates (UAE)",
-      "United Kingdom (UK)",
-      "United States of America (USA)"
+      "Australia (Victim Country)",
+      "Belgium (Victim Country)",
+      "Brazil (Victim Country)",
+      "Canada (Victim Country)",
+      "China (Victim Country)",
+      "Finland (Victim Country)",
+      "France (Victim Country)",
+      "Germany (Victim Country)",
+      "Hong Kong (Victim Country)",
+      "India (Victim Country)",
+      "Israel (Victim Country)",
+      "Italy (Victim Country)",
+      "Japan (Victim Country)",
+      "Montenegro (Victim Country)",
+      "Netherlands (Victim Country)",
+      "Norway (Victim Country)",
+      "Philippines (Victim Country)",
+      "Singapore (Victim Country)",
+      "South Africa (Victim Country)",
+      "South Korea (Victim Country)",
+      "Sweden (Victim Country)",
+      "Switzerland (Victim Country)",
+      "Taiwan (Victim Country)",
+      "Thailand (Victim Country)",
+      "Turkey (Victim Country)",
+      "Vietnam (Victim Country)",
+      "United Arab Emirates (UAE) (Victim Country)",
+      "United Kingdom (UK) (Victim Country)",
+      "United States of America (USA) (Victim Country)"
     ],
     "mitre_attack_ttps": [
       "T1047",
