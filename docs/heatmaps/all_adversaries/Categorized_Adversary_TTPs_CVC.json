@@ -46,7 +46,8 @@
       "T1053.005"
     ],
     "merged_name": "APT-C-36, Blind Eagle",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT-C-36.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT-C-36.json",
+    "etda_description": "(Qihoo 360) Since April 2018, an APT group (Blind Eagle, APT-C-36) suspected coming from South America carried out continuous targeted attacks against Colombian government institutions as well as important corporations in financial sector, petroleum industry, professional manufacturing, etc.\n\nTill this moment, 360 Threat Intelligence Center captured 29 bait documents, 62 Trojan samples and multiple related malicious domains in total. Attackers are targeting Windows platform and aiming at government institutions as well as big companies in Colombia."
   },
   {
     "mitre_attack_id": "intrusion-set--6a2e693f-24e5-451a-9f88-b36a108e5662",
@@ -152,7 +153,8 @@
       "T1049"
     ],
     "merged_name": "APT1, Comment Crew, Comment Group, Comment Panda, TG-8223, APT 1, BrownFox, Group 3, Byzantine Hades, Byzantine Candor, Shanghai Group, GIF89a, Operation “Seasalt”, Operation “Siesta”, Operation “Oceansalt”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT1.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT1.json",
+    "etda_description": "Also known as APT1, Comment Crew is an advanced persistent threat (APT) group with links to the Chinese military. The threat actors, which were active from roughly 2006 to 2010, managed to strike over 140 US companies in the quest for sensitive corporate and intellectual property data.\n\nThe group earned their name through their use of HTML comments to hide communication to the command-and-control servers. The usual attack vector was via spear-phishing campaigns utilizing emails which contained documents with names tailored for the potential victims, such as “ArmyPlansConferenceOnNewGCVSolicitation.pdf,” or “Chinese Oil Executive Learning From Experience.doc.”\n\nThis group may also be responsible for the 'Siesta' campaign."
   },
   {
     "mitre_attack_id": "intrusion-set--c47f937f-1022-4f42-8525-e7a4779a14cb",
@@ -208,7 +210,8 @@
       "T1566.001"
     ],
     "merged_name": "APT12, IXESHE, DynCalc, Numbered Panda, DNSCALC, APT 12, CTG-8223, Bronze Globe, BeeBus, Calc Team, DynCALC, DNSCalc, Group 22, Crimson Iron",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT12.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT12.json",
+    "etda_description": "(CrowdStrike) Numbered Panda has a long list of high-profile victims and is known by a number of names including: DYNCALC, IXESHE, JOY RAT, APT-12, etc.  Numbered Panda has targeted a variety of victims including but not limited to media outlets, high-tech companies, and multiple governments. Numbered Panda has targeted organizations in time-sensitive operations such as the Fukushima Reactor Incident of 2011, likely filling intelligence gaps in the ground cleanup/mitigation operations.  Screen saver files, which are binary executables and PDF documents, are common Numbered Panda weaponization tactics.  One of the most interesting techniques that Numbered Panda likes to use is to dynamically calculate the Command and Control (C2) port by resolving a DNS.  This effectively helps Numbered Panda bypass egress filtering implemented to prevent unauthorized communications on some enterprises.  The malware will typically use two DNS names for communication: one is used for command and control; the other is used with an algorithm to calculate the port to communicate to."
   },
   {
     "mitre_attack_id": "intrusion-set--d6e88e18-81e8-4709-82d8-973095da1e70",
@@ -246,7 +249,8 @@
       "T1584.004"
     ],
     "merged_name": "APT16, APT 16, SVCMONDR",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT16.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT16.json",
+    "etda_description": "(FireEye) Between November 26, 2015, and December 1, 2015, known and suspected China-based APT groups launched several spear-phishing attacks targeting Japanese and Taiwanese organizations in the high-tech, government services, media and financial services industries. Each campaign delivered a malicious Microsoft Word document exploiting the aforementioned EPS dict copy use-after-free vulnerability, and the local Windows privilege escalation vulnerability CVE-2015-1701. The successful exploitation of both vulnerabilities led to the delivery of either a downloader that we refer to as IRONHALO, or a backdoor that we refer to as ELMER."
   },
   {
     "mitre_attack_id": "intrusion-set--090242d7-73fc-4738-af68-20162f7a5aae",
@@ -315,7 +319,8 @@
       "T1583.006"
     ],
     "merged_name": "APT17, Deputy Dog, APT 17, Tailgater Team, Elderwood, Elderwood Gang, Sneaky Panda, SIG22, Beijing Group, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, ATK 2, Operation Aurora, Operation “DeputyDog”, Operation “Ephemeral Hydra”, Operation “RAT Cook”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT17.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT17.json",
+    "etda_description": "(Symantec) In 2009, Google was attacked by a group using the Hydraq (Aurora) Trojan horse. Symantec has monitored this group’s activities for the last three years as they have consistently targeted a number of industries. Interesting highlights in their method of operations include: the use of seemingly an unlimited number of zero-day exploits, attacks on supply chain manufacturers who service the target organization, and a shift to “watering hole” attacks (compromising certain websites likely to be visited by the target organization). The targeted industry sectors include, but are not restricted to; defense, various defense supply chain manufacturers, human rights and non-governmental organizations (NGOs), and IT service providers. These attackers are systematic and re-use components of an infrastructure we have termed the “Elderwood platform”. The name “Elderwood” comes from a source code variable used by the attackers. This attack platform enables them to quickly deploy zero-day exploits. Attacks are deployed through spear phishing emails and also, increasingly, through Web injections in watering hole attacks.\n\nIt is likely the attackers have gained access to the source code for some widely used applications, or have thoroughly reverse-engineered the compiled applications in order to discover these vulnerabilities. The vulnerabilities are used as needed, often within close succession of each other if exposure of any of the vulnerabilities is imminent. The scale of the attacks, in terms of the number of victims and the duration of the attacks, are another indication of the resources available to the attackers. Victims are attacked, not for petty crime or theft, but for the wholesale gathering of intelligence and intellectual property. The resources required to identify and acquire useful information—let alone analyze that information—could only be provided by a large criminal organization, attackers supported by a nation state, or a nation state itself.\n\nThis group appears to be closely associated with 'Hidden Lynx, Aurora Panda' and has infrastructure overlap with 'RedAlpha'.\n\nCould also be related to 'Axiom, Group 72'."
   },
   {
     "mitre_attack_id": "intrusion-set--38fd6a28-3353-4f2b-bb2b-459fecd5c648",
@@ -374,7 +379,8 @@
       "T1071.001"
     ],
     "merged_name": "APT18, TG-0416, Dynamite Panda, Threat Group-0416, APT 18, Wekby, Scandium",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT18.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT18.json",
+    "etda_description": "Wekby was described by Palo Alto Networks in a 2016 report as: ‘Wekby is a group that has been active for a number of years, targeting various industries such as healthcare, telecommunications, aerospace, defense, and high tech. The group is known to leverage recently released exploits very shortly after those exploits are available, such as in the case of 'Hacking Team'’s Flash zero-day exploit.’\n\nThis threat group has been seen since 2009.\n\nAPT 18 may be related to 'Night Dragon' and/or 'Nitro, Covert Grove'."
   },
   {
     "mitre_attack_id": "intrusion-set--fe8796a4-2a02-41a0-9d27-7aa1e995feb6",
@@ -448,7 +454,8 @@
       "T1204.002"
     ],
     "merged_name": "APT19, Codoso, C0d0so0, Codoso Team, Sunshop Group, APT 19, Deep Panda, TG-3551, Bronze Firestone, Pupa, Operation “Kingslayer”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT19.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT19.json",
+    "etda_description": "APT 19 is a Chinese-based threat group that has targeted a variety of industries, including defense, finance, energy, pharmaceutical, telecommunications, high tech, education, manufacturing, and legal services. In 2017, a phishing campaign was used to target seven law and investment firms.\n\nSome analysts track APT19, 'DarkHydrus, LazyMeerkat', 'Turbine Panda, APT 26, Shell Crew, WebMasters, KungFu Kittens' as the same group, but it is unclear from open source information if the groups are the same."
   },
   {
     "mitre_attack_id": "intrusion-set--bef4c620-0787-42a8-a96d-b7eb6e85917c",
@@ -665,7 +672,8 @@
       "T1036"
     ],
     "merged_name": "APT28, IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, APT 28, Strontium, SIG40, Snakemackerel, Iron Twilight, ATK 5, T-APT-12, ITG05, TAG-0700, UAC-0028, Grizzly Steppe, Operation “Pawn Storm”, Operation “Russian Doll”, Operation “Komplex”, Operation “DealersChoice”, Operation “Dear Joohn”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT28.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT28.json",
+    "etda_description": "APT 28 is a threat group that has been attributed to Russia’s Main Intelligence Directorate of the Russian General Staff by a July 2018 U.S. Department of Justice indictment. This group reportedly compromised the Hillary Clinton campaign, the Democratic National Committee, and the Democratic Congressional Campaign Committee in 2016 in an attempt to interfere with the U.S. presidential election. APT 28 has been active since at least January 2007.\n\n(FireEye) APT28 likely seeks to collect intelligence about Georgia’s security and political dynamics by targeting officials working for the Ministry of Internal Affairs and the Ministry of Defense.\n\nAPT28 has demonstrated interest in Eastern European governments and security organizations. These victims would provide the Russian government with an ability to predict policymaker intentions and gauge its ability to influence public opinion.\n\nAPT28 appeared to target individuals affiliated with European security organizations and global multilateral institutions. The Russian government has long cited European security organizations like NATO and the OSCE as existential threats, particularly during periods of increased tension in Europe.\n\nSofacy may be related to 'Hades', but it could be a false flag as well."
   },
   {
     "mitre_attack_id": "intrusion-set--899ce53f-13a0-479b-a0e4-67d46e241542",
@@ -885,7 +893,8 @@
       "T1027.001"
     ],
     "merged_name": "APT29, IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, StellarParticle, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, APT 29, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Cloaked Ursa, Operation “Ghost”, Operation “Office monkeys”, Operation “StellarParticle”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT29.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT29.json",
+    "etda_description": "(F-Secure) The Dukes are a well-resourced, highly dedicated and organized cyberespionage group that we believe has been working for the Russian Federation since at least 2008 to collect intelligence in support of foreign and security policy decision-making.\n\nThe Dukes primarily target Western governments and related organizations, such as government ministries and agencies, political think tanks, and governmental subcontractors. Their targets have also included the governments of members of the Commonwealth of Independent States; Asian, African, and Middle Eastern governments; organizations associated with Chechen extremism; and Russian speakers engaged in the illicit trade of controlled substances and drugs.\n\nThe Dukes are known to employ a vast arsenal of malware toolsets, which we identify as MiniDuke, CosmicDuke, OnionDuke, CozyDuke, CloudDuke, SeaDuke, HammerDuke, PinchDuke, and GeminiDuke. In recent years, the Dukes have engaged in apparently biannual large-scale spear-phishing campaigns against hundreds or even thousands of recipients associated with governmental institutions and affiliated organizations.\n\nThese campaigns utilize a smash-and-grab approach involving a fast but noisy break-in followed by the rapid collection and exfiltration of as much data as possible. If the compromised target is discovered to be of value, the Dukes will quickly switch the toolset used and move to using stealthier tactics focused on persistent compromise and long-term intelligence gathering.\n\nIn addition to these large-scale campaigns, the Dukes continuously and concurrently engage in smaller, much more targeted campaigns, utilizing different toolsets. These targeted campaigns have been going on for at least 7 years. The targets and timing of these campaigns appear to align with the known foreign and security policy interests of the Russian Federation at those times."
   },
   {
     "mitre_attack_id": "intrusion-set--0bbdf25b-30ff-4894-a1cd-49260d0dd2d9",
@@ -992,7 +1001,8 @@
       "T1095"
     ],
     "merged_name": "APT3, Gothic Panda, Pirpi, UPS Team, Buckeye, Threat Group-0110, TG-0110, APT 3, Bronze Mayfair, Group 6, Operation “Clandestine Fox”, Operation “Clandestine Fox”, Part Deux, Operation “Double Tap”, Operation “Clandestine Wolf”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT3.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT3.json",
+    "etda_description": "(Recorded Future) APT3 (also known as UPS, Gothic Panda, and TG-0110) is a sophisticated threat group that has been active since at least 2010. APT3 utilizes a broad range of tools and techniques including spear-phishing attacks, zero-day exploits, and numerous unique and publicly available remote access tools (RAT). Victims of APT3 intrusions include companies in the defense, telecommunications, transportation, and advanced technology sectors — as well as government departments and bureaus in Hong Kong, the U.S., and several other countries."
   },
   {
     "mitre_attack_id": "intrusion-set--f047ee18-7985-4946-8bfb-4ed754d3a0dd",
@@ -1047,7 +1057,8 @@
       "T1566.001"
     ],
     "merged_name": "APT30, APT 30, Override Panda, CTG-5326, Bronze Geneva, Bronze Sterling",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT30.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT30.json",
+    "etda_description": "APT 30 is a threat group suspected to be associated with the Chinese government. While 'Naikon, Lotus Panda' shares some characteristics with APT 30, the two groups do not appear to be exact matches.\n\n(FireEye) When our Singapore-based FireEye labs team examined malware aimed predominantly at entities in Southeast Asia and India, we suspected that we were peering into a regionally focused cyber espionage operation. The malware revealed a decade-long operation focused on targets—government and commercial—who hold key political, economic, and military information about the region. This group, who we call APT30, stands out not only for their sustained activity and regional focus, but also for their continued success despite maintaining relatively consistent tools, tactics, and infrastructure since at least 2005.\n\nBased on our knowledge of APT30’s targeting activity and tools, their objective appears to be data theft as opposed to financial gain. APT30 has not been observed to target victims or data that can be readily monetized (for example, credit card data, personally identifiable information, or bank transfer credentials). Instead, their tools include functionality that allows them to identify and steal documents, including what appears to be an interest in documents that may be stored on air-gapped networks.\n\nThe group expresses a distinct interest in organizations and governments associated with ASEAN, particularly so around the time of official ASEAN meetings.\n\nMany of APT30’s decoy documents use topics related to Southeast Asia, India, border areas, and broader security and diplomatic issues. Decoy documents attached to spear phishing emails are frequently indicators of intended targeting because threat actors generally tailor these emails to entice their intended targets —who typically work on related issues—to click on the attachments and infect themselves.\n\nIn addition to APT30’s Southeast Asia and India focus, we’ve observed APT30 target journalists reporting on issues traditionally considered to be focal points for the Chinese Communist Party’s sense of legitimacy, such as corruption, the economy, and human rights. In China, the Communist Party has the ultimate authority over the government. China-based threat groups have targeted journalists before; we believe they often do so to get a better understanding on developing stories to anticipate unfavorable coverage and better position themselves to shape public messaging."
   },
   {
     "mitre_attack_id": "intrusion-set--247cb30b-955f-42eb-97a5-a89fef69341e",
@@ -1199,7 +1210,8 @@
       "T1608.001"
     ],
     "merged_name": "APT32, SeaLotus, OceanLotus, APT-C-00, APT 32, Ocean Buffalo, Tin Woodlawn, ATK 17, SectorF01, Operation “PhantomLance”, Operation “Cobalt Kitty”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT32.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT32.json",
+    "etda_description": "(FireEye) Since at least 2014, FireEye has observed APT32 targeting foreign corporations with a vested interest in Vietnam’s manufacturing, consumer products, and hospitality sectors. Furthermore, there are indications that APT32 actors are targeting peripheral network security and technology infrastructure corporations.\n\nIn addition to focused targeting of the private sector with ties to Vietnam, APT32 has also targeted foreign governments, as well as Vietnamese dissidents and journalists since at least 2013."
   },
   {
     "mitre_attack_id": "intrusion-set--fbd29c89-18ba-4c2d-b792-51c0adee049f",
@@ -1288,7 +1300,8 @@
       "T1552.006"
     ],
     "merged_name": "APT33, HOLMIUM, Elfin, APT 33, Magnallium, Holmium, ATK 35, Refined Kitten, TA451, Cobalt Trinity",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT33.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT33.json",
+    "etda_description": "(FireEye) When discussing suspected Middle Eastern hacker groups with destructive capabilities, many automatically think of the suspected Iranian group that previously used SHAMOON – aka Disttrack – to target organizations in the Persian Gulf. However, over the past few years, we have been tracking a separate, less widely known suspected Iranian group with potential destructive capabilities, whom we call APT33. Our analysis reveals that APT33 is a capable group that has carried out cyber espionage operations since at least 2013. We assess APT33 works at the behest of the Iranian government.\n\nAPT33 has targeted organizations – spanning multiple industries – headquartered in the United States, Saudi Arabia and South Korea. APT33 has shown particular interest in organizations in the aviation sector involved in both military and commercial capacities, as well as organizations in the energy sector with ties to petrochemical production.\n\nAPT 33 seems to be closely related to 'OilRig, APT 34, Helix Kitten, Chrysene' since at least 2017."
   },
   {
     "mitre_attack_id": "intrusion-set--4a2ce82e-1a74-468a-a6fb-bbead541383c",
@@ -1410,7 +1423,8 @@
       "T1059.003"
     ],
     "merged_name": "APT37, Richochet Chollima, InkySquid, ScarCruft, Reaper, Group123, TEMP.Reaper, APT 37, Ricochet Chollima, Thallium, Group 123, Red Eyes, Geumseong121, Venus 121, Hermit, ATK 4, ITG10, Operation “Erebus”, Operation “Daybreak”, Operation “Golden Time”, Operation “Evil New Year”, Operation “Are You Happy?”, Operation “FreeMilk”, Operation “North Korean Human Right”, Operation “Fractured Block”, Operation “Evil New Year 2018”, Operation “Battle Cruiser”, Operation “Star Cruiser”, Operation “Onezero”, Operation “Rocket Man”, Operation “Korean Sword”, Operation “Holiday Wiper”, Operation “Golden Bird”, Operation “High Expert”, Operation “Black Banner”, Operation “Fractured Statue”, Operation “Dragon messenger”, Operation “Spy Cloud”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT37.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT37.json",
+    "etda_description": "Some research organizations link this group to 'Lazarus Group, Hidden Cobra, Labyrinth Chollima'.\n\n(FireEye) Read our report, APT37 (Reaper): The Overlooked North Korean Actor, to learn more about our assessment that this threat actor is working on behalf of the North Korean government, as well as various other details about their operations:\n• Targeting: Primarily South Korea – though also Japan, Vietnam and the Middle East – in various industry verticals, including chemicals, electronics, manufacturing, aerospace, automotive, and healthcare.\n• Initial Infection Tactics: Social engineering tactics tailored specifically to desired targets, strategic web compromises typical of targeted cyberespionage operations, and the use of torrent file-sharing sites to distribute malware more indiscriminately.\n• Exploited Vulnerabilities: Frequent exploitation of vulnerabilities in Hangul Word Processor (HWP), as well as Adobe Flash. The group has demonstrated access to zero-day vulnerabilities (CVE-2018-0802), and the ability to incorporate them into operations.\n• Command and Control Infrastructure: Compromised servers, messaging platforms, and cloud service providers to avoid detection. The group has shown increasing sophistication by improving their operational security over time.\n• Malware: A diverse suite of malware for initial intrusion and exfiltration. Along with custom malware used for espionage purposes, APT37 also has access to destructive malware."
   },
   {
     "mitre_attack_id": "intrusion-set--00f67a77-86a4-4adf-be26-1a54fc713340",
@@ -1494,7 +1508,8 @@
       "T1218.011"
     ],
     "merged_name": "APT38, NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, APT 38, CTG-6459, Nickel Gladstone, T-APT-15, ATK 117",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT38.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT38.json",
+    "etda_description": "A subgroup of 'Lazarus Group, Hidden Cobra, Labyrinth Chollima'.\n\n(Kaspersky) The Lazarus Group, a nation-state level of attacker tied to the 2014 attacks on Sony Pictures Entertainment, has splintered off a portion of its operation to concentrate on stealing money to fund itself."
   },
   {
     "mitre_attack_id": "intrusion-set--44e43fad-ffcb-4210-abcf-eaaed9735f80",
@@ -1599,7 +1614,8 @@
       "T1041"
     ],
     "merged_name": "APT39, REMIX KITTEN, ITG07, Chafer, APT 39, Remix Kitten, Cobalt Hickman, TA454",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT39.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT39.json",
+    "etda_description": "(FireEye) APT39 was created to bring together previous activities and methods used by this actor, and its activities largely align with a group publicly referred to as “Chafer.” However, there are differences in what has been publicly reported due to the variances in how organizations track activity. APT39 primarily leverages the SEAWEED and CACHEMONEY backdoors along with a specific variant of the POWBAT backdoor. While APT39’s targeting scope is global, its activities are concentrated in the Middle East. APT39 has prioritized the telecommunications sector, with additional targeting of the travel industry and IT firms that support it and the high-tech industry.\n\nAPT39’s focus on the telecommunications and travel industries suggests intent to perform monitoring, tracking, or surveillance operations against specific individuals, collect proprietary or customer data for commercial or operational purposes that serve strategic requirements related to national priorities, or create additional accesses and vectors to facilitate future campaigns. Government entities targeting suggests a potential secondary intent to collect geopolitical data that may benefit nation-state decision making. Targeting data supports the belief that APT39’s key mission is to track or monitor targets of interest, collect personal information, including travel itineraries, and gather customer data from telecommunications firms."
   },
   {
     "mitre_attack_id": "intrusion-set--18854f55-ac7c-4634-bd9a-352dd07613b7",
@@ -1753,7 +1769,8 @@
       "T1033"
     ],
     "merged_name": "APT41, WICKED PANDA, Double Dragon, TG-2633, Bronze Atlas, Red Kelpie, Blackfly, Earth Baku, SparklingGoblin, Grayfly, Operation “ShadowHammer”, Operation “CuckooBees”, Operation “ColunmTK”, APT 41",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT41.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/APT41.json",
+    "etda_description": "(FireEye) FireEye Threat Intelligence assesses with high confidence that APT41 is a prolific cyber threat group that carries out Chinese state-sponsored espionage activity in addition to financially motivated activity potentially outside of state control. Activity traces back to 2012 when individual members of APT41 conducted primarily financially motivated operations focused on the video game industry before expanding into likely state-sponsored activity. This is remarkable because explicit financially motivated targeting is unusual among Chinese state-sponsored threat groups, and evidence suggests these two motivations were balanced concurrently from 2014 onward.\n\n• APT41 overlaps at least partically with public reporting on group including 'Barium' and 'Winnti Group, Blackfly, Wicked Panda'. In some cases the primary observed similarity in the publicly reported Winnti activity was the use of the same malware – including HIGHNOON – across otherwise separate clusters of activity.\n• Previous FireEye Threat Intelligence reporting on the use of HIGHNOON and related activity was grouped together under both 'Ke3chang, Vixen Panda, APT 15, GREF, Playful Dragon' and Mana, although we now understand this to be the work of several Chinese cyber espionage groups that share tools and digital certificates.\n• APT41 reflects our current understanding of what was previously reported as GREF, as well as additional indicators and activity gathered during our extensive review of our intelligence holdings.\n\nAlso see 'Earth Lusca'."
   },
   {
     "mitre_attack_id": "intrusion-set--fa19de15-6169-428d-9cd6-3ca3d56075b7",
@@ -1798,7 +1815,8 @@
       "T1056.001"
     ],
     "merged_name": "Ajax Security Team, Operation Woolen-Goldfish, AjaxTM, Rocket Kitten, Flying Kitten, Operation Saffron Rose, Group 26, Operation “Saffron Rose”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ajax%20Security%20Team.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ajax%20Security%20Team.json",
+    "etda_description": "(FireEye) Members of this group have accounts on popular Iranian hacker forums such as ashiyane[.]org and shabgard[.]org, and they have engaged in website defacements under the group name “AjaxTM” since 2010. By 2014, the Ajax Security Team had transitioned from performing defacements (their last defacement was in December 2013) to malware-based espionage, using a methodology consistent with other advanced persistent threat actors in this region.\n\n(Crowdstrike) CrowdStrike Intelligence has also been tracking and reporting internally on this threat group since mid-January 2014 under the name FLYING KITTEN, and since that time has seen targeting of multiple U.S.-based defense contractors as well as political dissidents."
   },
   {
     "mitre_attack_id": "intrusion-set--39d6890e-7f23-4474-b8ef-e7b0343c5fc8",
@@ -1855,7 +1873,8 @@
       "T1049"
     ],
     "merged_name": "Andariel, Silent Chollima, Stonefly, Plutonium, Operation “BLACKMINE”, Operation “GHOSTRAT”, Operation “XEDA”, Operation “INITROY”/Phase 1, Operation “DESERTWOLF”/Phase 3, Operation “BLACKSHEEP”/Phase 3., Operation “INITROY”/Phase 2, Operation “VANXATM”, Operation “Mayday”, Operation “GoldenAxe”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Andariel.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Andariel.json",
+    "etda_description": "A subgroup of 'Lazarus Group, Hidden Cobra, Labyrinth Chollima'."
   },
   {
     "mitre_attack_id": "intrusion-set--64b52e7d-b2c4-4a02-9372-08a463f5dc11",
@@ -1903,7 +1922,8 @@
       "T1562.001"
     ],
     "merged_name": "AQUATIC PANDA, Aquatic Panda",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Aquatic%20Panda.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Aquatic%20Panda.json",
+    "etda_description": "(CrowdStrike) AQUATIC PANDA is a China-based targeted intrusion adversary with a dual mission of intelligence collection and industrial espionage. It has likely operated since at least May 2020. AQUATIC PANDA operations have primarily focused on entities in the telecommunications, technology and government sectors. AQUATIC PANDA relies heavily on Cobalt Strike, and its toolset includes the unique Cobalt Strike downloader tracked as FishMaster. AQUATIC PANDA has also been observed delivering njRAT payloads to targets."
   },
   {
     "mitre_attack_id": "intrusion-set--a0cb9370-e39b-44d5-9f50-ef78e412b973",
@@ -1960,7 +1980,8 @@
       "T1584.005"
     ],
     "merged_name": "Axiom, Group 72, Operation “SMN”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Axiom.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Axiom.json",
+    "etda_description": "(Talos) Group 72 is a long standing threat actor group involved in Operation SMN, named Axiom by Novetta. The group is sophisticated, well funded, and possesses an established, defined software development methodology. The group targets high profile organizations with high value intellectual property in the manufacturing, industrial, aerospace, defense, media sectors. Geographically, the group almost exclusively targets organizations based in United States, Japan, Taiwan, and Korea. The preferred tactics of the group include watering-hole attacks, spear-phishing, and other web-based tactics.\n\nThe tools and infrastructure used by the attackers are common to a number of other threat actor groups which may indicate some degree of overlap. We have seen similar patterns used in domain registration for malicious domains, and the same tactics used in other threat actor groups leading us to believe that this group may be part of a larger organization that comprises many separate teams, or that different groups share tactics, code and personnel from time to time.\n\nThough both this group and 'Winnti Group, Blackfly, Wicked Panda' use the malware Winnti, the two groups appear to be distinct based on differences in reporting on the groups’ TTPs and targeting.\n\nCould be related to 'APT 17, Deputy Dog, Elderwood, Sneaky Panda' and/or 'APT 20, Violin Panda'."
   },
   {
     "mitre_attack_id": "intrusion-set--93f52415-0fe4-4d3d-896c-fc9b8e88ab90",
@@ -2054,7 +2075,8 @@
       "T1036.002"
     ],
     "merged_name": "BRONZE BUTLER, REDBALDKNIGHT, Tick, Bronze Butler, CTG-2006, TEMP.Tick, RedBaldNight, Stalker Panda, Operation “ENDTRADE”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BRONZE%20BUTLER.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BRONZE%20BUTLER.json",
+    "etda_description": "(SecureWorks) CTU analysis indicates that Bronze Butler primarily targets organizations located in Japan. The threat group has sought unauthorized access to networks of organizations associated with critical infrastructure, heavy industry, manufacturing, and international relations. Secureworks analysts have observed Bronze Bulter exfiltrating the following categories of data:\n\n• Intellectual property related to technology and development\n• Product specification\n• Sensitive business and sales-related information\n• Network and system configuration files\n• Email messages and meeting minutes\n\nThe focus on intellectual property, product details, and corporate information suggests that the group seeks information that they believe might be of value to competing organizations. The diverse targeting suggests that Bronze Bulter may be tasked by multiple teams or organizations with varying priorities."
   },
   {
     "mitre_attack_id": "intrusion-set--9735c036-8ebe-47e9-9c77-b0ae656dab93",
@@ -2116,7 +2138,8 @@
       "T1036.005"
     ],
     "merged_name": "BackdoorDiplomacy",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BackdoorDiplomacy.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BackdoorDiplomacy.json",
+    "etda_description": "(ESET) BackdoorDiplomacy is a group that primarily targets diplomatic organizations in the Middle East and Africa, and less frequently, telecommunication companies. Their initial attack methodology is focused on exploiting vulnerable internet-exposed applications on webservers, in order to drop and execute a webshell. Post compromise, via the webshell, BackdoorDiplomacy deploys open-source software for reconnaissance and information gathering, and favors the use of DLL search order hijacking to install its backdoor, Turian. Finally, BackdoorDiplomacy employs a separate executable to detect removable media, likely USB flash drives, and copy their contents to the main drive’s recycle bin.\n\nBackdoorDiplomacy shares tactics, techniques, and procedures with other Asian groups. Turian likely represents a next stage evolution of Quarian, the backdoor last observed in use in 2013 against diplomatic targets in Syria and the United States. Turian’s network encryption protocol is nearly identical to the network encryption protocol used by Whitebird, a backdoor operated by 'Calypso', another Asian group. Whitebird was deployed within diplomatic organizations in Kazakhstan and Kyrgyzstan during the same timeframe as BackdoorDiplomacy (2017-2020). Additionally, BackdoorDiplomacy and 'Ke3chang, Vixen Panda, APT 15, GREF, Playful Dragon' use the same techniques and tactics to drop their backdoors on systems, namely the aforementioned DLL search order hijacking."
   },
   {
     "mitre_attack_id": "intrusion-set--da49b9f1-ca99-443f-9728-0a074db66850",
@@ -2161,7 +2184,8 @@
       "T1027"
     ],
     "merged_name": "BlackOasis",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackOasis.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackOasis.json",
+    "etda_description": "BlackOasis is a Middle Eastern threat group that is believed to be a customer of Gamma Group. The group has shown interest in prominent figures in the United Nations, as well as opposition bloggers, activists, regional news correspondents, and think tanks. A group known by Microsoft as 'Neodymium' is reportedly associated closely with BlackOasis operations, but evidence that the group names are aliases has not been identified."
   },
   {
     "mitre_attack_id": "intrusion-set--6fe8a2a1-a1b0-4af8-953d-4babd329f8f8",
@@ -2224,7 +2248,8 @@
       "T1106"
     ],
     "merged_name": "BlackTech, Palmerworm, Circuit Panda, Radio Panda, TEMP.Overboard, T-APT-03, Operation “Shrouded Crossbow”, Operation “PLEAD”, Operation “Waterbear”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackTech.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/BlackTech.json",
+    "etda_description": "(Trend Micro) BlackTech is a cyber espionage group operating against targets in East Asia, particularly Taiwan, and occasionally, Japan and Hong Kong. Based on the mutexes and domain names of some of their C&C servers, BlackTech’s campaigns are likely designed to steal their target’s technology.\n\nFollowing their activities and evolving tactics and techniques helped us uncover the proverbial red string of fate that connected three seemingly disparate campaigns: PLEAD, Shrouded Crossbow, and of late, Waterbear."
   },
   {
     "mitre_attack_id": "intrusion-set--55033a4d-3ffe-46b2-99b4-2c1541e9ce1c",
@@ -2299,7 +2324,8 @@
       "T1588.002"
     ],
     "merged_name": "Carbanak, Anunak, Carbon Spider, Gold Waterfall",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Carbanak.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Carbanak.json",
+    "etda_description": "Carbanak is a threat group that mainly targets banks. It also refers to malware of the same name (Carbanak). It is sometimes referred to as 'FIN7', but these appear to be two groups using the same Carbanak malware and are therefore tracked separately.\n\n(Kaspersky) From late 2013 onwards, several banks and financial institutions have been attacked by an unknown group of cybercriminals. In all these attacks, a similar modus operandi was used. According to victims and the law enforcement agencies (LEAs) involved in the investigation, this could result in cumulative losses of up to 1 billion USD. The attacks are still active. This report provides a technical analysis of these attacks. The motivation for the attackers, who are making use of techniques commonly seen in Advanced Persistent Threats (APTs), appears to be financial gain as opposed to espionage. An analysis of the campaign has revealed that the initial infections were achieved using spear phishing emails that appeared to be legitimate banking communications, with Microsoft Word 97 – 2003 (.doc) and Control Panel Applet (.CPL) files attached. We believe that the attackers also redirected to exploit kits website traffic that related to financial activity."
   },
   {
     "mitre_attack_id": "intrusion-set--8c1f0187-0826-4320-bddc-5f326cfcfe2c",
@@ -2391,7 +2417,8 @@
       "T1027"
     ],
     "merged_name": "Chimera, Operation “Skeleton Key”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Chimera.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Chimera.json",
+    "etda_description": "(CyCraft) For nearly two years, our team monitored several attacks that targeted Taiwan’s semiconductor vendors. We believe these attacks originated from the same threat actor – Chimera – as  these attacks utilized similar tactics, techniques and even the same customized malware. The actor likely harvested various valid credentials via phishing emails or data breaches as their starting point to conduct their cyber attack on the vendors. Cobalt Strike was later used as their main RAT tool. To avoid detection, the Cobalt Strike RAT was often masqueraded as a Google Chrome Update. The RAT would then connect back to their C2 server. As these servers were in a public cloud server, it made it difficult to track. Subsequently, by compromising the AD server, the delicate malware – SkeletonKeyInjector – was invoked to implant a general key to allow LM, persistence and defense evasion. Although this malware was discovered for the first time, we have high confidence that these attacks were conducted by the same threat actor. Based on the stolen data, we infer that the actor’s goal was to harvest company trade secrets. The motive may be related to business competition or a country’s industrial strategy."
   },
   {
     "mitre_attack_id": "intrusion-set--8f5e8dc7-739d-4f5e-a8a1-a66e004d7063",
@@ -2460,7 +2487,8 @@
       "T1557.002"
     ],
     "merged_name": "Cleaver, Threat Group 2889, TG-2889, Cutting Kitten, Operation “Cleaver”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cleaver.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cleaver.json",
+    "etda_description": "Cleaver is a threat group that has been attributed to Iranian actors and is responsible for activity tracked as Operation Cleaver. Strong circumstantial evidence suggests Cleaver is linked to Threat Group 2889 (TG-2889).\n\nThis group evolved into 'Magic Hound, APT 35, Cobalt Gypsy, Charming Kitten'."
   },
   {
     "mitre_attack_id": "intrusion-set--dc6fe6ee-04c2-49be-ba3d-f38d2463c02a",
@@ -2566,7 +2594,8 @@
       "T1105"
     ],
     "merged_name": "Cobalt Group, GOLD KINGSWOOD, Cobalt Gang, Cobalt Spider, Gold Kingswood, ATK 67, TAG-CR3",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cobalt%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Cobalt%20Group.json",
+    "etda_description": "Cobalt Group is a financially motivated threat group that has primarily targeted financial institutions. The group has conducted intrusions to steal money via targeting ATM systems, card processing, payment systems and SWIFT systems. Cobalt Group has mainly targeted banks in Eastern Europe, Central Asia, and Southeast Asia. The group has been known to target organizations in order to use their access to then compromise additional victims. Reporting indicates there may be links between Cobalt Group and both the malware Carbanak and the group 'Carbanak, Anunak'."
   },
   {
     "mitre_attack_id": "intrusion-set--dcd81c6e-ebf7-4a16-93e0-9a97fa49c88a",
@@ -2615,7 +2644,8 @@
       "T1560.003"
     ],
     "merged_name": "CopyKittens, Slayer Kitten, Operation “Wilted Tulip”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CopyKittens.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CopyKittens.json",
+    "etda_description": "CopyKittens is an Iranian cyberespionage group that has been operating since at least 2013. It has targeted countries including Israel, Saudi Arabia, Turkey, the U.S., Jordan, and Germany. The group is responsible for the campaign known as Operation Wilted Tulip."
   },
   {
     "mitre_attack_id": "intrusion-set--bb82e0b0-6e9c-439f-970a-4c917a74c5f2",
@@ -2663,7 +2693,8 @@
       "T1090.003"
     ],
     "merged_name": "CostaRicto",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CostaRicto.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/CostaRicto.json",
+    "etda_description": "(BlackBerry) During the past six months, the BlackBerry Research and Intelligence team have been monitoring a cyber-espionage campaign that is targeting disparate victims around the globe. The campaign, dubbed CostaRicto by BlackBerry, appears to be operated by “hackers-for-hire”, a group of APT mercenaries who possess bespoke malware tooling and complex VPN proxy and SSH tunnelling capabilities.\nMercenary groups offering APT-style attacks are becoming more and more popular. Their tactics, techniques, and procedures (TTPs) often resemble highly sophisticated state-sponsored campaigns, but the profiles and geography of their victims are far too diverse to be aligned with a single bad actor’s interests.\nAlthough in theory the customers of a mercenary APT might include anyone who can afford it, the more sophisticated actors will naturally choose to work with patrons of the highest profile – be it large organizations, influential individuals, or even governments. Having a lot at stake, the cybercriminals must choose very carefully when selecting their commissions to avoid the risk of being exposed."
   },
   {
     "mitre_attack_id": "intrusion-set--8a831aaa-f3e0-47a3-bed8-a9ced744dd12",
@@ -2736,7 +2767,8 @@
       "T1113"
     ],
     "merged_name": "Dark Caracal, ATK 27, TAG-CT3, Operation “Dark Caracal”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dark%20Caracal.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dark%20Caracal.json",
+    "etda_description": "(Lookout) Lookout and Electronic Frontier Foundation (EFF) have discovered Dark Caracal, a persistent and prolific actor, who at the time of writing is believed to be administered out of a building belonging to the Lebanese General Security Directorate in Beirut. At present, we have knowledge of hundreds of gigabytes of exfiltrated data, in 21+ countries, across thousands of victims. Stolen data includes enterprise intellectual property and personally identifiable information. We are releasing more than 90 indicators of compromise (IOC) associated with Dark Caracal including 11 different Android malware IOCs; 26 desktop malware IOCs across Windows, Mac, and Linux; and 60 domain/IP based IOCs.\n\nDark Caracal targets include individuals and entities that a nation state might typically attack, including governments, military targets, utilities, financial institutions, manufacturing companies, and defense contractors. We specifically uncovered data associated with military personnel, enterprises, medical professionals, activists, journalists, lawyers, and educational institutions during this investigation. Types of data include documents, call records, audio recordings, secure messaging client content, contact information, text messages, photos, and account data."
   },
   {
     "mitre_attack_id": "intrusion-set--6b9ebeb5-20bf-48b0-afb7-988d769a2f01",
@@ -2777,7 +2809,8 @@
       "T1221"
     ],
     "merged_name": "DarkHydrus, LazyMeerkat, ATK 77",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/DarkHydrus.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/DarkHydrus.json",
+    "etda_description": "DarkHydrus is a threat group that has targeted government agencies and educational institutions in the Middle East since at least 2016. The group heavily leverages open-source tools and custom payloads for carrying out attacks.\n\nSome analysts track Dark Hydrus, 'APT 19, Deep Panda, C0d0so0' and 'Turbine Panda, APT 26, Shell Crew, WebMasters, KungFu Kittens' as the same group, but it is unclear from open source information if the groups are the same."
   },
   {
     "mitre_attack_id": "intrusion-set--9e729a7e-0dd6-4097-95bf-db8d64911383",
@@ -2895,7 +2928,8 @@
       "T1547.009"
     ],
     "merged_name": "Darkhotel, DUBNIUM, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, Higaisa, T-APT-02, Luder, Operation “DarkHotel”, Operation “Daybreak”, Operation “Inexsmar”, Operation “The Gh0st Remains the Same”, Operation “PowerFall”, DarkHotel",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Darkhotel.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Darkhotel.json",
+    "etda_description": "(SecurityWeek) The activities of the DarkHotel advanced persistent threat (APT) actor came to light in November 2014, when Kaspersky published a report detailing a sophisticated cyberespionage campaign targeting business travelers in the Asia-Pacific region. The group has been around for nearly a decade and some researchers believe its members are Korean speakers.\n\nThe attackers targeted their victims using several methods, including through their hotel’s Wi-Fi, zero-day exploits and peer-to-peer (P2P) file sharing websites. Nearly one year later, the threat group was observed using new attack techniques and an exploit leaked from Italian spyware maker 'Hacking Team'.\n\nDarkHotel victims have been spotted in several countries, including North Korea, Russia, South Korea, Japan, Bangladesh, Thailand, Taiwan, China, the United States, India, Mozambique, Indonesia and Germany. Up until recently, the attacks appeared to focus on company executives, researchers and development personnel from sectors such as defense industrial base, military, energy, government, NGOs, electronics manufacturing, pharmaceutical, and medical.\n\nIn more recent DarkHotel attacks it has dubbed “Inexsmar,” security firm Bitdefender said the hackers targeted political figures, and they appeared to be using some new methods."
   },
   {
     "mitre_attack_id": "intrusion-set--a653431d-6a5e-4600-8ad3-609b5af57064",
@@ -2959,7 +2993,8 @@
       "T1057"
     ],
     "merged_name": "Deep Panda, Shell Crew, WebMasters, KungFu Kittens, PinkPanther, Black Vine, APT 19, Codoso, Sunshop Group, TG-3551, Bronze Firestone, Pupa, Operation “Kingslayer”, C0d0so0",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Deep%20Panda.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Deep%20Panda.json",
+    "etda_description": "APT 19 is a Chinese-based threat group that has targeted a variety of industries, including defense, finance, energy, pharmaceutical, telecommunications, high tech, education, manufacturing, and legal services. In 2017, a phishing campaign was used to target seven law and investment firms.\n\nSome analysts track APT19, 'DarkHydrus, LazyMeerkat', 'Turbine Panda, APT 26, Shell Crew, WebMasters, KungFu Kittens' as the same group, but it is unclear from open source information if the groups are the same."
   },
   {
     "mitre_attack_id": "intrusion-set--1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1",
@@ -3087,7 +3122,8 @@
       "T1203"
     ],
     "merged_name": "Dragonfly, TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Group 24, Koala Team, Iron Liberty, Electrum, ATK 6, ITG15, Bromine",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dragonfly.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dragonfly.json",
+    "etda_description": "Dragonfly is a cyberespionage group that has been active since at least 2011. They initially targeted defense and aviation companies but shifted to focus on the energy sector in early 2013. They have also targeted companies related to industrial control systems.\n\nAccording to Kaspersky, Crouching Yeti has been operating since at least 2010 and has infected roughly 2,800 targets in 38 countries, and in industries as diverse as education and pharmaceuticals.\n\nA similar group emerged in 2015 and was identified by Symantec as 'Berserk Bear, Dragonfly 2.0'. There is debate over the extent of the overlap between Dragonfly and Dragonfly 2.0, but there is sufficient evidence to lead to these being tracked as two separate groups."
   },
   {
     "mitre_attack_id": "intrusion-set--ae41895a-243f-4a65-b99b-d85022326c31",
@@ -3124,7 +3160,8 @@
       "T1083"
     ],
     "merged_name": "Dust Storm",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dust%20Storm.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Dust%20Storm.json",
+    "etda_description": "(Cylance) Very little public information was available throughout 2010 on this threat, despite the group’s primary backdoor gaining some level of prominence in targeted Asian attacks. This may be explained by the group’s early reliance on Dynamic DNS domains for their command and control (C2) infrastructure, as well as their use of public RATs like Poison Ivy and Gh0st RAT for second-stage implants.\n\nIt wasn’t until June 2011 that Operation Dust Storm started to garner some notoriety from a series of attacks which leveraged an unpatched Internet Explorer 8 vulnerability, CVE-2011-1255, to gain a foothold into victim networks. In these attacks, a link to the exploit was sent via a spear phishing email from a purported Chinese student seeking advice or asking the target a question following a presentation.\n\nAs to other documented cases, the attacker started interacting with the infected machine within minutes of compromise to begin manual network and host enumeration.\n\nIn October 2011, the group attempted to take advantage of the ongoing Libyan crisis at the time and phish the news cycle regarding Muammar Gaddafi’s death on October 20, 2011. It appears that in addition to some US defense targets, this campaign was also directed at a Uyghur mailing list. This time, the group used a specially crafted malicious Windows Help (.hlp) file, which exploited CVE-2010-1885."
   },
   {
     "mitre_attack_id": "intrusion-set--03506554-5f37-4f8f-9ce4-0e9f01a1b484",
@@ -3202,7 +3239,8 @@
       "T1189"
     ],
     "merged_name": "Elderwood, Elderwood Gang, Beijing Group, Sneaky Panda, APT 17, Tailgater Team, SIG22, Bronze Keystone, TG-8153, TEMP.Avengers, Dogfish, Deputy Dog, ATK 2, Operation Aurora, Operation “DeputyDog”, Operation “Ephemeral Hydra”, Operation “RAT Cook”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Elderwood.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Elderwood.json",
+    "etda_description": "(Symantec) In 2009, Google was attacked by a group using the Hydraq (Aurora) Trojan horse. Symantec has monitored this group’s activities for the last three years as they have consistently targeted a number of industries. Interesting highlights in their method of operations include: the use of seemingly an unlimited number of zero-day exploits, attacks on supply chain manufacturers who service the target organization, and a shift to “watering hole” attacks (compromising certain websites likely to be visited by the target organization). The targeted industry sectors include, but are not restricted to; defense, various defense supply chain manufacturers, human rights and non-governmental organizations (NGOs), and IT service providers. These attackers are systematic and re-use components of an infrastructure we have termed the “Elderwood platform”. The name “Elderwood” comes from a source code variable used by the attackers. This attack platform enables them to quickly deploy zero-day exploits. Attacks are deployed through spear phishing emails and also, increasingly, through Web injections in watering hole attacks.\n\nIt is likely the attackers have gained access to the source code for some widely used applications, or have thoroughly reverse-engineered the compiled applications in order to discover these vulnerabilities. The vulnerabilities are used as needed, often within close succession of each other if exposure of any of the vulnerabilities is imminent. The scale of the attacks, in terms of the number of victims and the duration of the attacks, are another indication of the resources available to the attackers. Victims are attacked, not for petty crime or theft, but for the wholesale gathering of intelligence and intellectual property. The resources required to identify and acquire useful information—let alone analyze that information—could only be provided by a large criminal organization, attackers supported by a nation state, or a nation state itself.\n\nThis group appears to be closely associated with 'Hidden Lynx, Aurora Panda' and has infrastructure overlap with 'RedAlpha'.\n\nCould also be related to 'Axiom, Group 72'."
   },
   {
     "mitre_attack_id": "intrusion-set--1f0f9a14-11aa-49aa-9174-bcd0eaa979de",
@@ -3256,7 +3294,8 @@
       "T1059.007"
     ],
     "merged_name": "Evilnum, Jointworm, Operation “Phantom in the Command Shell”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Evilnum.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Evilnum.json",
+    "etda_description": "(Palo Alto) We witnessed attacks targeting the financial technology (FinTech) sector, primarily focused on organizations based in Israel. While researching these attacks, we discovered a possible relationship between Cardinal RAT and another malware family named EVILNUM. EVILNUM is a JavaScript-based malware family that is used in attacks against similar organizations."
   },
   {
     "mitre_attack_id": "intrusion-set--fbe9387f-34e6-4828-ac28-3080020c597b",
@@ -3300,7 +3339,8 @@
       "T1570"
     ],
     "merged_name": "FIN10",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN10.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN10.json",
+    "etda_description": "(FireEye) FireEye has observed multiple targeted intrusions occurring in North America — predominately in Canada — dating back to at least 2013 and continuing through at least 2016, in which the attacker(s) have compromised organizations’ networks and sought to monetize this illicit access by exfiltrating sensitive data and extorting victim organizations. In some cases, when the extortion demand was not met, the attacker(s) destroyed production Windows systems by deleting critical operating system files and then shutting down the impacted systems. Based on near parallel TTPs used by the attacker(s) across these targeted intrusions, we believe these clusters of activity are linked to a single, previously unobserved actor or group that we have dubbed FIN10."
   },
   {
     "mitre_attack_id": "intrusion-set--d0b3393b-3bec-4ba3-bda9-199d30db47b6",
@@ -3346,7 +3386,8 @@
       "T1566.001"
     ],
     "merged_name": "FIN4, Wolf Spider",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN4.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN4.json",
+    "etda_description": "(FireEye) FireEye tracks a threat group that we call “FIN4,” whose intrusions seem to have a different objective: to obtain an edge in stock trading. FIN4 appears to conduct intrusions that are focused on a single objective: obtaining access to insider information capable of making or breaking the stock prices of public companies. The group specifically targets the emails of C-level executives, legal counsel, regulatory, risk, and compliance personnel, and other individuals who would regularly discuss confidential, market-moving information.\n\nFIN4 has targeted over 100 companies since at least mid-2013. All of the targeted organizations are either public companies or advisory firms that provide services to public companies (such as investor relations, legal, and investment banking firms). Over two-thirds of the targeted organizations are healthcare and pharmaceutical companies. FIN4 probably focuses on these types of organizations because their stocks can move dramatically in response to news of clinical trial results, regulatory decisions, or safety and legal issues."
   },
   {
     "mitre_attack_id": "intrusion-set--85403903-15e0-4f9f-9be4-a259ecad4022",
@@ -3389,7 +3430,8 @@
       "T1018"
     ],
     "merged_name": "FIN5",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN5.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN5.json",
+    "etda_description": "FIN5 is a financially motivated threat group that has targeted personally identifiable information and payment card information. The group has been active since at least 2008 and has targeted the restaurant, gaming, and hotel industries. The group is made up of actors who likely speak Russian.\n\n(DarkReading) No 0days. No spear-phishing, either: The cybercriminal group tied to numerous payment card breaches including Goodwill and best known by its so-called “RawPOS” malware employed legitimate user credentials to access its targets’ networks.\n\nResearchers at FireEye here today shared their recent findings on this prolific and long-running cybercrime gang that has been the subject of multiple Visa security alerts to merchants. The RawPOS memory scraper malware has been infecting the lodging industry in epidemic proportions over the past year, and is considered one of the first memory scrapers to target point-of-sale systems.\n\nFireEye has dubbed the cybercrime gang FIN5. “One of the most unique things about FIN5 is that in every intrusion we responded to where FIN5 has been active, legitimate access was identified. They had valid user credentials to remotely log into the network,” said Barry Vengerik, principal threat analyst at FireEye. “No sexy zero-days, no remote exploits – not even spear-phishing. They had credentials from somewhere.”\n\nFIN5, which earlier this year was profiled by researchers at Trend Micro and has been in action since at least 2008, uses real credentials from the victim organization’s virtual private network, Remote Desktop Protocol, Citrix, or VNC. Vengerik says the attackers got those credentials via third parties associated with the victims’ POS systems."
   },
   {
     "mitre_attack_id": "intrusion-set--2a7914cf-dff3-428d-ab0f-1014d1c28aeb",
@@ -3474,7 +3516,8 @@
       "T1003.001"
     ],
     "merged_name": "FIN6, Magecart Group 6, SKELETON SPIDER, ITG08, Skeleton Spider, Gold Franklin, White Giant, ATK 88, TAG-CR2",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN6.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN6.json",
+    "etda_description": "FIN6 is a cybercrime group that has stolen payment card data and sold it for profit on underground marketplaces. This group has aggressively targeted and compromised point of sale (PoS) systems in the hospitality and retail sectors.\n\n(FireEye) FIN6 is a cybercriminal group intent on stealing payment card data for monetization. In 2015, FireEye Threat Intelligence supported several Mandiant Consulting investigations in the hospitality and retail sectors where FIN6 actors had aggressively targeted and compromised point-of-sale (POS) systems, making off with millions of payment card numbers. Through iSIGHT, we learned that the payment card numbers stolen by FIN6 were sold on a “card shop” — an underground criminal marketplace used to sell or exchange payment card data."
   },
   {
     "mitre_attack_id": "intrusion-set--3753cc21-2dae-4dfb-8481-d004e74502cc",
@@ -3570,7 +3613,8 @@
       "T1105"
     ],
     "merged_name": "FIN7, GOLD NIAGARA, ITG14, Carbon Spider, Gold Niagara, Calcium, Navigator, ATK 32, APT-C-11, TAG-CR1",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN7.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN7.json",
+    "etda_description": "FIN7 is a financially-motivated threat group that has primarily targeted the U.S. retail, restaurant, and hospitality sectors since mid-2015. They often use point-of-sale malware. A portion of FIN7 was run out of a front company called Combi Security. FIN7 is sometimes referred to as 'Carbanak, Anunak', but these appear to be two groups using the same Carbanak malware and are therefore tracked separately.\n\nThe reports about arrests made of the mastermind of Carbanak instead of FIN7. However, security research teams keep referring to this arrest for all FIN7 activities since."
   },
   {
     "mitre_attack_id": "intrusion-set--fd19bd82-1b14-49a1-a176-6cdc46b8a826",
@@ -3642,7 +3686,8 @@
       "T1048.003"
     ],
     "merged_name": "FIN8, ATK 113",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN8.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/FIN8.json",
+    "etda_description": "(FireEye) We attribute the use of this EoP to a financially motivated threat actor. In the past year, not only have we observed this group using similar infrastructure and tactics, techniques, and procedures (TTPs), but they are also the only group we have observed to date who uses the downloader PUNCHBUGGY and POS malware PUNCHTRACK. Designed to scrape both Track 1 and Track 2 payment card data, PUNCHTRACK is loaded and executed by a highly obfuscated launcher and is never saved to disk.\n\nThis actor has conducted operations on a large scale and at a rapid pace, displaying a level of operational awareness and ability to adapt their operations on the fly. These abilities, combined with targeted usage of an EoP exploit and the reconnaissance required to individually tailor phishing emails to victims, potentially speaks to the threat actors’ operational maturity and sophistication.\n\nFireEye identified more than 100 organizations in North America that fell victim to this campaign."
   },
   {
     "mitre_attack_id": "intrusion-set--6566aac9-dad8-4332-ae73-20c23bad7f02",
@@ -3679,7 +3724,8 @@
       "T1588.002"
     ],
     "merged_name": "Ferocious Kitten",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ferocious%20Kitten.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ferocious%20Kitten.json",
+    "etda_description": "(Kaspersky) Ferocious Kitten is an APT group that has been active against Persian-speaking individuals since 2015 and appears to be based in Iran. Although it has been active over a large timespan, the group has mostly operated under the radar and, to the best of our knowledge, has not been covered by security researchers. It only recently attracted attention when a lure document was uploaded to VirusTotal and was brought to public knowledge by researchers on Twitter. Subsequently, one of its implants was analyzed by a Chinese intelligence firm. We have been able to expand some of the findings on the group and provide insights on additional variants. The malware dropped from the aforementioned document is dubbed MarkiRAT and is used to record keystrokes and clipboard content, provide file download and upload capabilities as well as the ability to execute arbitrary commands on the victim’s machine. We were able to trace the implant back to at least 2015, along with variants intended to hijack the execution of the Telegram and Chrome applications as a persistence method. Interestingly, some of the TTPs used by this threat actor are reminiscent of other groups operating in the domain of dissident surveillance. For example, it used the same C2 domains across its implants for years, which was witnessed in the activity of 'Domestic Kitten'. In the same vein, the Telegram execution hijacking technique observed in this campaign by Ferocious Kitten was also observed being used by 'Rampant Kitten', as covered by Check Point. In our private report, we expand the details on these findings as well as provide analysis and mechanics of the MarkiRAT malware."
   },
   {
     "mitre_attack_id": "intrusion-set--c21dd6f1-1364-4a70-a1f7-783080ec34ee",
@@ -3785,7 +3831,8 @@
       "T1136.001"
     ],
     "merged_name": "Fox Kitten, UNC757, PIONEER KITTEN, Parisite, Pioneer Kitten, Cobalt Foxglove, Rubidium",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Fox%20Kitten.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Fox%20Kitten.json",
+    "etda_description": "“This group has operated since at least 2017 based on infrastructure Dragos identified,” the report explained. “Parisite serves as the initial access group and enables further operations for 'APT 33, Elfin, Magnallium'.”\n\n(ClearSky) During the last quarter of 2019, ClearSky research team has uncovered a widespread Iranian offensive campaign which we call “Fox Kitten Campaign”; this campaign is being conducted in the last three years against dozens of companies and organizations in Israel and around the world. Though the campaign, the attackers succeeded in gaining access and persistent foothold in the networks of numerous companies and organizations from the IT,Telecommunication,Oil and Gas, Aviation, Government, and Security sectors around the world.\n\nDuring our analysis, we have found an overlap, with medium-high probability, between this campaign’s infrastructure and the activity of an Iranian offensive group 'OilRig, APT 34, Helix Kitten, Chrysene'. Additionally, we have identified, with medium probability, a connection between this campaign and the 'APT 33, Elfin, Magnallium' and 'Chafer, APT 39' groups.The campaign was first revealed by Dragos, named “Parisite”and attributed to APT33; we call the comprehensive campaign revealed in this report “Fox Kitten”.\n\nThe initial breach of the targeted organizations was performed, in most cases, by exploiting 1-day vulnerabilities in different VPN services such as: Pulse Secure VPN, Fortinet VPN, and Global Protect by Palo Alto Networks. Upon gaining foothold at the target, the attackers tried to maintain the access to the networks by opening a variety of communication tools, including opening RDP links over SSH tunneling, in order to camouflage and encrypt the communication with the targets. At the final stage, after successfully infiltrating the organization, the attackers have performed a routine process of identification, examination, and filtering of sensitive, valuable information from every targeted organization.The valuable information was sent back to the attackers for reconnaissance, espionage, or further infection of connected networks."
   },
   {
     "mitre_attack_id": "intrusion-set--06a11b7e-2a36-47fe-8d3e-82c265df3258",
@@ -3850,7 +3897,8 @@
       "T1047"
     ],
     "merged_name": "GALLIUM, Operation Soft Cell, Gallium",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GALLIUM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GALLIUM.json",
+    "etda_description": "(Microsoft) To compromise targeted networks, GALLIUM target unpatched internet-facing services using publicly available exploits and have been known to target vulnerabilities in WildFly/JBoss. Once persistence is established in a network, GALLIUM uses common techniques and tools like Mimikatz to obtain credentials that allows for lateral movement across the target network. Within compromised networks, GALLIUM makes no attempt to obfuscate their intent and are known to use common versions of malware and publicly available toolkits with small modifications. The operators rely on low cost and easy to replace infrastructure that consists of dynamic-DNS domains and regularly reused hop points.\n\nThis activity from GALLIUM has been identified predominantly through 2018 to mid-2019. GALLIUM is still active; however, activity levels have dropped when compared to what was previously observed."
   },
   {
     "mitre_attack_id": "intrusion-set--0ea72cd5-ca30-46ba-bc04-378f701c658f",
@@ -3883,7 +3931,8 @@
       "T1021.004"
     ],
     "merged_name": "GCMAN",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GCMAN.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GCMAN.json",
+    "etda_description": "(Kaspersky) A second group, which we call GCMAN because the malware is based on code compiled on the GCC compiler, emerged recently using similar techniques to the 'Corkow, Metel' Group to infect banking institutions and attempt to transfer money to e-currency services.\n\nThe initial infection mechanism is handled by spear-phishing financial institution targets with e-mails carrying a malicious RAR archive to. Upon opening the RAR archive, an executable is started instead of a Microsoft Word document, resulting in infection.\n\nOnce inside the network, the GCMAN group uses legitimate and penetration testing tools such as Putty, VNC, and Meterpreter for lateral movement. Our investigation revealed an attack where the group then planted a cron script into bank’s server, sending financial transactions at the rate of $200 per minute. A time-based scheduler was invoking the script every minute to post new transactions directly to upstream payment processing system. This allowed the group to transfer money to multiple e-currency services without these transactions being reported to any system inside the bank."
   },
   {
     "mitre_attack_id": "intrusion-set--c77c5576-ca19-42ed-a36f-4b4486a84133",
@@ -3925,7 +3974,8 @@
       "T1059.001"
     ],
     "merged_name": "GOLD SOUTHFIELD, Pinchy Spider, Gold Southfield, Gold Garden",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GOLD%20SOUTHFIELD.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/GOLD%20SOUTHFIELD.json",
+    "etda_description": "(CrowdStrike) CrowdStrike Intelligence has recently observed Pinchy Spider affiliates deploying GandCrab ransomware in enterprise environments, using lateral movement techniques and tooling commonly associated with nation-state adversary groups and penetration testing teams. This change in tactics makes Pinchy Spider and its affiliates the latest eCrime adversaries to join the growing trend of targeted, low-volume/high-return ransomware deployments known as “big game hunting.”\n\nPinchy Spider is the criminal group behind the development of the ransomware most commonly known as GandCrab, which has been active since January 2018. Pinchy Spider sells access to use GandCrab ransomware under a partnership program with a limited number of accounts. The program is operated with a 60-40 split in profits (60 percent to the customer), as is common among eCrime actors, but Pinchy Spider is also willing to negotiate up to a 70-30 split for “sophisticated” customers.\n\nGandCrab and Sodinokibi have been observed to be distributed by DanaBot (operated by 'Scully Spider, TA547') and Taurus Loader (operated by 'Venom Spider, Golden Chickens')."
   },
   {
     "mitre_attack_id": "intrusion-set--2fd2be6a-d3a2-4a65-b499-05ea2693abee",
@@ -3964,7 +4014,8 @@
       "T1059.001"
     ],
     "merged_name": "Gallmaker",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gallmaker.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gallmaker.json",
+    "etda_description": "(Symantec) Symantec researchers have uncovered a previously unknown attack group that is targeting government and military targets, including several overseas embassies of an Eastern European country, and military and defense targets in the Middle East. This group eschews custom malware and uses living off the land (LotL) tactics and publicly available hack tools to carry out activities that bear all the hallmarks of a cyber espionage campaign.\n\nThe group, which we have given the name Gallmaker, has been operating since at least December 2017, with its most recent activity observed in June 2018."
   },
   {
     "mitre_attack_id": "intrusion-set--2e290bfe-93b5-48ce-97d6-edcd6d32b7cf",
@@ -4104,7 +4155,8 @@
       "T1057"
     ],
     "merged_name": "Gamaredon Group, IRON TILDEN, Primitive Bear, ACTINIUM, Armageddon, Shuckworm, DEV-0157, Winterflounder, BlueAlpha, Blue Otso, Iron Tilden, SectorC08, Callisto, Actinium, UAC-0010",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gamaredon%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gamaredon%20Group.json",
+    "etda_description": "(Lookingglass) The Lookingglass Cyber Threat Intelligence Group (CTIG) has been tracking an ongoing cyber espionage campaign named “Operation Armageddon”. The name was derived from multiple Microsoft Word documents used in the attacks. “Armagedon” (spelled incorrectly) was found in the “Last Saved By” and “Author” fields in multiple Microsoft Word documents. Although continuously developed, the campaign has been intermittently active at a small scale, and uses unsophisticated techniques. The attack timing suggests the campaign initially started due to Ukraine’s decision to accept the Ukraine-­‐European Union Association Agreement (AA). The agreement was designed to improve economic integrations between Ukraine and the European Union. Russian leaders publicly stated that they believed this move by Ukraine directly threatened Russia’s national security. Although initial steps to join the Association occurred in March 2012, the campaign didn’t start until much later (mid‐2013), as Ukraine and the EU started to more actively move towards the agreement.\n\nRussian actors began preparing for attacks in case Ukraine finalized the AA. The earliest identified modification timestamp of malware used in this campaign is June 26, 2013. A group of files with modification timestamps between August 12 and September 16, 2013 were used in the first wave of spear-phishing attacks, targeting government officials prior to the 10th Yalta Annual Meeting: “Changing Ukraine in a Changing World: Factors of Success.”"
   },
   {
     "mitre_attack_id": "intrusion-set--1f21da59-6a13-455b-afd0-d58d0a5a7d27",
@@ -4160,7 +4212,8 @@
       "T1059.001"
     ],
     "merged_name": "Gorgon Group, Subaat, ATK 92, TAG-CR5",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gorgon%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Gorgon%20Group.json",
+    "etda_description": "Gorgon Group is a threat group consisting of members who are suspected to be Pakistan-based or have other connections to Pakistan. The group has performed a mix of criminal and targeted attacks, including campaigns against government organizations in the United Kingdom, Spain, Russia, and the United States.\n\nGorgon Group may be related to 'Transparent Tribe, APT 36' and may be responsible for the 'Aggah' activity."
   },
   {
     "mitre_attack_id": "intrusion-set--7331c66a-5601-4d3f-acf6-ad9e3035eb40",
@@ -4196,7 +4249,8 @@
       "T1113"
     ],
     "merged_name": "Group5",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Group5.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Group5.json",
+    "etda_description": "(SecurityWeek) A threat actor using Iranian-language tools, Iranian hosting companies, operating from the Iranian IP space at times was observed targeting the Syrian opposition in an elaborately staged malware operation, Citizen Lab researchers reveal.\n\nThe operation was first noticed in late 2015, when a member of the Syrian opposition flagged a suspicious email containing a PowerPoint slideshow, which led researchers to a watering hole website with malicious programs, malicious PowerPoint files, and Android malware.\n\nThe threat actor was targeting Windows and Android devices of well-connected individuals in the Syrian opposition, researchers discovered. They called the actor Group5, because it targets Syrian opposition after regime-linked malware groups, the 'Syrian Electronic Army (SEA), Deadeye Jackal', ISIS (also known as the Islamic State or ISIL), and a group linked to Lebanon did the same in the past."
   },
   {
     "mitre_attack_id": "intrusion-set--2688b13e-8e71-405a-9c40-0dee94bddf87",
@@ -4249,7 +4303,8 @@
       "T1132.001"
     ],
     "merged_name": "HAFNIUM, Operation Exchange Marauder, Hafnium",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/HAFNIUM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/HAFNIUM.json",
+    "etda_description": "(Microsoft) HAFNIUM primarily targets entities in the United States across a number of industry sectors, including infectious disease researchers, law firms, higher education institutions, defense contractors, policy think tanks, and NGOs.\n\nHAFNIUM has previously compromised victims by exploiting vulnerabilities in internet-facing servers, and has used legitimate open-source frameworks, like Covenant, for command and control. Once they’ve gained access to a victim network, HAFNIUM typically exfiltrates data to file sharing sites like MEGA.\n\nIn campaigns unrelated to these vulnerabilities, Microsoft has observed HAFNIUM interacting with victim Office 365 tenants. While they are often unsuccessful in compromising customer accounts, this reconnaissance activity helps the adversary identify more details about their targets’ environments.\n\nHAFNIUM operates primarily from leased virtual private servers (VPS) in the United States.\n\n(Recorded Future) Coalition officials pinned the attacks on groups tracked as 'APT 31, Judgment Panda, Zirconium' and 'Leviathan, APT 40, TEMP.Periscope' by cybersecurity experts, according to a press release from the UK National Cyber Security Centre. Supporting statements were also issued by NATO, the UK government, the European Union Council, Australia, Japan, Canada, Latvia, Lithuania, Estonia, Slovenia, Finland, and Denmark."
   },
   {
     "mitre_attack_id": "intrusion-set--54dfec3e-6464-4f74-9d69-b7c817b7e5a3",
@@ -4367,7 +4422,8 @@
       "T1027"
     ],
     "merged_name": "Higaisa, APT-C-06, SIG25, Dubnium, Fallout Team, Shadow Crane, CTG-1948, Tungsten Bridge, ATK 52, T-APT-02, Luder, Operation “DarkHotel”, Operation “Daybreak”, Operation “Inexsmar”, Operation “The Gh0st Remains the Same”, Operation “PowerFall”, DarkHotel",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Higaisa.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Higaisa.json",
+    "etda_description": "(SecurityWeek) The activities of the DarkHotel advanced persistent threat (APT) actor came to light in November 2014, when Kaspersky published a report detailing a sophisticated cyberespionage campaign targeting business travelers in the Asia-Pacific region. The group has been around for nearly a decade and some researchers believe its members are Korean speakers.\n\nThe attackers targeted their victims using several methods, including through their hotel’s Wi-Fi, zero-day exploits and peer-to-peer (P2P) file sharing websites. Nearly one year later, the threat group was observed using new attack techniques and an exploit leaked from Italian spyware maker 'Hacking Team'.\n\nDarkHotel victims have been spotted in several countries, including North Korea, Russia, South Korea, Japan, Bangladesh, Thailand, Taiwan, China, the United States, India, Mozambique, Indonesia and Germany. Up until recently, the attacks appeared to focus on company executives, researchers and development personnel from sectors such as defense industrial base, military, energy, government, NGOs, electronics manufacturing, pharmaceutical, and medical.\n\nIn more recent DarkHotel attacks it has dubbed “Inexsmar,” security firm Bitdefender said the hackers targeted political figures, and they appeared to be using some new methods."
   },
   {
     "mitre_attack_id": "intrusion-set--ebb73863-fa44-4617-b4cb-b9ed3414eb87",
@@ -4425,7 +4481,8 @@
       "T1548.002"
     ],
     "merged_name": "Honeybee",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Honeybee.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Honeybee.json",
+    "etda_description": "(McAfee) McAfee Advanced Threat Research analysts have discovered a new operation targeting humanitarian aid organizations and using North Korean political topics as bait to lure victims into opening malicious Microsoft Word documents. Our analysts have named this Operation Honeybee, based on the names of the malicious documents used in the attacks.\n\nAdvanced Threat Research analysts have also discovered malicious documents authored by the same actor that indicate a tactical shift. These documents do not contain the typical lures by this actor, instead using Word compatibility messages to entice victims into opening them.\n\nThe Advanced Threat Research team also observed a heavy concentration of the implant in Vietnam from January 15–17."
   },
   {
     "mitre_attack_id": "intrusion-set--ead23196-d7b6-4ce6-a124-4ab4b67d81bd",
@@ -4542,7 +4599,8 @@
       "T1059.001"
     ],
     "merged_name": "Inception, Inception Framework, Cloud Atlas, Oxygen, ATK 116, The Rocra, Operation “RedOctober”, Operation “Cloud Atlas”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Inception.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Inception.json",
+    "etda_description": "(Symantec) Researchers from Blue Coat Labs have identified the emergence of a previously undocumented attack framework that is being used to launch highly targeted attacks in order to gain access to, and extract confidential information from, victims’ computers. Because of the many layers used in the design of the malware, we’ve named it Inception—a reference to the 2010 movie “Inception” about a thief who entered peoples’ dreams and stole secrets from their subconscious. Targets include individuals in strategic positions: Executives in important businesses such as oil, finance and engineering, military officers, embassy personnel and government officials. The Inception attacks began by focusing on targets primarily located in Russia or related to Russian interests, but have since spread to targets in other locations around the world.  The preferred malware delivery method is via phishing emails containing trojanized documents.\n\n• Initially targeted at Russia, but expanding globally\n• Masterful identity cloaking and diversionary tactics\n• Clean and elegant code suggesting strong backing and top-tier talent\n• Includes malware targeting mobile devices: Android, Blackberry and iOS\n• Using a free cloud hosting service based in Sweden for command and control"
   },
   {
     "mitre_attack_id": "intrusion-set--e5603ea8-4c36-40e7-b7af-a077d24fedc1",
@@ -4582,7 +4640,8 @@
       "T1583.001"
     ],
     "merged_name": "IndigoZebra",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/IndigoZebra.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/IndigoZebra.json",
+    "etda_description": "(Check Point) Check Point Research (CPR) has observed an ongoing cyber espionage operation targeting the Afghan government. Believed to be the Chinese-speaking hacker group known as “IndigoZebra”, the threat actors behind the espionage leveraged Dropbox, the popular cloud storage service, to infiltrate the Afghan National Security Council (NSC). Further investigation by CPR revealed that this is the latest in longer-running activity targeting other Central Asian countries, Kyrgyzstan and Uzbekistan, since at least 2014."
   },
   {
     "mitre_attack_id": "intrusion-set--01e28736-2ffc-455b-9880-ed4d1407ae07",
@@ -4641,7 +4700,8 @@
       "T1003.001"
     ],
     "merged_name": "Indrik Spider, Evil Corp, Gold Drake, Gold Winter, UNC2165",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Indrik%20Spider.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Indrik%20Spider.json",
+    "etda_description": "(CrowdStrike) Indrik Spider is a sophisticated eCrime group that has been operating Dridex since June 2014. In 2015 and 2016, Dridex was one of the most prolific eCrime banking  rojans on the market and, since 2014, those efforts are thought to have netted Indrik Spider millions of dollars in criminal profits. Throughout its years of operation, Dridex has received multiple updates with new modules developed and new anti-analysis features added to the malware.\n\nIn August 2017, a new ransomware variant identified as BitPaymer was reported to have ransomed the U.K.’s National Health Service (NHS), with a high ransom demand of 53 BTC (approximately $200,000 USD). The targeting of an organization rather than individuals, and the high ransom demands, made BitPaymer stand out from other contemporary ransomware at the time. Though the encryption and ransom functionality of BitPaymer was not technically sophisticated, the malware contained multiple anti-analysis features that overlapped with Dridex. Later technical analysis of BitPaymer indicated that it had been developed by Indrik Spider, suggesting the group had expanded its criminal operation to include ransomware as a monetization strategy.\n\nIndrik Spider appears to be a subgroup of 'TA505, Graceful Spider, Gold Evergreen'. In 2019, a subgroup of Indrik Spider split off into 'Doppel Spider'.\n\nDridex has been observed to be distributed via Necurs (operated by 'Monty Spider') and Emotet (operated by 'Mummy Spider, TA542')."
   },
   {
     "mitre_attack_id": "intrusion-set--6713ab67-e25b-49cc-808d-2b36d4fbc35c",
@@ -4794,7 +4854,8 @@
       "T1071.001"
     ],
     "merged_name": "Ke3chang, APT15, Mirage, Vixen Panda, GREF, Playful Dragon, RoyalAPT, NICKEL, APT 15, Bronze Palace, Bronze Davenport, Bronze Idlewood, CTG-9246, Royal APT, Nickel, Metushy, Social Network Team, Operation “Ke3chang”, Operation “MirageFox”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ke3chang.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Ke3chang.json",
+    "etda_description": "Ke3chang is a threat group attributed to actors operating out of China. Ke3chang has targeted several industries, including oil, government, military, and more."
   },
   {
     "mitre_attack_id": "intrusion-set--0ec2f388-bf0f-4b5c-97b1-fc736d26c25f",
@@ -4937,7 +4998,8 @@
       "T1566.001"
     ],
     "merged_name": "Kimsuky, STOLEN PENCIL, Thallium, Black Banshee, Velvet Chollima, Cerium, ITG16, TA406, Operation “Baby Coin”, Operation “Stolen Pencil”, Operation “Mystery Baby”, Operation “Kabar Cobra”, Operation “Stealth Power”, Operation “Smoke Screen”, Operation “Red Salt”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Kimsuky.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Kimsuky.json",
+    "etda_description": "(Kaspersky) For several months, we have been monitoring an ongoing cyber-espionage campaign against South Korean think-tanks. There are multiple reasons why this campaign is extraordinary in its execution and logistics. It all started one day when we encountered a somewhat unsophisticated spy program that communicated with its “master” via a public e-mail server. This approach is rather inherent to many amateur virus-writers and these malware attacks are mostly ignored."
   },
   {
     "mitre_attack_id": "intrusion-set--c93fccb1-e8e8-42cf-ae33-2ad1d183913a",
@@ -5144,7 +5206,8 @@
       "T1489"
     ],
     "merged_name": "Lazarus Group, Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Group 77, Hastati Group, Whois Hacking Team, NewRomanic Cyber Army Team, Zinc, Hidden Cobra, Appleworm, APT-C-26, ATK 3, SectorA01, ITG03, TA404, Operation “Flame”, Operation “Troy”, Operation “Ten Days of Rain” / ”DarkSeoul”, Operation “Blockbuster”: Breach of Sony Pictures Entertainment, Operation “GhostSecret”, Operation “AppleJeus”, Operation “CryptoCore”, Operation “Sharpshooter”, Operation “AppleJeus sequel”, Operation “In(ter)caption”, Operation “North Star”, Operation “Dream Job”, Operation “LolZarus”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Lazarus%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Lazarus%20Group.json",
+    "etda_description": "(Malwarebytes) Lazarus Group is commonly believed to be run by the North Korean government, motivated primarily by financial gain as a method of circumventing long-standing sanctions against the regime. They first came to substantial media notice in 2013 with a series of coordinated attacks against an assortment of South Korean broadcasters and financial institutions using DarkSeoul, a wiper program that overwrites sections of the victims’ master boot record.\n\nIn November 2014, a large scale breach of Sony Pictures was attributed to Lazarus. The attack was notable due to its substantial penetration across Sony networks, the extensive amount of data exfiltrated and leaked, as well of use of a wiper in a possible attempt to erase forensic evidence. Attribution on the attacks was largely hazy, but the FBI released a statement tying the Sony breach to the earlier DarkSeoul attack, and officially attributed both incidents to North Korea.\n\nFast forward to May 2017 with the widespread outbreak of WannaCry, a piece of ransomware that used an SMB exploit as an attack vector. Attribution to North Korea rested largely on code reuse between WannaCry and previous North Korean attacks, but this was considered to be thin grounds given the common practice of tool sharing between regional threat groups. Western intelligence agencies released official statements to the public reaffirming the attribution, and on September 6, 2018, the US Department of Justice charged a North Korean national with involvement in both WannaCry and the Sony breach.\n\nLazarus Group has 3 subgroups:\n1. 'Subgroup: Andariel, Silent Chollima'\n2. 'Subgroup: BeagleBoyz'\n3. 'Subgroup: Bluenoroff, APT 38, Stardust Chollima'\n\nThe following groups may be associated with the Lazarus Group: 'Covellite', 'Reaper, APT 37, Ricochet Chollima, ScarCruft' and 'Wassonite'."
   },
   {
     "mitre_attack_id": "intrusion-set--abc5a1d4-f0dc-49d1-88a1-4a80e478bb03",
@@ -5195,7 +5258,8 @@
       "T1583.006"
     ],
     "merged_name": "LazyScripter",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/LazyScripter.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/LazyScripter.json",
+    "etda_description": "(Malwarebytes) Malwarebytes’ Threat Intelligence analysts are continually researching and monitoring active malware campaigns and actor groups as the prevalence and sophistication of targeted attacks rapidly evolves. In this paper, we introduce a new APT group we have named LazyScripter, presenting in-depth analysis of the tactics, techniques, procedures, and infrastructure employed by this actor group."
   },
   {
     "mitre_attack_id": "intrusion-set--32bca8ff-d900-4877-aa65-d70baa041b74",
@@ -5252,7 +5316,8 @@
       "T1003.005"
     ],
     "merged_name": "Leafminer, Raspite, Flash Kitten",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leafminer.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leafminer.json",
+    "etda_description": "(Symantec) Symantec has uncovered the operations of a threat actor named Leafminer that is targeting a broad list of government organizations and business verticals in various regions in the Middle East since at least early 2017. The group tends to adapt publicly available techniques and tools for their attacks and experiments with published proof-of-concept exploits. Leafminer attempts to infiltrate target networks through various means of intrusion: watering hole websites, vulnerability scans of network services on the internet, and brute-force/dictionary login attempts. The actor’s post-compromise toolkit suggests that the group is looking for email data, files, and database servers on compromised target systems.\n\n(Dragos) Analysis of Raspite tactics, techniques, and procedures (TTPs) indicate the group has been active in some form since early- to mid-2017. Raspite targeting includes entities in the US, Middle East, Europe, and East Asia. Operations against electric utility organizations appear limited to the US at this time.\n\nRaspite leverages strategic website compromise to gain initial access to target networks. Raspite uses the same methodology as 'Berserk Bear, Dragonfly 2.0' and 'Allanite' in embedding a link to a resource to prompt an SMB connection, from which it harvests Windows credentials. The group then deploys install scripts for a malicious service to beacon back to Raspite –controlled infrastructure, allowing the adversary to remotely access the victim machine."
   },
   {
     "mitre_attack_id": "intrusion-set--7113eaa5-ba79-4fb3-b68a-398ee9cd698e",
@@ -5358,7 +5423,8 @@
       "T1197"
     ],
     "merged_name": "Leviathan, MUDCARP, Kryptonite Panda, Gadolinium, BRONZE MOHAWK, TEMP.Jumper, APT40, TEMP.Periscope, APT 40, Bronze Mohawk, Mudcarp, ATK 29, ITG09",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leviathan.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Leviathan.json",
+    "etda_description": "(FireEye) FireEye is highlighting a cyber espionage operation targeting crucial technologies and traditional intelligence targets from a China-nexus state sponsored actor we call APT40. The actor has conducted operations since at least 2013 in support of China’s naval modernization effort. The group has specifically targeted engineering, transportation, and the defense industry, especially where these sectors overlap with maritime technologies. More recently, we have also observed specific targeting of countries strategically important to the Belt and Road Initiative including Cambodia, Belgium, Germany, Hong Kong, Philippines, Malaysia, Norway, Saudi Arabia, Switzerland, the United States, and the United Kingdom. This China-nexus cyber espionage group was previously reported as TEMP.Periscope and TEMP.Jumper.\n\nAlso see 'Hafnium'."
   },
   {
     "mitre_attack_id": "intrusion-set--38863958-a201-4ce1-9dbe-539b0b6804e0",
@@ -5437,7 +5503,8 @@
       "T1059.005"
     ],
     "merged_name": "Machete, APT-C-43, El Machete, TEMP.Andromeda, ATK 97, TAG-NS1, Operation “HpReact”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Machete.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Machete.json",
+    "etda_description": "(Kaspersky) “Machete” is a targeted attack campaign with Spanish speaking roots. We believe this campaign started in 2010 and was renewed with an improved infrastructure in 2012. The operation may be still “active”.\n\nThe malware is distributed via social engineering techniques, which includes spear-phishing emails and infections via Web by a fake Blog website. We have found no evidence of exploits targeting zero-day vulnerabilities. Both the attackers and the victims appear to be Spanish-speaking.\n\nIn some cases, such as Russia, the target appears to be an embassy from one of the countries of this list."
   },
   {
     "mitre_attack_id": "intrusion-set--f9d6633a-55e6-4adc-9263-6ae080421a13",
@@ -5560,7 +5627,8 @@
       "T1059.001"
     ],
     "merged_name": "Magic Hound, TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, APT 35, Cobalt Illusion, Cobalt Mirage, TEMP.Beanie, Timberworm, Tarh Andishan, TunnelVision, UNC788, Operation “Thamar Reservoir”, Operation “BadBlood”, Operation “SpoofedScholars”, Cobalt Gypsy",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Magic%20Hound.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Magic%20Hound.json",
+    "etda_description": "Magic Hound is an Iranian-sponsored threat group operating primarily in the Middle East that dates back as early as 2014. The group behind the campaign has primarily targeted organizations in the energy, government, and technology sectors that are either based or have business interests in Saudi Arabia.\n\nThis group appears to be the evolvement of 'Cutting Kitten, TG-2889'.\n\nThere is some infrastructure overlap with 'Rocket Kitten, Newscaster, NewsBeef' and 'ITG18'."
   },
   {
     "mitre_attack_id": "intrusion-set--2e5d3a83-fe00-41a5-9b60-237efc84832f",
@@ -5593,7 +5661,8 @@
       "T1027.001"
     ],
     "merged_name": "Moafee",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Moafee.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Moafee.json",
+    "etda_description": "Moafee is a threat group that appears to operate from the Guandong Province of China. Due to overlapping TTPs, including similar custom tools, Moafee is thought to have a direct or indirect relationship with the threat group 'DragonOK'.\n\n(FireEye) The attack group “Moafee” (named after their command and control infrastructure) appears to operate out of the Guangdong province in China and is known to target the governments and military organizations of countries with national interests in the South China Sea. The seas in this region have multiple claims of sovereignty and hold high significance, as it is the second busiest sea-lane in the world and are known to be rich in resources such as rare earth metals, crude oil, and natural gas. We have also observed the Moafee group target organizations within the US defense industrial base."
   },
   {
     "mitre_attack_id": "intrusion-set--88489675-d216-4884-a98f-49a89fcc1643",
@@ -5648,7 +5717,8 @@
       "T1566.001"
     ],
     "merged_name": "Mofang, Whitefly, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mofang.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mofang.json",
+    "etda_description": "(Fox-IT) Mofang is a threat actor that almost certainly operates out of China and is probably government-affiliated. It is highly likely that Mofang’s targets are selected based on involvement with investments, or technological advances that could be perceived as a threat to the Chinese sphere of influence. This is most clearly the case in a campaign focusing on government and critical infrastructure of Myanmar that is described in this report. Chances are about even, though, that Mofang is a relevant threat actor to any organization that invests in Myanmar or is otherwise politically involved. In addition to the campaign in Myanmar, Mofang has been observed to attack targets across multiple sectors (government, military, critical infrastructure and the automotive and weapon industries) in multiple countries."
   },
   {
     "mitre_attack_id": "intrusion-set--df71bb3b-813c-45eb-a8bc-f2a419837411",
@@ -5753,7 +5823,8 @@
       "T1555.003"
     ],
     "merged_name": "Molerats, Operation Molerats, Gaza Cybergang, Extreme Jackal, Gaza Hackers Team, TA402, Aluminum Saratoga, ATK 89, TAG-CT5, Operation “Molerats”, Operation “Moonlight”, Operation “DustySky”, Operation “DustySky” Part 2, Operation “TopHat”, Operation “SneakyPastes”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Molerats.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Molerats.json",
+    "etda_description": "(Kaspersky) The Gaza cybergang is an Arabic-language, politically-motivated cybercriminal group, operating since 2012 and actively targeting the MENA (Middle East North Africa) region. The Gaza cybergang’s attacks have never slowed down and its typical targets include government entities/embassies, oil and gas, media/press, activists, politicians, and diplomats.\n\nOne of the interesting new facts, uncovered in mid-2017, is its discovery inside an oil and gas organization in the MENA region, infiltrating systems and pilfering data, apparently for more than a year.\n\nAn overlap has been found between Molerats and 'Operation Parliament' and these may also be an association with 'The Big Bang'."
   },
   {
     "mitre_attack_id": "intrusion-set--269e8108-68c6-4f99-b911-14b2e765dec2",
@@ -5897,7 +5968,8 @@
       "T1218.005"
     ],
     "merged_name": "MuddyWater, Earth Vetala , MERCURY, Static Kitten, Seedworm, TEMP.Zagros, Mercury, TA450, Cobalt Ulster, ATK 51, T-APT-14, ITG17, Operation “BlackWater”, Operation “Quicksand”, Operation “Earth Vetala”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/MuddyWater.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/MuddyWater.json",
+    "etda_description": "(Reaqta) MuddyWater is an APT group that has been active throughout 2017, targeting victims in Middle East with in-memory vectors leveraging on Powershell, in a family of attacks now identified as “Living off the land”, as they don’t require the creation of new binaries on the victim’s machine, thus maintaining a low detection profile and a low forensic footprint.\n\nThe operators behind MuddyWater are likely espionage motivated, we derive this information from the analysis of data and backdoors behaviors. We also find that despite the strong preponderance of victims from Pakistan, the most active targets appear to be in: Saudi Arabia, UAE and Iraq. Amongst the victims we identify a variety of entities with a stronger focus at Governments, Telcos and Oil companies.\n\nBy tracking the operations we finally figure out that the originating country is likely to be Iran, while it remains harder to ascertain whether MuddyWater is state sponsored or a criminal organization incline to espionage."
   },
   {
     "mitre_attack_id": "intrusion-set--420ac20b-f2b9-42b8-aa1a-6d4b72895ca4",
@@ -6005,7 +6077,8 @@
       "T1219"
     ],
     "merged_name": "Mustang Panda, TA416, RedDelta, BRONZE PRESIDENT, Bronze President, TEMP.Hex, HoneyMyte, Red Lich",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mustang%20Panda.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Mustang%20Panda.json",
+    "etda_description": "(CrowdStrike) In April 2017, CrowdStrike Falcon Intelligence observed a previously unattributed actor group with a Chinese nexus targeting a U.S.-based think tank. Further analysis revealed a wider campaign with unique tactics, techniques, and procedures (TTPs). This adversary targets non-governmental organizations (NGOs) in general, but uses Mongolian language decoys and themes, suggesting this actor has a specific focus on gathering intelligence on Mongolia. These campaigns involve the use of shared malware like Poison Ivy or PlugX.\n\nRecently, Falcon Intelligence observed new activity from Mustang Panda, using a unique infection chain to target likely Mongolia-based victims. This newly observed activity uses a series of redirections and fileless, malicious implementations of legitimate tools to gain access to the targeted systems. Additionally, Mustang Panda actors reused previously-observed legitimate domains to host files.\n\nAlso see 'RedDelta'."
   },
   {
     "mitre_attack_id": "intrusion-set--2a158b0a-7ef8-43cb-9985-bf34d1e12050",
@@ -6074,7 +6147,8 @@
       "T1036.005"
     ],
     "merged_name": "Naikon, Hellsing, Lotus Panda, ITG06, Operation “CameraShy”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Naikon.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Naikon.json",
+    "etda_description": "Naikon is a threat group that has focused on targets around the South China Sea. The group has been attributed to the Chinese People’s Liberation Army’s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020). While Naikon shares some characteristics with 'APT 30, Override Panda', the two groups do not appear to be exact matches."
   },
   {
     "mitre_attack_id": "intrusion-set--23b6a0f5-fa95-46f9-a6f3-4549c5e45ec8",
@@ -6127,7 +6201,8 @@
       "T1078"
     ],
     "merged_name": "Night Dragon",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Night%20Dragon.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Night%20Dragon.json",
+    "etda_description": "(McAfee) Starting in November 2009, coordinated covert and targeted cyberattacks have been conducted against global oil, energy, and petrochemical companies. These attacks have involved social engineering, spear-phishing attacks, exploitation of Microsoft Windows operating systems vulnerabilities, Microsoft Active Directory compromises, and the use of remote administration tools (RATs) in targeting and harvesting sensitive competitive proprietary operations and project-financing information with regard to oil and gas field bids and operations.\n\nAttackers using several locations in China have leveraged C&C servers on purchased hosted services in the United States and compromised servers in the Netherlands to wage attacks against global oil, gas, and petrochemical companies, as well as individuals and executives in Kazakhstan, Taiwan, Greece, and the United States to acquire proprietary and highly confidential information. The primary operational technique used by the attackers comprised a variety of hacker tools, including privately developed and customized RAT tools that provided complete remote administration capabilities to the attacker. RATs provide functions similar to Citrix or Microsoft Windows Terminal Services, allowing a remote individual to completely control the affected system. To deploy these tools, attackers first compromised perimeter security controls, through SQL-injection exploits of extranet web servers, as well as targeted spear-phishing attacks of mobile worker laptops, and compromising corporate VPN accounts to penetrate the targeted company’s defensive architectures (DMZs and firewalls) and conduct reconnaissance of targeted companies’ networked computers.\n\nNight Dragon may be related to 'APT 18, Dynamite Panda, Wekby'."
   },
   {
     "mitre_attack_id": "intrusion-set--fed4f0a2-4347-4530-b0f5-6dfd49b29172",
@@ -6172,7 +6247,8 @@
       "T1105"
     ],
     "merged_name": "Nomadic Octopus, DustSquad, Golden Falcon, APT-C-34",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Nomadic%20Octopus.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Nomadic%20Octopus.json",
+    "etda_description": "(Kaspersky) For the last two years we have been monitoring a Russian-language cyberespionage actor that focuses on Central Asian users and diplomatic entities. We named the actor DustSquad and have provided private intelligence reports to our customers on four of their campaigns involving custom Android and Windows malware. In this blogpost we cover a malicious program for Windows called Octopus that mostly targets diplomatic entities.\n\nThe name was originally coined by ESET in 2017 after the 0ct0pus3.php script used by the actor on their old C2 servers. We also started monitoring the malware and, using Kaspersky Attribution Engine based on similarity algorithms, discovered that Octopus is related to DustSquad, something we reported in April 2018. In our telemetry we tracked this campaign back to 2014 in the former Soviet republics of Central Asia (still mostly Russian-speaking), plus Afghanistan."
   },
   {
     "mitre_attack_id": "intrusion-set--4ca1929c-7d64-4aab-b849-badbfc0c760d",
@@ -6297,7 +6373,8 @@
       "T1566.003"
     ],
     "merged_name": "OilRig, COBALT GYPSY, IRN2, HELIX KITTEN, APT34, APT 34, Helix Kitten, Twisted Kitten, Crambus, Chrysene, Cobalt Gypsy, TA452, ATK 40, ITG13",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/OilRig.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/OilRig.json",
+    "etda_description": "OilRig is a threat group with suspected Iranian origins that has targeted Middle Eastern and international victims since at least 2014. The group has targeted a variety of industries, including financial, government, energy, chemical, and telecommunications, and has largely focused its operations within the Middle East. It appears the group carries out supply chain attacks, leveraging the trust relationship between organizations to attack their primary targets. FireEye assesses that the group works on behalf of the Iranian government based on infrastructure details that contain references to Iran, use of Iranian infrastructure, and targeting that aligns with nation-state interests. This group was previously tracked under two distinct groups, APT 34 and OilRig, but was combined due to additional reporting giving higher confidence about the overlap of the activity.\n\nOilRig has 1 subgroup:\n1. 'Subgroup: Greenbug, Volatile Kitten'\n\nOilRig seems to be closely related to 'APT 33, Elfin, Magnallium' since at least 2017 and perhaps 'DNSpionage'. They also seem to overlap with 'Hexane'.\n\nAlso see 'Orangeworm'."
   },
   {
     "mitre_attack_id": "intrusion-set--5636b7b3-d99b-4edd-aa05-ee649c1d4ef1",
@@ -6355,7 +6432,8 @@
       "T1021.002"
     ],
     "merged_name": "Orangeworm",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Orangeworm.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Orangeworm.json",
+    "etda_description": "(Symantec) Symantec has identified a previously unknown group called Orangeworm that has been observed installing a custom backdoor called Trojan.Kwampirs within large international corporations that operate within the healthcare sector in the United States, Europe, and Asia.\n\nFirst identified in January 2015, Orangeworm has also conducted targeted attacks against organizations in related industries as part of a larger supply-chain attack in order to reach their intended victims. Known victims include healthcare providers, pharmaceuticals, IT solution providers for healthcare and equipment manufacturers that serve the healthcare industry, likely for the purpose of corporate espionage.\n\nBased on the list of known victims, Orangeworm does not select its targets randomly or conduct opportunistic hacking. Rather, the group appears to choose its targets carefully and deliberately, conducting a good amount of planning before launching an attack.\n\nAccording to Symantec telemetry, almost 40 percent of Orangeworm’s confirmed victim organizations operate within the healthcare industry. The Kwampirs malware was found on machines which had software installed for the use and control of high-tech imaging devices such as X-Ray and MRI machines. Additionally, Orangeworm was observed to have an interest in machines used to assist patients in completing consent forms for required procedures. The exact motives of the group are unclear.\n\n(Cylera Labs) At Cylera Labs we assess with medium-high confidence that Shamoon ('OilRig, APT 34, Helix Kitten, Chrysene') and Kwapirs are the same group or really close collaborators, sharing updates, techniques and code over the course of multiple years."
   },
   {
     "mitre_attack_id": "intrusion-set--f9c06633-dcff-48a1-8588-759e7cec5694",
@@ -6410,7 +6488,8 @@
       "T1056.004"
     ],
     "merged_name": "PLATINUM, TwoForOne, ATK 33, Operation “EasternRoppels”, Platinum",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PLATINUM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PLATINUM.json",
+    "etda_description": "(Microsoft) Platinum has been targeting its victims since at least as early as 2009, and may have been active for several years prior. Its activities are distinctly different not only from those typically seen in untargeted attacks, but from many targeted attacks as well. A large share of targeted attacks can be characterized as opportunistic: the activity group changes its target profiles and attack geographies based on geopolitical seasons, and may attack institutions all over the world. Like many such groups, Platinum seeks to steal sensitive intellectual property related to government interests, but its range of preferred targets is consistently limited to specific governmental organizations, defense institutes, intelligence agencies, diplomatic institutions, and telecommunication providers in South and Southeast Asia. The group’s persistent use of spear-phishing tactics (phishing attempts aimed at specific individuals) and access to previously undiscovered zero-day exploits have made it a highly resilient threat."
   },
   {
     "mitre_attack_id": "intrusion-set--efed95ba-d7e8-47ff-8c53-99c42426ee7c",
@@ -6475,7 +6554,8 @@
       "T1553.002"
     ],
     "merged_name": "PROMETHIUM, StrongPity, Promethium, APT-C-41",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PROMETHIUM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PROMETHIUM.json",
+    "etda_description": "Promethium is an activity group that has been active since at least 2012. The group conducted a campaign in May 2016 and has heavily targeted Turkish victims. Promethium has demonstrated similarity to another activity group called 'Neodymium' due to overlapping victim and campaign characteristics.\n\n(Microsoft) Promethium is an activity group that has been active as early as 2012. The group primarily uses Truvasys, a first-stage malware that has been in circulation for several years. Truvasys has been involved in several attack campaigns, where it has masqueraded as one of server common computer utilities, including WinUtils, TrueCrypt, WinRAR, or SanDisk. In each of the campaigns, Truvasys malware evolved with additional features—this shows a close relationship between the activity groups behind the campaigns and the developers of the malware."
   },
   {
     "mitre_attack_id": "intrusion-set--17862c7d-9e60-48a0-b48e-da4dc4c3f6b0",
@@ -6575,7 +6655,8 @@
       "T1588.002"
     ],
     "merged_name": "Patchwork, Hangover Group, Dropping Elephant, Chinastrats, MONSOON, Operation Hangover, APT-C-09, Monsoon, Quilted Tiger, TG-4410, Zinc Emerson, ATK 11",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Patchwork.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Patchwork.json",
+    "etda_description": "(Cymmetria) Patchwork is a targeted attack that has infected an estimated 2,500 machines since it was first observed in December 2015. There are indications of activity as early as 2014, but Cymmetria has not observed any such activity first hand.\n\nPatchwork targets were chosen worldwide with a focus on personnel working on military and political assignments, and specifically those working on issues relating to Southeast Asia and the South China Sea. Many of the targets were governments and government-related organizations.\n\nThe code used by this threat actor is copy-pasted from various online forums, in a way that reminds us of a patchwork quilt –hence the name we’ve given the operation.\n\nIn active victim systems, Patchwork immediately searches for and uploads documents to their C&C, and only if the target is deemed valuable enough, proceeds to install a more advanced second stage malware.\n\nThis group seems to be associated with 'Confucius'."
   },
   {
     "mitre_attack_id": "intrusion-set--fe98767f-9df8-42b9-83c9-004b1dec8647",
@@ -6612,7 +6693,8 @@
       "T1078"
     ],
     "merged_name": "PittyTiger, Pitty Panda, Operation “The Eye of the Tiger”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PittyTiger.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/PittyTiger.json",
+    "etda_description": "(Airbus) Pitty Tiger is a group of attackers that have been active since at least 2011. They have targeted private companies in several sectors, such as defense and telecommunications, but also at least one government.\n\nWe have been able to track down this group of attackers and can provide detailed information about them. We were able to collect and reveal their “malware arsenal”. We also analyzed their technical organization.\n\nOur investigations indicate that Pitty Tiger has not used any 0day vulnerability so far, rather they prefer using custom malware, developed for the group’s exclusive usage. Our discoveries indicate that Pitty Tiger is a group of attackers with the ability to stay under the radar, yet still not as mature as other groups of attackers we monitor.\n\nPitty Tiger is probably not a state-sponsored group of attackers. They lack the experience and financial support that one would expect from state-sponsored attackers. We suppose this group is opportunistic and sells its services to probable competitors of their targets in the private sector.\n\nWe have been able to leverage several attackers profiles, showing that the Pitty Tiger group is fairly small compared to other APT groups, which is probably why we saw them work on a very limited amount of targets.\n\nThere is some overlap with 'APT 5, Keyhole Panda'."
   },
   {
     "mitre_attack_id": "intrusion-set--7ecc3b4f-5cdb-457e-b55a-df376b359446",
@@ -6663,7 +6745,8 @@
       "T1087.001"
     ],
     "merged_name": "Poseidon Group",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Poseidon%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Poseidon%20Group.json",
+    "etda_description": "(Kaspersky) During the latter part of 2015, Kaspersky researchers from GreAT (Global Research and Analysis Team) got hold of the missing pieces of an intricate puzzle that points to the dawn of the first Portuguese-speaking targeted attack group, named “Poseidon.” The group’s campaigns appear to have been active since at least 2005, while the very first sample found points to 2001. This signals just how long ago the Poseidon threat actor was already working on its offensive framework.\n\nThe Poseidon Group is a long-running team operating on all domains: land, air, and sea. They are dedicated to running targeted attacks campaigns to aggressively collect information from company networks through the use of spear-phishing packaged with embedded, executable elements inside office documents and extensive lateral movement tools. The information exfiltrated is then leveraged by a company front to blackmail victim companies into contracting the Poseidon Group as a security firm. Even when contracted, the Poseidon Group may continue its infection or initiate another infection at a later time, persisting on the network to continue data collection beyond its contractual obligation. The Poseidon Group has been active, using custom code and evolving their toolkit since at least 2005. Their tools are consistently designed to function on English and Portuguese systems spanning the gamut of Windows OS, and their exfiltration methods include the use of hijacked satellite connections. Poseidon continues to be active at this time."
   },
   {
     "mitre_attack_id": "intrusion-set--5ce5392a-3a6c-4e07-9df3-9b6a9159ac45",
@@ -6707,7 +6790,8 @@
       "T1547.001"
     ],
     "merged_name": "Putter Panda, APT2, MSUpdater, TG-6952, APT 2, Group 36, Sulphur",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Putter%20Panda.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Putter%20Panda.json",
+    "etda_description": "Putter Panda is the name of bad actor responsible for a series of cyberespionage operations originating in Shanghai, security experts linked its operation to the activity of the People’s Liberation Army 3rd General Staff Department 12th Bureau Unit 61486.\n\nA fake yoga brochure was one of different emails used for a spear-phishing campaign conducted by the stealth Chinese cyber unit according an investigation conducted by researchers at the CrowdStrike security firm. Also in this case the experts believe that we are facing with a large scale cyberespionage campaign targeting government entities, contractors and research companies in Europe, USA and Japan.\n\nThe group has been operating since at least 2007 and appears very interested in research companies in the space and satellite industry, experts at CrowdStrike have collected evidence of a numerous attacks against these industries."
   },
   {
     "mitre_attack_id": "intrusion-set--c416b28c-103b-4df1-909e-78089a7e0e5f",
@@ -6749,7 +6833,8 @@
       "T1219"
     ],
     "merged_name": "RTM",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/RTM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/RTM.json",
+    "etda_description": "(ESET) There are several groups actively and profitably targeting businesses in Russia. A trend that we have seen unfold before our eyes lately is these cybercriminals’ use of simple backdoors to gain a foothold in their targets’ networks. Once they have this access, a lot of the work is done manually, slowly getting to understand the network layout and deploying custom tools the criminals can use to steal funds from these entities. Some of the groups that best exemplify these trends are 'Buhtrap, Ratopak Spider', 'Cobalt Group' and 'Corkow, Metel'.\n\nThe group discussed in this white paper is part of this new trend. We call this new group RTM; it uses custom malware, written in Delphi, that we cover in detail in later sections. The first trace of this tool in our telemetry data dates back to late 2015. The group also makes use of several different modules that they deploy where appropriate to their targets. They are interested in users of remote banking systems (RBS), mainly in Russia and neighboring countries.\n\nThat this group is mostly targeting businesses is apparent from the processes they are looking for on a compromised system. They look for software that is usually only installed on accountants’ computers, such as remote banking software or tools to help with accounts pay."
   },
   {
     "mitre_attack_id": "intrusion-set--f40eb8ce-2a74-4e56-89a1-227021410142",
@@ -6791,7 +6876,8 @@
       "T1059.005"
     ],
     "merged_name": "Rancor, Rancor Group",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rancor.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rancor.json",
+    "etda_description": "(Palo Alto) Throughout 2017 and 2018 Unit 42 has been tracking and observing a series of highly targeted attacks focused in South East Asia, building on our research into the KHRAT Trojan. Based on the evidence, these attacks appear to be conducted by the same set of attackers using previously unknown malware families. In addition, these attacks appear to be highly targeted in their distribution of the malware used, as well as the targets chosen. Based on these factors, Unit 42 believes the attackers behind these attacks are conducting their campaigns for espionage purposes.\n\nWe believe this group is previously unidentified and therefore have we have dubbed it “Rancor”. The Rancor group’s attacks use two primary malware families which we describe in depth later in this blog and are naming DDKONG and PLAINTEE. DDKONG is used throughout the campaign and PLAINTEE appears to be new addition to these attackers’ toolkit.\n\nKaspersky found connections between this group and 'DragonOK'."
   },
   {
     "mitre_attack_id": "intrusion-set--44102191-3a31-45f8-acbe-34bdb441d5ad",
@@ -6859,7 +6945,8 @@
       "T1518.001"
     ],
     "merged_name": "Rocke, Iron Group",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rocke.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Rocke.json",
+    "etda_description": "(Talos) This threat actor initially came to our attention in April 2018, leveraging both Western and Chinese Git repositories to deliver malware to honeypot systems vulnerable to an Apache Struts vulnerability.\n\nIn late July, we became aware that the same actor was engaged in another similar campaign. Through our investigation into this new campaign, we were able to uncover more details about the actor."
   },
   {
     "mitre_attack_id": "intrusion-set--381fcf73-60f6-4ab2-9991-6af3cbc35192",
@@ -6990,7 +7077,8 @@
       "T1136"
     ],
     "merged_name": "Sandworm Team, ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, VOODOO BEAR, Sandworm, Iron Viking, CTG-7263, Voodoo Bear, TEMP.Noble, ATK 14, BE2, UAC-0082",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sandworm%20Team.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sandworm%20Team.json",
+    "etda_description": "Sandworm Team is a Russian cyberespionage group that has operated since approximately 2009. The group likely consists of Russian pro-hacktivists. Sandworm Team targets mainly Ukrainian entities associated with energy, industrial control systems, SCADA, government, and media. Sandworm Team has been linked to the Ukrainian energy sector attack in late 2015.\n\nThis group appears to be closely associated with, or evolved into, 'TeleBots'."
   },
   {
     "mitre_attack_id": "intrusion-set--c5574ca0-d5a4-490a-b207-e4658e5fd1d7",
@@ -7022,7 +7110,8 @@
       "T1036.002"
     ],
     "merged_name": "Scarlet Mimic",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Scarlet%20Mimic.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Scarlet%20Mimic.json",
+    "etda_description": "Scarlet Mimic is a threat group that has targeted minority rights activists. This group has not been directly linked to a government source, but the group’s motivations appear to overlap with those of the Chinese government. While there is some overlap between IP addresses used by Scarlet Mimic and 'Putter Panda, APT 2', it has not been concluded that the groups are the same.\n\n(Palo Alto) The attacks began over four years ago and their targeting pattern suggests that this adversary’s primary mission is to gather information about minority rights activists. We do not have evidence directly linking these attacks to a government source, but the information derived from these activities supports an assessment that a group or groups with motivations similar to the stated position of the Chinese government in relation to these targets is involved.\n\nThe attacks we attribute to Scarlet Mimic have primarily targeted Uyghur and Tibetan activists as well as those who are interested in their causes. Both the Tibetan community and the Uyghurs, a Turkic Muslim minority residing primarily in northwest China, have been targets of multiple sophisticated attacks in the past decade. Both also have history of strained relationships with the government of the People’s Republic of China (PRC), though we do not have evidence that links Scarlet Mimic attacks to the PRC.\n\nScarlet Mimic attacks have also been identified against government organizations in Russia and India, who are responsible for tracking activist and terrorist activities. While we do not know the precise target of each of the Scarlet Mimic attacks, many of them align to the patterns described above."
   },
   {
     "mitre_attack_id": "intrusion-set--3fc023b2-c5cc-481d-9c3e-70141ae1a87e",
@@ -7095,7 +7184,8 @@
       "T1020"
     ],
     "merged_name": "Sidewinder, T-APT-04, Rattlesnake, SideWinder, APT-C-17",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sidewinder.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sidewinder.json",
+    "etda_description": "(Kaspersky) An actor mainly targeting Pakistan military targets, active since at least 2012. We have low confidence that this malware might be authored by an Indian company. To spread the malware, they use unique implementations to leverage the exploits of known vulnerabilities (such as CVE-2017-11882) and later deploy a Powershell payload in the final stages."
   },
   {
     "mitre_attack_id": "intrusion-set--d13c8a7f-740b-4efa-a232-de7d6bb05321",
@@ -7226,7 +7316,8 @@
       "T1571"
     ],
     "merged_name": "Silence, WHISPER SPIDER, Contract Crew, Whisper Spider, TEMP.TruthTeller, ATK 86, TAG-CR8",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silence.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silence.json",
+    "etda_description": "(Group-IB) Group-IB has exposed the attacks committed by Silence cybercriminal group. While the gang had previously targeted Russian banks, Group-IB experts also have discovered evidence of the group’s activity in more than 25 countries worldwide. Group-IB has published its first detailed report on tactics and tools employed by Silence. Group-IB security analysts’ hypothesis is that at least one of the gang members appears to be a former or current employee of a cyber security company. The confirmed damage from Silence activity is estimated at 800 000 USD.\n\nSilence is a group of Russian-speaking hackers, based on their commands language, the location of infrastructure they used, and the geography of their targets (Russia, Ukraine, Belarus, Azerbaijan, Poland, and Kazakhstan). Although phishing emails were also sent to bank employees in Central and Western Europe, Africa, and Asia). Furthermore, Silence used Russian words typed on an English keyboard layout for the commands of the employed backdoor. The hackers also used Russian-language web hosting services.\n\nGroup-IB found several relationships between Silence and 'TA505, Graceful Spider, Gold Evergreen'."
   },
   {
     "mitre_attack_id": "intrusion-set--90784c1e-4aba-40eb-9adf-7556235e6384",
@@ -7286,7 +7377,8 @@
       "T1588.002"
     ],
     "merged_name": "Silent Librarian, TA407, COBALT DICKENS, Mabna Institute, Cobalt Dickens, Yellow Nabu, TA4900",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silent%20Librarian.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Silent%20Librarian.json",
+    "etda_description": "According to the Treasury Department, since 2013, the Mabna Institute hit 144 US universities and 176 universities in 21 foreign countries.\n\nGeoffrey Berman, US Attorney for the Southern District of New York revealed that the spear phishing campaign targeted more than 100,000 university professors worldwide and about 8,000 accounts were compromised.\n\nThe Iranian hackers exfiltrated 31 terabytes, roughly 15 billion pages of academic projects were stolen.\n\nThe hackers also targeted the US Department of Labor, the US Federal Energy Regulatory Commission, and many private and non-governmental organizations.\n\nThe sanctions also hit the Mabna Institute, an Iran-based company that had a critical role in coordinating the attacks on behalf of Iran’s Revolutionary Guards.\n\nAlso see 'Shadow Academy'."
   },
   {
     "mitre_attack_id": "intrusion-set--d1acfbb3-647b-4723-9154-800ec119006e",
@@ -7331,7 +7423,8 @@
       "T1036.005"
     ],
     "merged_name": "Sowbug",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sowbug.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Sowbug.json",
+    "etda_description": "(Symantec) Symantec has identified a previously unknown group called Sowbug that has been conducting highly targeted cyberattacks against organizations in South America and Southeast Asia and appears to be heavily focused on foreign policy institutions and diplomatic targets. Sowbug has been seen mounting classic espionage attacks by stealing documents from the organizations it infiltrates.\n\nSymantec saw the first evidence of Sowbug-related activity with the discovery in March 2017 of an entirely new piece of malware called Felismus used against a target in Southeast Asia.  We have subsequently identified further victims on both sides of the Pacific Ocean. While the Felismus tool was first identified in March of this year, its association with Sowbug was unknown until now. Symantec has also been able to connect earlier attack campaigns with Sowbug, demonstrating that it has been active since at least early-2015 and may have been operating even earlier.\n\nTo date, Sowbug appears to be focused mainly on government entities in South America and Southeast Asia and has infiltrated organizations in Argentina, Brazil, Ecuador, Peru, Brunei and Malaysia. The group is well resourced, capable of infiltrating multiple targets simultaneously and will often operate outside the working hours of targeted organizations in order to maintain a low profile."
   },
   {
     "mitre_attack_id": "intrusion-set--894aab42-3371-47b1-8859-a4a074c804c8",
@@ -7384,7 +7477,8 @@
       "T1005"
     ],
     "merged_name": "Stealth Falcon, FruityArmor, Project Raven",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Stealth%20Falcon.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Stealth%20Falcon.json",
+    "etda_description": "(Citizen Lab) This report describes a campaign of targeted spyware attacks carried out by a sophisticated operator, which we call Stealth Falcon. The attacks have been conducted from 2012 until the present, against Emirati journalists, activists, and dissidents. We discovered this campaign when an individual purporting to be from an apparently fictitious organization called “The Right to Fight” contacted Rori Donaghy. Donaghy, a UK-based journalist and founder of the Emirates Center for Human Rights, received a spyware-laden email in November 2015, purporting to offer him a position on a human rights panel. Donaghy has written critically of the United Arab Emirates (UAE) government in the past, and had recently published a series of articles based on leaked emails involving members of the UAE government.\n\nCircumstantial evidence suggests a link between Stealth Falcon and the UAE government. We traced digital artifacts used in this campaign to links sent from an activist’s Twitter account in December 2012, a period when it appears to have been under government control. We also identified other bait content employed by this threat actor. We found 31 public tweets sent by Stealth Falcon, 30 of which were directly targeted at one of 27 victims. Of the 27 targets, 24 were obviously linked to the UAE, based on their profile information (e.g., photos, “UAE” in account name, location), and at least six targets appeared to be operated by people who were arrested, sought for arrest, or convicted in absentia by the UAE government, in relation to their Twitter activity."
   },
   {
     "mitre_attack_id": "intrusion-set--277d2f87-2ae5-4730-a3aa-50c1fdff9656",
@@ -7429,7 +7523,8 @@
       "T1564.005"
     ],
     "merged_name": "Strider, ProjectSauron",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Strider.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Strider.json",
+    "etda_description": "(Symantec) Strider has been active since at least October 2011. The group has maintained a low profile until now and its targets have been mainly organizations and individuals that would be of interest to a nation state’s intelligence services. Symantec obtained a sample of the group’s Remsec malware from a customer who submitted it following its detection by our behavioral engine.\n\nRemsec is primarily designed to spy on targets. It opens a back door on an infected computer, can log keystrokes, and steal files.\n\nStrider has been highly selective in its choice of targets and, to date, Symantec has found evidence of infections in 36 computers across seven separate organizations. The group’s targets include a number of organizations and individuals located in Russia, an airline in China, an organization in Sweden, and an embassy in Belgium."
   },
   {
     "mitre_attack_id": "intrusion-set--5cbe0d3b-6fb1-471f-b591-4b192915116d",
@@ -7470,7 +7565,8 @@
       "T1003"
     ],
     "merged_name": "Suckfly",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Suckfly.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Suckfly.json",
+    "etda_description": "(Symantec) In March 2016, Symantec published a blog on Suckfly, an advanced cyberespionage group that conducted attacks against a number of South Korean organizations to steal digital certificates. Since then we have identified a number of attacks over a two-year period, beginning in April 2014, which we attribute to Suckfly. The attacks targeted high-profile targets, including government and commercial organizations. These attacks occurred in several different countries, but our investigation revealed that the primary targets were individuals and organizations primarily located in India.\n\nWhile there have been several Suckfly campaigns that infected organizations with the group’s custom malware Backdoor.Nidiran, the Indian targets show a greater amount of post-infection activity than targets in other regions. This suggests that these attacks were part of a planned operation against specific targets in India."
   },
   {
     "mitre_attack_id": "intrusion-set--62a64fd3-aaf7-4d09-a375-d6f8bb118481",
@@ -7509,7 +7605,8 @@
       "T1203"
     ],
     "merged_name": "TA459",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA459.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA459.json",
+    "etda_description": "(Proofpoint) On April 20 [2017], Proofpoint observed a targeted campaign focused on financial analysts working at top global financial firms operating in Russia and neighboring countries. These analysts were linked by their coverage of the telecommunications industry, making this targeting very similar to, and likely a continuation of, activity described in our “In Pursuit of Optical Fibers and Troop Intel” blog. This time, however, attackers opportunistically used spear-phishing emails with a Microsoft Word attachment exploiting the recently patched CVE-2017-0199 to deploy the ZeroT Trojan, which in turn downloaded the PlugX Remote Access Trojan (RAT).\n\nProofpoint is tracking this attacker, believed to operate out of China, as TA459. The actor typically targets Central Asian countries, Russia, Belarus, Mongolia, and others. TA549 possesses a diverse malware arsenal including PlugX, NetTraveler, and ZeroT."
   },
   {
     "mitre_attack_id": "intrusion-set--7eda3dd8-b09b-4705-8090-c2ad9fb8c14d",
@@ -7581,7 +7678,8 @@
       "T1069"
     ],
     "merged_name": "TA505, Hive0065, Graceful Spider, Gold Evergreen, Gold Tahoe, TEMP.Warlock, ATK 103, SectorJ04, Chimborazo, Operation “Trident Breach”, Operation “Tovar”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA505.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA505.json",
+    "etda_description": "(Proofpoint) Proofpoint researchers track a wide range of threat actors involved in both financially motivated cybercrime and state-sponsored actions. One of the more prolific actors that we track – referred to as TA505 – is responsible for the largest malicious spam campaigns we have ever observed, distributing instances of the Dridex banking Trojan, Locky ransomware, Jaff ransomware, The Trick banking Trojan, and several others in very high volumes.\n\nBecause TA505 is such a significant part of the email threat landscape, this blog provides a retrospective on the shifting malware, payloads, and campaigns associated with this actor. We examine their use malware such as Jaff, Bart, and Rockloader that appear to be exclusive to this group as well as more widely distributed malware like Dridex and Pony. Where possible, we detail the affiliate models with which they are involved and outline the current state of TA505 campaigns.\n\nTA505 is arguably one of the most significant financially motivated threat actors because of the extraordinary volumes of messages they send. The variety of malware delivered by the group also demonstrates their deep connections to the underground malware scene. At the time of writing, Locky ransomware remains their malware of choice, even as the group continues to experiment with a variety of additional malware.\n\nMuch of the malware from TA505 has been observed to be distributed using 'Avalanche', Cutwail (operated by 'Narwhal Spider'), Necurs (operated by 'Monty Spider') and Emotet (operated by 'Mummy Spider, TA542').\n\nTA505 also has some infrastructure overlap with 'Buhtrap, Ratopak Spider' and Group-IB found several relationships with 'Silence, Contract Crew'.\n\nThe Dridex development appears to have been done by a subgroup named 'Indrik Spider' and, by extension, 'Doppel Spider'.\n\nSee also: 'Dungeon Spider' and 'FIN11'."
   },
   {
     "mitre_attack_id": "intrusion-set--94873029-f950-4268-9cfd-5032e15cb182",
@@ -7630,7 +7728,8 @@
       "T1027.003"
     ],
     "merged_name": "TA551, GOLD CABIN, Shathak, Gold Cabin",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA551.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TA551.json",
+    "etda_description": "(Palo Alto) TA551 (also known as Shathak) is an email-based malware distribution campaign that often targets English-speaking victims. The campaign discussed in this blog has targeted German, Italian and Japanese speakers. TA551 has historically pushed different families of information-stealing malware like Ursnif and Valak. After mid-July 2020, this campaign has exclusively pushed IcedID malware, another information stealer."
   },
   {
     "mitre_attack_id": "intrusion-set--9538b1a4-4120-4e2d-bf59-3b11fcab05a4",
@@ -7687,7 +7786,8 @@
       "T1036.005"
     ],
     "merged_name": "TEMP.Veles, XENOTIME, Xenotime, ATK 91",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TEMP.Veles.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/TEMP.Veles.json",
+    "etda_description": "TEMP.Veles is a Russia-based threat group that has targeted critical infrastructure. The group has been observed utilizing TRITON, a malware framework designed to manipulate industrial safety systems."
   },
   {
     "mitre_attack_id": "intrusion-set--59140a2e-d117-4206-9b2c-2a8662bd9d46",
@@ -7724,7 +7824,8 @@
       "T1032"
     ],
     "merged_name": "Taidoor, Budminer",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Taidoor.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Taidoor.json",
+    "etda_description": "(Trend Micro) The Taidoor attackers have been actively engaging in targeted attacks since at least March 4, 2009. Despite some exceptions, the Taidoor campaign often used Taiwanese IP addresses as C&C servers and email addresses to send out socially engineered emails with malware as attachments. One of the primary targets of the Taidoor campaign appeared to be the Taiwanese government. The attackers spoofed Taiwanese government email addresses to send out socially engineered emails in the Chinese language that typically leveraged Taiwan-themed issues. The attackers actively sent out malicious documents and maintained several IP addresses for command and control.\n\nAs part of their social engineering ploy, the Taidoor attackers attach a decoy document to their emails that, when opened, displays the contents of a legitimate document but executes a malicious payload in the background.\n\nWe were only able to gather a limited amount of information regarding the Taidoor attackers’ activities after they have compromised a target. We did, however, find that the Taidoor malware allowed attackers to operate an interactive shell on compromised computers and to upload and download files. In order to determine the operational capabilities of the attackers behind the Taidoor campaign, we monitored a compromised honeypot. The attackers issued out some basic commands in an attempt to map out the extent of the network compromise but quickly realized that the honeypot was not an intended targeted and so promptly disabled the Taidoor malware running on it. This indicated that while Taidoor malware were more widely distributed compared with those tied to other targeted campaigns, the attackers could quickly assess their targets and distinguish these from inadvertently compromised computers and honeypots."
   },
   {
     "mitre_attack_id": "intrusion-set--6688d679-ccdb-4f12-abf6-c7545dd767a4",
@@ -7764,7 +7865,8 @@
       "T1566.001"
     ],
     "merged_name": "The White Company, Operation “Shaheen”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/The%20White%20Company.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/The%20White%20Company.json",
+    "etda_description": "(Cylance) Cylance has determined that Operation Shaheen was an espionage campaign executed over the course of the last year. It was a targeted campaign which appeared to focus on individuals and organizations in Pakistan, specifically the government and the military. Cylance’s window into this campaign, though significant, is not all-encompassing. Indeed, our research revealed evidence that The White Company conducted extensive prior reconnaissance of its targets, and continues to operate largely unnoticed by the security community."
   },
   {
     "mitre_attack_id": "intrusion-set--fb366179-766c-4a4a-afa1-52bff1fd601c",
@@ -7902,7 +8004,8 @@
       "T1608.001"
     ],
     "merged_name": "Threat Group-3390, Earth Smilodon, TG-3390, Emissary Panda, BRONZE UNION, APT27, Iron Tiger, LuckyMouse, APT 27, Bronze Union, TEMP.Hippo, Budworm, Group 35, ATK 15, ZipToken, Operation “Iron Tiger”, Operation “PZChao”, Operation “SpoiledLegacy”, Operation “DRBControl”, Operation “StealthyTrident”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Threat%20Group-3390.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Threat%20Group-3390.json",
+    "etda_description": "Threat Group-3390 is a Chinese threat group that has extensively used strategic Web compromises to target victims. The group has been active since at least 2010 and has targeted organizations in the aerospace, government, defense, technology, energy, and manufacturing sectors.\n\nEmissary Panda has some overlap with 'Turbine Panda, APT 26, Shell Crew, WebMasters, KungFu Kittens' and possibly 'UNC215'.\n\nThis actor worked together with 'TA428' in Operation StealthyTrident."
   },
   {
     "mitre_attack_id": "intrusion-set--d69e568e-9ac8-4c08-b32c-d93b43ba9172",
@@ -7967,7 +8070,8 @@
       "T1219"
     ],
     "merged_name": "Thrip, Lotus Blossom, Spring Dragon, Dragonfish, Billbug, Bronze Elgin, CTG-8171, ATK 1, ATK 78, Operation “Lotus Blossom”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Thrip.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Thrip.json",
+    "etda_description": "(Kaspersky) Spring Dragon is a long running APT actor that operates on a massive scale. The group has been running campaigns, mostly in countries and territories around the South China Sea, since as early as 2012. The main targets of Spring Dragon attacks are high profile governmental organizations and political parties, education institutions such as universities, as well as companies from the telecommunications sector.\n\nSpring Dragon is known for spear phishing and watering hole techniques and some of its tools have previously been analyzed and reported on by security researchers, including Kaspersky Lab.\n\n'Operation Poisoned News, TwoSail Junk' may be one of their campaigns."
   },
   {
     "mitre_attack_id": "intrusion-set--c5b81590-6814-4d2a-8baa-15c4b6c7f960",
@@ -8034,7 +8138,8 @@
       "T1059.006"
     ],
     "merged_name": "Tonto Team, Earth Akhlut, BRONZE HUNTLEY, CactusPete, Karma Panda, HeartBeat, Bronze Huntley, LoneRanger, Operation “Bitter Biscuit”, HartBeat",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tonto%20Team.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tonto%20Team.json",
+    "etda_description": "(Trend Micro) The first HeartBeat campaign remote access tool (RAT) component was discovered in June 2012 in a Korean newspaper company network. Further investigation revealed that the campaign has been actively distributing their RAT component to their targets in 2011 and the first half of 2012. Furthermore, we uncovered one malware component that dates back to November 2009. This indicates that the campaign started during that time or earlier.\n\nThe HeartBeat campaign appears to target government organizations and institutions or communities that are in some way related to the South Korean government. Specifically, we were able to identify the following targets:\n\n• Political parties\n• Media outfits\n• A national policy research institute\n• A military branch of South Korean armed forces\n• A small business sector organization\n• Branches of South Korean government\n\nThe profile of their targets suggests that the motive behind the campaign may be politically motivated.\n\n(Kaspersky) The actor has quite likely relied on much the same codebase and implant variants for the past six years. However these have broadened substantially since 2018. The group spear-phishes its targets, deploys Word and Equation Editor exploits and an appropriated/repackaged 'DarkHotel' VBScript zero-day, delivers modified and compiled unique Mimikatz variants, GSEC and WCE credential stealers, a keylogger, various Escalation of Privilege exploits, various older utilities and an updated set of backdoors, and what appear to be new variants of custom downloader and backdoor modules."
   },
   {
     "mitre_attack_id": "intrusion-set--e44e0985-bc65-4a8f-b578-211c858128e3",
@@ -8124,7 +8229,8 @@
       "T1204.001"
     ],
     "merged_name": "Transparent Tribe, COPPER FIELDSTONE, APT36, Mythic Leopard, ProjectM, APT 36, TEMP.Lapis, Copper Fieldstone, Earth Karkaddan, Operation “Transparent Tribe”, Operation “C-Major”, Operation “Honey Trap”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Transparent%20Tribe.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Transparent%20Tribe.json",
+    "etda_description": "(Proofpoint) Proofpoint researchers recently uncovered evidence of an advanced persistent threat (APT) against Indian diplomatic and military resources. Our investigation began with malicious emails sent to Indian embassies in Saudi Arabia and Kazakstan but turned up connections to watering hole sites focused on Indian military personnel and designed to drop a remote access Trojan (RAT) with a variety of data exfiltration functions. Our analysis shows that many of the campaigns and attacks appear related by common IOCs, vectors, payloads, and language, but the exact nature and attribution associated with this APT remain under investigation.\nAt this time, the background and analysis in this paper provide useful forensics and detail our current thinking on the malware that we have dubbed “MSIL/Crimson”.\n\nTransparent Tribe may be related to 'Gorgon Group'.\n\nTransparant Tribe has been observed to use the Andromeda botnet (operated by 'Andromeda Spider')."
   },
   {
     "mitre_attack_id": "intrusion-set--56319646-eb6e-41fc-ae53-aadfa7adb924",
@@ -8212,7 +8318,8 @@
       "T1106"
     ],
     "merged_name": "Tropic Trooper, Pirate Panda, KeyBoy, APT 23, Iron, Bronze Hobart, Earth Centaur, Operation “Tropic Trooper”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tropic%20Trooper.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Tropic%20Trooper.json",
+    "etda_description": "Tropic Trooper is an unaffiliated threat group that has led targeted campaigns against targets in Taiwan, the Philippines, and Hong Kong. Tropic Trooper focuses on targeting government, healthcare, transportation, and high-tech industries and has been active since 2011."
   },
   {
     "mitre_attack_id": "intrusion-set--7a19ecb1-3c65-4de3-a230-993516aed6a6",
@@ -8411,7 +8518,8 @@
       "T1547.004"
     ],
     "merged_name": "Turla, IRON HUNTER, Group 88, Belugasturgeon, Waterbug, WhiteBear, VENOMOUS BEAR, Snake, Krypton, Venomous Bear, SIG2, SIG15, SIG23, Iron Hunter, CTG-8875, Pacifier APT, ATK 13, ITG12, Makersmark, Popeye, Wraith, TAG-0530, Operation “Moonlight Maze”, Operation “Epic Turla”, Operation “Penguin Turla”, Operation “Satellite Turla”, Operation “WITCHCOVEN”, Operation “Skipper Turla”, Operation “Turla Mosquito”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Turla.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Turla.json",
+    "etda_description": "Turla is a Russian-based threat group that has infected victims in over 45 countries, spanning a range of industries including government, embassies, military, education, research and pharmaceutical companies since 2004. Heightened activity was seen in mid-2015. Turla is known for conducting watering hole and spear-phishing campaigns and leveraging in-house tools and malware. Turla’s espionage platform is mainly used against Windows machines, but has also been seen used against macOS and Linux machines."
   },
   {
     "mitre_attack_id": "intrusion-set--dc5e2999-ca1a-47d4-8d12-a6984b138a1b",
@@ -8571,7 +8679,8 @@
       "T1550"
     ],
     "merged_name": "UNC2452, NOBELIUM, StellarParticle, Dark Halo, APT 29, Cozy Bear, The Dukes, Group 100, Yttrium, Iron Hemlock, Minidionis, CloudLook, ATK 7, ITG11, Grizzly Steppe, SolarStorm, Nobelium, Iron Ritual, Cloaked Ursa, Operation “Ghost”, Operation “Office monkeys”, Operation “StellarParticle”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/UNC2452.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/UNC2452.json",
+    "etda_description": "(F-Secure) The Dukes are a well-resourced, highly dedicated and organized cyberespionage group that we believe has been working for the Russian Federation since at least 2008 to collect intelligence in support of foreign and security policy decision-making.\n\nThe Dukes primarily target Western governments and related organizations, such as government ministries and agencies, political think tanks, and governmental subcontractors. Their targets have also included the governments of members of the Commonwealth of Independent States; Asian, African, and Middle Eastern governments; organizations associated with Chechen extremism; and Russian speakers engaged in the illicit trade of controlled substances and drugs.\n\nThe Dukes are known to employ a vast arsenal of malware toolsets, which we identify as MiniDuke, CosmicDuke, OnionDuke, CozyDuke, CloudDuke, SeaDuke, HammerDuke, PinchDuke, and GeminiDuke. In recent years, the Dukes have engaged in apparently biannual large-scale spear-phishing campaigns against hundreds or even thousands of recipients associated with governmental institutions and affiliated organizations.\n\nThese campaigns utilize a smash-and-grab approach involving a fast but noisy break-in followed by the rapid collection and exfiltration of as much data as possible. If the compromised target is discovered to be of value, the Dukes will quickly switch the toolset used and move to using stealthier tactics focused on persistent compromise and long-term intelligence gathering.\n\nIn addition to these large-scale campaigns, the Dukes continuously and concurrently engage in smaller, much more targeted campaigns, utilizing different toolsets. These targeted campaigns have been going on for at least 7 years. The targets and timing of these campaigns appear to align with the known foreign and security policy interests of the Russian Federation at those times."
   },
   {
     "mitre_attack_id": "intrusion-set--b2e34388-6938-4c59-a702-80dc219e15e3",
@@ -8619,7 +8728,8 @@
       "T1595.003"
     ],
     "merged_name": "Volatile Cedar, Lebanese Cedar, Dancing Salome",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Volatile%20Cedar.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Volatile%20Cedar.json",
+    "etda_description": "(Check Point) Beginning in late 2012, the carefully orchestrated attack campaign we call Volatile Cedar has been targeting individuals, companies and institutions worldwide. This campaign, led by a persistent attacker group, has successfully penetrated a large number of targets using various attack techniques, and specifically, a custom-made malware implant codenamed Explosive. This report provides an extended technical analysis of Volatile Cedar and the Explosive malware.\n\nWe have seen clear evidence that Volatile Cedar has been active for almost 3 years. While many of the technical aspects of the threat are not considered “cutting edge”, the campaign has been continually and successfully operational throughout this entire timeline, evading detection by the majority of AV products. This success is due to a well-planned and carefully managed operation that constantly monitors its victims’ actions and rapidly responds to detection incidents."
   },
   {
     "mitre_attack_id": "intrusion-set--b74f909f-8e52-4b69-b770-162bf59a1b4e",
@@ -8678,7 +8788,8 @@
       "T1574.001"
     ],
     "merged_name": "Whitefly, Mofang, TEMP.Mimic, Bronze Walker, ATK 83, SectorM04, Superman",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Whitefly.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Whitefly.json",
+    "etda_description": "(Fox-IT) Mofang is a threat actor that almost certainly operates out of China and is probably government-affiliated. It is highly likely that Mofang’s targets are selected based on involvement with investments, or technological advances that could be perceived as a threat to the Chinese sphere of influence. This is most clearly the case in a campaign focusing on government and critical infrastructure of Myanmar that is described in this report. Chances are about even, though, that Mofang is a relevant threat actor to any organization that invests in Myanmar or is otherwise politically involved. In addition to the campaign in Myanmar, Mofang has been observed to attack targets across multiple sectors (government, military, critical infrastructure and the automotive and weapon industries) in multiple countries."
   },
   {
     "mitre_attack_id": "intrusion-set--afec6dc3-a18e-4b62-b1a4-5510e1a498d1",
@@ -8729,7 +8840,8 @@
       "T1033"
     ],
     "merged_name": "Windshift, Bahamut, WindShift",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Windshift.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Windshift.json",
+    "etda_description": "(Palo Alto) In August of 2018, DarkMatter released a report entitled “In the Trails of WindShift APT”, which unveiled a threat actor with TTPs very similar to those of 'Bahamut'. Subsequently, two additional articles were released by Objective-See which provide an analysis of some validated WindShift samples targeting OSX systems. Pivoting on specific file attributes and infrastructure indicators, Unit 42 was able to identify and correlate additional attacker activity and can now provide specific details on a targeted WindShift attack as it unfolded at a Middle Eastern government agency."
   },
   {
     "mitre_attack_id": "intrusion-set--c5947e1c-1cbc-434c-94b8-27c7e3be0fff",
@@ -8792,7 +8904,8 @@
       "T1014"
     ],
     "merged_name": "Winnti Group, Blackfly, Wicked Panda",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Winnti%20Group.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Winnti%20Group.json",
+    "etda_description": "Winnti Group is a threat group with Chinese origins that has been active since at least 2010. The group has heavily targeted the gaming industry, but it has also expanded the scope of its targeting. Some reporting suggests a number of other groups, including 'APT 41', 'Axiom, Group 72', 'APT 17, Deputy Dog, Elderwood, Sneaky Panda', and 'Ke3chang, Vixen Panda, APT 15, GREF, Playful Dragon', are closely linked to or overlap with Winnti Group.\n\n(Trend Micro) The group behind the Winnti malware (which we will call the Winnti group for brevity) sprung up as a band of traditional cyber crooks, comprising black hats whose technical skills were employed to perpetrate financial fraud. Based on the use of domain names they registered, the group started out in the business of fake/rogue anti-virus products in 2007. In 2009, the Winnti group shifted to targeting gaming companies in South Korea using a self-named data- and file-stealing malware.\n\nThe group, which was primarily motivated by profit, is noted for utilizing self-developed technically-proficient tools for their attacks. They once attacked a game server to illicitly farm in-game currency (“gaming gold”, which also has real-world value) and stole source codes of online game projects. The group also engaged in the theft of digital certificates which they then used to sign their malware to make them stealthier. The Winnti group diversified its targets to include enterprises such as those in pharmaceutics and telecommunications. The group has since earned infamy for being involved in malicious activities associated with targeted attacks, such as deploying spear-phishing campaigns and building a backdoor."
   },
   {
     "mitre_attack_id": "intrusion-set--dd2d9ca6-505b-4860-a604-233685b802c7",
@@ -8883,7 +8996,8 @@
       "T1055.001"
     ],
     "merged_name": "Wizard Spider, UNC1878, TEMP.MixMaster, Grim Spider, Gold Blackburn, Gold Ulrick, ITG23, Operation “BazaFlix”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Wizard%20Spider.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/Wizard%20Spider.json",
+    "etda_description": "Wizard Spider is reportedly associated with 'Lunar Spider'.\n\n(Crowdstrike) The Wizard Spider threat group is the Russia-based operator of the TrickBot banking malware. This group represents a growing criminal enterprise of which Grim Spider appears to be a subset. The Lunar Spider threat group is the Eastern European-based operator and developer of the commodity banking malware called BokBot (aka IcedID), which was first observed in April 2017. The BokBot malware provides Lunar Spider affiliates with a variety of capabilities to enable credential theft and wire fraud, through the use of webinjects and a malware distribution function.\n\nDyre has been observed to be distributed by Cutwail (operated by 'Narwhal Spider'), as well as their own botnets Gophe and Upatre.\n\nTrickBot has been observed to be distributed via Emotet (operated by 'Mummy Spider, TA542'), BokBot (operated by 'Lunar Spider'), Smoke Loader (operated by 'Smoky Spider'), DanaBot (operated by 'Scully Spider, TA547'), Kelihos (operated by 'Zombie Spider'), Necurs (operated by 'Monty Spider') and Taurus Loader (operated by 'Venom Spider, Golden Chickens'), as well as their own botnet Gophe."
   },
   {
     "mitre_attack_id": "intrusion-set--4283ae19-69c7-4347-a35e-b56f08eb660b",
@@ -8952,7 +9066,8 @@
       "T1555.003"
     ],
     "merged_name": "ZIRCONIUM, APT31, APT 31, Judgment Panda, Zirconium, RedBravo, Bronze Vinewood, TA412",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/ZIRCONIUM.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/ZIRCONIUM.json",
+    "etda_description": "FireEye characterizes APT31 as an actor specialized on intellectual property theft, focusing on data and projects that make a particular organization competetive in its field. Based on available data (April 2016), FireEye assesses that APT31 conducts network operations at the behest of the Chinese Government.\n\nAlso see 'Hafnium'."
   },
   {
     "mitre_attack_id": "intrusion-set--16ade1aa-0ea1-4bb7-88cc-9079df2ae756",
@@ -9003,7 +9118,8 @@
       "T1059.003"
     ],
     "merged_name": "admin@338, Temper Panda, Team338, Magnesium",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/admin@338.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/admin@338.json",
+    "etda_description": "(FireEye) The threat group has previously used newsworthy events as lures to deliver malware. They have largely targeted organizations involved in financial, economic and trade policy, typically using publicly available RATs such as Poison Ivy, as well some non-public backdoors.\n\nThe group started targeting Hong Kong media companies, probably in response to political and economic challenges in Hong Kong and China. The threat group’s latest activity coincided with the announcement of criminal charges against democracy activists. During the past 12 months, Chinese authorities have faced several challenges, including large-scale protests in Hong Kong in late 2014, the precipitous decline in the stock market in mid-2015, and the massive industrial explosion in Tianjin in August 2015. In Hong Kong, the pro-democracy movement persists, and the government recently denied a professor a post because of his links to a pro-democracy leader."
   },
   {
     "mitre_attack_id": "intrusion-set--222fbd21-fc4f-4b7e-9f85-0e6e3a76c33f",
@@ -9148,6 +9264,7 @@
       "T1588.002"
     ],
     "merged_name": "menuPass, Cicada, POTASSIUM, Stone Panda, APT10, Red Apollo, CVNX, HOGFISH, APT 10, menuPass Team, Potassium, Hogfish, Happyyongzi, Bronze Riverside, CTG-5938, ATK 41, TA429, ITG01, Operation “Cloud Hopper”, Operation “TradeSecret”, Operation “ChessMaster”, Operation “Soft Cell”, Operation “New Battle”, Operation “A41APT”, Operation “Cache Panda”",
-    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/menuPass.json"
+    "heatmap_url": "https://raw.githubusercontent.com/tropChaud/Categorized-Adversary-TTPs/main/docs/heatmaps/all_adversaries/menuPass.json",
+    "etda_description": "menuPass is a threat group that appears to originate from China and has been active since approximately 2009. The group has targeted healthcare, defense, aerospace, and government sectors, and has targeted Japanese victims since at least 2014. In 2016 and 2017, the group targeted managed IT service providers, manufacturing and mining companies, and a university.\n\nAlso see 'Twisted Panda'."
   }
 ]
