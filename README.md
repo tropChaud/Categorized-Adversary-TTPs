@@ -8,7 +8,7 @@
 
 [![Cyber Adversary Threat Modeling with Quick TTP Heatmaps | ATT&CK x ThaiCERT Actors & Malware](https://img.youtube.com/vi/aZtxGQUy2AI/0.jpg)](https://www.youtube.com/watch?v=aZtxGQUy2AI "Cyber Adversary Threat Modeling with Quick TTP Heatmaps | ATT&CK x ThaiCERT Actors & Malware")
 
-This is a (work in progress) partial merge of two powerful cyber adversary datasets, to capitalize on each one's strengths: [MITRE ATT&CK](https://attack.mitre.org/) and its **Group-to-TTP linkages**; and [ETDA/ThaiCERT](https://apt.etda.or.th/cgi-bin/aptgroups.cgi)'s Threat Group Cards and their **structured "metadata" fields**, containing supporting details about real-world cyber threat activity, such as victim industry & country and suspected attacker country & motivation.
+This repository represents a merge of two powerful cyber adversary datasets, in order to capitalize on each one's strengths: [MITRE ATT&CK](https://attack.mitre.org/) and its **Group-to-TTP linkages**; and [ETDA/ThaiCERT](https://apt.etda.or.th/cgi-bin/aptgroups.cgi)'s Threat Group Cards and their **structured "metadata" fields**, containing supporting details about real-world cyber threat activity, such as victim industry & country and suspected attacker country & motivation.
 
 Anecdotally, ThaiCERT's repository is less well-known yet it contains a wealth of useful - and importantly, structured, cyber threat event metadata. Among many other data points, the repository contains **400+ named adversary groups** and event metadata covering:
 
